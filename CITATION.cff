@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+type: dataset
+title: '臨診醫案抄之三（柏林 Slg. Unschuld 8373） / Lin zhen yi an chao zhi san [Hand-copied
+  medical cases with clinical diagnosis III]: Transcription Dataset'
+version: 0.1.0
+message: Please cite this dataset version and source copy.
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+date-released: '2026-11-22'
+repository-code: https://github.com/poplolioi11/sbb-unschuld-8373-linzhen-yian-chao-3
+keywords:
+- 臨診醫案抄之三
+- 漢文醫案
+- 清代手稿
+- 個別病例
+- 追診
+- Slg. Unschuld 8373
+- clinical case records
+- Qing medical manuscripts
+- medical history
+- manuscript annotations

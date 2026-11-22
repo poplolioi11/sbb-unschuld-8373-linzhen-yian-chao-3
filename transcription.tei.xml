@@ -1,0 +1,1491 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>臨診醫案抄之三（柏林 Slg. Unschuld 8373） / Lin zhen yi an chao zhi san [Hand-copied medical cases with clinical diagnosis III]: Transcription Dataset</title>
+        <respStmt>
+          <resp>Transcription dataset editor</resp>
+          <persName ref="https://orcid.org/0009-0003-9738-6914">Chu, Chen-Yu</persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>0.1.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>2026-11-22. AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Slg. Unschuld 8373 <ref target="https://resolver.staatsbibliothek-berlin.de/SBB000355D200000000">Source catalogue</ref>
+        </p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="lzh">Literary Chinese</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0001/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f001-c01" xml:id="u-f001-c01">松〔豐巖〕右</ab>
+          <ab type="body" n="f001-c02" xml:id="u-f001-c02">瘧來在暮三日一作脘淡且膩脉有秋令</ab>
+          <ab type="body" n="f001-c03" xml:id="u-f001-c03">按脉弦細治以疏解法</ab>
+          <ab type="formula" n="f001-c04" xml:id="u-f001-c04">炒柴胡八〔銀花〕三炒淡苓三</ab>
+          <ab type="formula" n="f001-c05" xml:id="u-f001-c05">炙甘草三法半夏三全白芍三</ab>
+          <ab type="formula" n="f001-c06" xml:id="u-f001-c06">炒當歸三炒澤瀉三茯苓三</ab>
+          <ab type="formula" n="f001-c07" xml:id="u-f001-c07">加白蔻仁半細川斛三</ab>
+          <ab type="annotation" n="f001-a01" xml:id="u-f001-a01">〔本年月十四日按〕</ab>
+          <note type="editorial">正面七個主要縱列，首列稱謂後留空且有窄長破孔；上下及左緣可見疊葉，左外殘墨未併入本葉。</note>
+          <note type="editorial">左下淡朱方印輪廓及內線，印文待辨。</note>
+          <note type="editorial">右上首列背後較淡的朱色痕跡；可能與套印或污漬重疊。</note>
+        </div>
+      </div>
+      <div n="2" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0002/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">反面。左外窄條為露出的鄰頁，黑筆只露一側；中央紙面筆跡以翻轉後與001相合。</note>
+          <note type="editorial">翻面左右互換後，「按脉弦細治以疏解法」與左側方藥欄位置及筆畫相合；朱痕暈散仍可見。</note>
+          <note type="editorial">葉面上部兩短黑點無法明確與001對位；形不足成字，保留位置待查。本葉暫未分出獨立正向欄。</note>
+        </div>
+      </div>
+      <div n="3" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0003/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f003-c01" xml:id="u-f003-c01">丁左</ab>
+          <ab type="body" n="f003-c02" xml:id="u-f003-c02">形寒身熱畏風納呆秋令脘膩左</ab>
+          <ab type="body" n="f003-c03" xml:id="u-f003-c03">黄脉弦治以疏泄</ab>
+          <ab type="formula" n="f003-c04" xml:id="u-f003-c04">霍〔藿〕葉一方荆芥穗三茯苓三</ab>
+          <ab type="formula" n="f003-c05" xml:id="u-f003-c05">茅术連翹各三象貝母三</ab>
+          <ab type="formula" n="f003-c06" xml:id="u-f003-c06">香防風三黑山梔三大豆卷三</ab>
+          <ab type="formula" n="f003-c07" xml:id="u-f003-c07">加枇杷葉三錢炒淡苓三</ab>
+          <ab type="annotation" n="f003-a01" xml:id="u-f003-a01">一〔服〕□□</ab>
+          <ab type="annotation" n="f003-a02" xml:id="u-f003-a02">去毛</ab>
+          <note type="editorial">正面七列；右緣有狹長對葉覆入本葉。右首下半靠縫散墨僅錄可辨字，其餘露邊與對頁分層。</note>
+        </div>
+      </div>
+      <div n="4" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0004/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">反面。左縫邊露出相鄰紙面，清晰截筆只在本葉之外。</note>
+          <note type="editorial">與003翻面後可見同一列「形寒身熱畏風納呆」、「黄脉弦治以疏泄」、「枇杷」等字的左右位置與筆走；未分出獨立正向欄。</note>
+        </div>
+      </div>
+      <div n="5" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0005/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f005-c01" xml:id="u-f005-c01">〔喬〕□</ab>
+          <ab type="body" n="f005-c02" xml:id="u-f005-c02">時當夏令形寒身熱溲赤脘痞納</ab>
+          <ab type="body" n="f005-c03" xml:id="u-f005-c03">呆左關脉弦治以疏和</ab>
+          <ab type="formula" n="f005-c04" xml:id="u-f005-c04">川石斛三廣藿梗半生穀芽四</ab>
+          <ab type="formula" n="f005-c05" xml:id="u-f005-c05">炙甘草三炒穀豆三片通草二</ab>
+          <ab type="formula" n="f005-c06" xml:id="u-f005-c06">赤白苓四銀花半炒米仁四</ab>
+          <ab type="formula" n="f005-c07" xml:id="u-f005-c07">加六一散三鮮佛手一分</ab>
+          <ab type="annotation" n="f005-a01" xml:id="u-f005-a01">〔荷〕月初七日</ab>
+          <note type="editorial">正面七列，右緣反面鄰葉覆住首列外側小部分；紅色章在首列及左下。葉左上向內折。</note>
+          <note type="editorial">右上窄長淡朱文印疊稱謂，未釋。</note>
+          <note type="editorial">左下方朱痕上群，重疊欄文，與下方篆印可見不同縱向位置。</note>
+          <note type="editorial">左下方朱篆方印，篆文待辨。</note>
+        </div>
+      </div>
+      <div n="6" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0006/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">反面左縫有鄰頁露邊；本葉右上斜角與005的左上折角位置相對。</note>
+          <note type="editorial">翻轉能核合「時當夏令」一路、川石斛及最外「加六一散」筆勢；朱印區亦同位。無另見本葉清楚正讀新文。</note>
+        </div>
+      </div>
+      <div n="7" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0007/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f007-c01" xml:id="u-f007-c01">包左</ab>
+          <ab type="body" n="f007-c02" xml:id="u-f007-c02">濕熱內滯胸悶不快形寒脘痞</ab>
+          <ab type="body" n="f007-c03" xml:id="u-f007-c03">便溏拒納右關脉弦治以清宣</ab>
+          <ab type="formula" n="f007-c04" xml:id="u-f007-c04">大豆卷三炒穀芽四赤白苓四</ab>
+          <ab type="formula" n="f007-c05" xml:id="u-f007-c05">製小朴分炒豌豆四焦山梔</ab>
+          <ab type="formula" n="f007-c06" xml:id="u-f007-c06">炙青蒿三鮮淡苓半焦苡仁四</ab>
+          <ab type="formula" n="f007-c07" xml:id="u-f007-c07">加荷葉央炒澤瀉半</ab>
+          <ab type="annotation" n="f007-a01" xml:id="u-f007-a01">〔七〕月初□</ab>
+          <note type="editorial">正面右緣縫合，右首署稱旁見朱長印；左中下紅色印群覆於藥欄。</note>
+          <note type="editorial">右上橢長朱印，印文待辨。</note>
+          <note type="editorial">左中紅章狀印跡重壓墨，界緣不齊。</note>
+          <note type="editorial">左下朱方篆印輪廓可辨。</note>
+        </div>
+      </div>
+      <div n="8" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0008/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">反面左縫零見鄰紙截筆。</note>
+          <note type="editorial">翻轉後「包」、「濕熱內滯胸悶」、「便溏拒納」、最外方列與007逐列吻合；下部朱印淡影同位。未分出獨立正向筆列。</note>
+        </div>
+      </div>
+      <div n="9" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0009/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f009-c01" xml:id="u-f009-c01">任□</ab>
+          <ab type="body" n="f009-c02" xml:id="u-f009-c02">三瘧經兩旬方止形削舌白膩脉弦細此</ab>
+          <ab type="body" n="f009-c03" xml:id="u-f009-c03">邪藏陰分守效再進和陰化熱法</ab>
+          <ab type="formula" n="f009-c04" xml:id="u-f009-c04">炒柴胡外陳廣皮半炙米仁半</ab>
+          <ab type="formula" n="f009-c05" xml:id="u-f009-c05">〔旋覆〕三炙鱉甲三建澤瀉三</ab>
+          <ab type="formula" n="f009-c06" xml:id="u-f009-c06">萎蕤四煨草果半炙黄芩四</ab>
+          <ab type="formula" n="f009-c07" xml:id="u-f009-c07">引生姜二片黑大棗二枚</ab>
+          <note type="editorial">正面右首僅見姓字與縫側殘筆，中央病例兩欄，左半為方。左下印群含墨色一方；左下邊不規則斷補。</note>
+          <note type="editorial">右首下部淡朱長印，部分壓於鄰葉邊界。</note>
+          <note type="editorial">左中上朱記二列，與最外「引」墨重疊。</note>
+          <note type="editorial">左下朱記二列，字密，印文待辨。</note>
+          <note type="editorial">左下墨色方篆印，篆文寬列。</note>
+        </div>
+      </div>
+      <div n="10" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0010/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">反面，主葉邊線清楚；左外露有鄰葉一側。</note>
+          <note type="editorial">翻轉與009「三瘧經兩旬」、左處生姜大棗欄及紙左下破角像吻合；朱墨淡痕仍與相對原位重合。</note>
+        </div>
+      </div>
+      <div n="11" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0011/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f011-c01" xml:id="u-f011-c01">〔雷〕□</ab>
+          <ab type="body" n="f011-c02" xml:id="u-f011-c02">身熱有汗胸悶不快便溏拒納口</ab>
+          <ab type="body" n="f011-c03" xml:id="u-f011-c03">渴引飲右關膩脉弦細治以疏泄法</ab>
+          <ab type="formula" n="f011-c04" xml:id="u-f011-c04">大豆卷三淨連翹三川石斛三</ab>
+          <ab type="formula" n="f011-c05" xml:id="u-f011-c05">炙甘草三製川朴分赤白芩四</ab>
+          <ab type="formula" n="f011-c06" xml:id="u-f011-c06">淨銀花三生苡仁四板通草二</ab>
+          <ab type="formula" n="f011-c07" xml:id="u-f011-c07">澤瀉半加六一散三炒穀芽四</ab>
+          <ab type="annotation" n="f011-a01" xml:id="u-f011-a01">〔本月〕□□</ab>
+          <ab type="annotation" n="f011-a02" xml:id="u-f011-a02">荷葉包</ab>
+          <note type="editorial">正面，首列貼右縫。病例二大欄，左部與方藥欄並行；右上朱印與左下多重朱記。</note>
+          <note type="editorial">右首稱位下窄朱印。</note>
+          <note type="editorial">左下最外縱長朱印。</note>
+          <note type="editorial">左下朱字群，與方欄重疊。</note>
+          <note type="editorial">左下朱方篆印。</note>
+        </div>
+      </div>
+      <div n="12" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0012/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">反面。主葉折角與011相反。左窄處深墨在相鄰頁。</note>
+          <note type="editorial">左右翻轉可逐欄核身熱有汗、口渴引飲、銀花與荷葉包等筆；底部花印淡影同位。</note>
+        </div>
+      </div>
+      <div n="13" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0013/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f013-c01" xml:id="u-f013-c01">〔沙〕左</ab>
+          <ab type="body" n="f013-c02" xml:id="u-f013-c02">寒熱日作往來如瘧脉弦細舌苔膩</ab>
+          <ab type="body" n="f013-c03" xml:id="u-f013-c03">渾身遍體痛渴引飲此伏邪寄乎少</ab>
+          <ab type="body" n="f013-c04" xml:id="u-f013-c04">陽所致治宜和解法</ab>
+          <ab type="formula" n="f013-c05" xml:id="u-f013-c05">炙甘草三製川朴分焦米仁四</ab>
+          <ab type="formula" n="f013-c06" xml:id="u-f013-c06">炒枳殼半製半夏半板通草二</ab>
+          <ab type="formula" n="f013-c07" xml:id="u-f013-c07">川羌活分炒澤瀉半焦六麴三</ab>
+          <ab type="formula" n="f013-c08" xml:id="u-f013-c08">炒紫蘇半加白蔻仁半川鬱金半</ab>
+          <ab type="annotation" n="f013-a01" xml:id="u-f013-a01">本□□</ab>
+          <ab type="annotation" n="f013-a02" xml:id="u-f013-a02">杵</ab>
+          <note type="editorial">正面上方有多處缺角、穿孔；右外縫旁的墨近對葉。主要八列，左半方藥與朱印互壓。</note>
+          <note type="editorial">右上稱謂疊朱印，邊緣小部缺失。</note>
+          <note type="editorial">左外下窄長朱印，字形不穩。</note>
+          <note type="editorial">左下朱字塊與墨方欄疊。</note>
+          <note type="editorial">左下朱方篆印，篆文待辨。</note>
+        </div>
+      </div>
+      <div n="14" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0014/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">反面折角、頂緣缺口與013呈左右相對；左緣另頁上較深筆另辨。</note>
+          <note type="editorial">左右翻轉後，右半病例三列、左外白蔻仁與鬱金筆畫及頂缺位置可對；無另分獨立背書。</note>
+        </div>
+      </div>
+      <div n="15" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0015/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f015-c01" xml:id="u-f015-c01">〔朱〕□</ab>
+          <ab type="body" n="f015-c02" xml:id="u-f015-c02">惡寒發熱無汗脉形弦緊舌色淡</ab>
+          <ab type="body" n="f015-c03" xml:id="u-f015-c03">白此係風寒傷肺以疏解法治之</ab>
+          <ab type="formula" n="f015-c04" xml:id="u-f015-c04">冬桑葉半川羌活二苦杏仁三</ab>
+          <ab type="formula" n="f015-c05" xml:id="u-f015-c05">香防風半蘇葉半雲茯苓三</ab>
+          <ab type="formula" n="f015-c06" xml:id="u-f015-c06">炒荆芥三細辛八生甘草三</ab>
+          <ab type="formula" n="f015-c07" xml:id="u-f015-c07">柴胡半玉桔梗八</ab>
+          <ab type="formula" n="f015-c08" xml:id="u-f015-c08">加生姜片</ab>
+          <ab type="annotation" n="f015-a01" xml:id="u-f015-a01">□□</ab>
+          <ab type="annotation" n="f015-a02" xml:id="u-f015-a02">八月初六日診</ab>
+          <note type="editorial">正面右縫狹條含同葉截筆及鄰頁。病例二欄，方藥五欄，日期另位於左下。</note>
+          <note type="editorial">右上淡朱長印和稱位重合。</note>
+          <note type="editorial">左下淡朱字群，分列。</note>
+          <note type="editorial">左下朱方篆印輪廓可別，印文待辨。</note>
+        </div>
+      </div>
+      <div n="16" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0016/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">反面。左縫仍可見對葉零筆；本葉不規則左緣在此轉至右外。</note>
+          <note type="editorial">翻轉後對到「惡寒發熱無汗」「此係風寒傷肺」、中列桑葉與左下「八月初六日診」等筆；暫未分出本葉新文。</note>
+        </div>
+      </div>
+      <div n="17" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0017/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f017-c01" xml:id="u-f017-c01">〔有〕傳根</ab>
+          <ab type="body" n="f017-c02" xml:id="u-f017-c02">形寒身熱頗有秋令脘悶痞拒納</ab>
+          <ab type="body" n="f017-c03" xml:id="u-f017-c03">舌白按脉弦細擬以疏泄</ab>
+          <ab type="formula" n="f017-c04" xml:id="u-f017-c04">霜桑葉半炒淡苓半炒米仁四</ab>
+          <ab type="formula" n="f017-c05" xml:id="u-f017-c05">光杏仁三白茯苓三款冬花二</ab>
+          <ab type="formula" n="f017-c06" xml:id="u-f017-c06">黑山梔三藿梗分真川貝半</ab>
+          <ab type="formula" n="f017-c07" xml:id="u-f017-c07">加通草八分連翹殼三</ab>
+          <ab type="annotation" n="f017-a01" xml:id="u-f017-a01">杏月初二日</ab>
+          <ab type="annotation" n="f017-a02" xml:id="u-f017-a02">後入</ab>
+          <note type="editorial">正面七列，右側相鄰紙緣有露字。上半大片粉紫色片狀暈染，不能見明確字格。</note>
+          <note type="editorial">右上稱謂旁淡朱印殘緣與粉色暈斑疊。</note>
+          <note type="editorial">左下淡朱色縱列片段，印文待釋。</note>
+          <note type="editorial">左下淡朱方印。</note>
+        </div>
+      </div>
+      <div n="18" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0018/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">反面粉紫色斑較顯；對葉露邊在左。明暗兩種視圖檢查本葉。</note>
+          <note type="editorial">翻轉後形寒身熱、霜桑葉、加通草、末列可與017同位逐筆對照；中左細痕也可回指「後入」。未分出獨立正向文。</note>
+        </div>
+      </div>
+      <div n="19" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0019/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f019-c01" xml:id="u-f019-c01">〔許〕一林</ab>
+          <ab type="body" n="f019-c02" xml:id="u-f019-c02">脘痞作脹氣機不宣小溲短赤形寒身</ab>
+          <ab type="body" n="f019-c03" xml:id="u-f019-c03">熱舌色黄膩按脉弦細治以疏中理氣</ab>
+          <ab type="formula" n="f019-c04" xml:id="u-f019-c04">車前子三新會皮半柚橘子二</ab>
+          <ab type="formula" n="f019-c05" xml:id="u-f019-c05">元胡索半大腹皮三白茯苓三</ab>
+          <ab type="formula" n="f019-c06" xml:id="u-f019-c06">紫蘇梗二澤瀉半焦枳殼半</ab>
+          <ab type="formula" n="f019-c07" xml:id="u-f019-c07">加代代花十朶淡竹葉半</ab>
+          <ab type="annotation" n="f019-a01" xml:id="u-f019-a01">杏月□□</ab>
+          <ab type="annotation" n="f019-a02" xml:id="u-f019-a02">後入</ab>
+          <note type="editorial">正面右側窄條對葉入幅，右首稱謂部近縫；上濃粉色暈染與左下朱印另記。</note>
+          <note type="editorial">右上淡朱印殘界。</note>
+          <note type="editorial">左下朱色密列印記，部分和墨方、粉色暈染相疊。</note>
+          <note type="editorial">左下朱方篆印，印文待辨。</note>
+        </div>
+      </div>
+      <div n="20" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0020/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">反面紙面仍見粉紫暈斑，左縫外有對頁。</note>
+          <note type="editorial">左右翻轉核對可循「脘痞作脹氣機不宣」至下部身字、次列按脉弦細，加代代花位置相合；未見可獨立正向文。</note>
+        </div>
+      </div>
+      <div n="21" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0021/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f021-c01" xml:id="u-f021-c01">〔許〕一林</ab>
+          <ab type="body" n="f021-c02" xml:id="u-f021-c02">寒熱日來脘悶腹脹小溲短赤寐不</ab>
+          <ab type="body" n="f021-c03" xml:id="u-f021-c03">着枕按脉細弦治以理氣安神</ab>
+          <ab type="formula" n="f021-c04" xml:id="u-f021-c04">細石斛三紫丹參二夜合花三</ab>
+          <ab type="formula" n="f021-c05" xml:id="u-f021-c05">硃茯神四柏子仁半炙遠志二</ab>
+          <ab type="formula" n="f021-c06" xml:id="u-f021-c06">青葙珠三棗仁二沉香屑八</ab>
+          <ab type="formula" n="f021-c07" xml:id="u-f021-c07">加代代花十朶黑車前子三</ab>
+          <ab type="annotation" n="f021-a01" xml:id="u-f021-a01">杏月初二日</ab>
+          <note type="editorial">正面紙上半大面積粉紫色。右首靠縫稱謂，下細字向外截。左半方列，底方朱印約兩級。</note>
+          <note type="editorial">右上淡朱印暈殘。</note>
+          <note type="editorial">左下朱色列印，內字淡。</note>
+          <note type="editorial">左下朱方篆印。</note>
+        </div>
+      </div>
+      <div n="22" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0022/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">反面相對角呈斜切，左邊縫狹露墨跡。</note>
+          <note type="editorial">翻轉後正面「着枕按脉」「硃茯神」「黑車前子」輪廓與欄序對位，右下有零散紙孔墨點而無法辨正文。</note>
+        </div>
+      </div>
+      <div n="23" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0023/canvas">
+        <div type="surface" n="recto">
+          <ab type="body" n="f023-c01" xml:id="u-f023-c01">肺氣傷而脾失健運胸脇引痛</ab>
+          <ab type="body" n="f023-c02" xml:id="u-f023-c02">脉形右手數大雖正虛先宜清理</ab>
+          <ab type="formula" n="f023-c03" xml:id="u-f023-c03">全桔梗分仙製半夏分川鬱金分</ab>
+          <ab type="formula" n="f023-c04" xml:id="u-f023-c04">光杏仁三炙紫苑分冬瓜子三</ab>
+          <ab type="formula" n="f023-c05" xml:id="u-f023-c05">真川貝三海浮石三橘絡分</ab>
+          <ab type="formula" n="f023-c06" xml:id="u-f023-c06">生蛤壳半加枇杷葉炒淡〔新豆衣〕</ab>
+          <ab type="annotation" n="f023-a01" xml:id="u-f023-a01">〔去毛〕</ab>
+          <ab type="annotation" n="f023-a02" xml:id="u-f023-a02">冬瓜絡三</ab>
+          <note type="editorial">正面，大幅粉紅紙面或暈染。右側有窄對葉，第1病例欄從中上起，下部方藥降格。</note>
+        </div>
+      </div>
+      <div n="24" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0024/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">反面紙色較淡，主葉影像從上到下完整，靠縫左側可見鄰頁黑筆。</note>
+          <note type="editorial">反讀可循肺氣、右手、全桔梗與欄末枇杷筆列，原圖背面左下對應正面最右。未認出獨立書寫。</note>
+        </div>
+      </div>
+      <div n="25" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0025/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f025-c01" xml:id="u-f025-c01">〔方〕</ab>
+          <ab type="body" n="f025-c02" xml:id="u-f025-c02">濕熱內滯脘悶不舒便溏納呆脉</ab>
+          <ab type="body" n="f025-c03" xml:id="u-f025-c03">弦舌黄治以疏和</ab>
+          <ab type="formula" n="f025-c04" xml:id="u-f025-c04">大豆卷三焦白芍三焦穀芽四炒淡芩半</ab>
+          <ab type="formula" n="f025-c05" xml:id="u-f025-c05">製小朴二炒扁豆三焦米仁四滑石末四</ab>
+          <ab type="formula" n="f025-c06" xml:id="u-f025-c06">炙甘草三赤茯苓三炒澤瀉半</ab>
+          <ab type="formula" n="f025-c07" xml:id="u-f025-c07">加荷叶尖焦六麴三</ab>
+          <note type="editorial">右上案頭殘字逼近紙縫，正文二欄，左半四欄藥方。粉紅色染痕及右緣朱痕另記。</note>
+          <note type="editorial">右縫數點朱色，無可連讀印文，與大片粉紅染痕重疊。</note>
+        </div>
+      </div>
+      <div n="26" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0026/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">背面；翻轉後與025主欄、左端「加荷叶尖」及筆尾位置相合。</note>
+          <note type="editorial">對讀正面線條；原向不見獨立欄，左窄條屬相鄰紙面。</note>
+        </div>
+      </div>
+      <div n="27" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0027/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f027-c01" xml:id="u-f027-c01">〔方〕</ab>
+          <ab type="body" n="f027-c02" xml:id="u-f027-c02">濕熱未化納穀仍呆便溏漸止脘悶</ab>
+          <ab type="body" n="f027-c03" xml:id="u-f027-c03">少鬆舌白脉細再以疏和和胃</ab>
+          <ab type="formula" n="f027-c04" xml:id="u-f027-c04">川石斛三枳殼二焦淡芩半</ab>
+          <ab type="formula" n="f027-c05" xml:id="u-f027-c05">大豆卷三焦米仁四焦松殼半</ab>
+          <ab type="formula" n="f027-c06" xml:id="u-f027-c06">炒荆芥二焦穀芽四炒陳皮半</ab>
+          <ab type="formula" n="f027-c07" xml:id="u-f027-c07">白蔻仁半製小朴分</ab>
+          <ab type="annotation" n="f027-a01" xml:id="u-f027-a01">杵</ab>
+          <note type="editorial">右上案頭裁切，正文二欄，附方四欄及字旁小註。</note>
+        </div>
+      </div>
+      <div n="28" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0028/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">背面，正文及藥方均與027相應，左縫外相鄰紙面殘筆另計。</note>
+          <note type="editorial">後側水平鏡像後可見「濕熱未化」和「白蔻仁」同線；無可辨背面獨立欄。</note>
+        </div>
+      </div>
+      <div n="29" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0029/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f029-c01" xml:id="u-f029-c01">□</ab>
+          <ab type="body" n="f029-c02" xml:id="u-f029-c02">中焦濕滯脘悶作脹神疲納呆</ab>
+          <ab type="body" n="f029-c03" xml:id="u-f029-c03">气色倦怠脉形細滯擬以和胃滲濕</ab>
+          <ab type="formula" n="f029-c04" xml:id="u-f029-c04">〔炙〕香薷三焦米仁四滑石末四</ab>
+          <ab type="formula" n="f029-c05" xml:id="u-f029-c05">廣藿半炒澤瀉半炒陳皮半尤</ab>
+          <ab type="formula" n="f029-c06" xml:id="u-f029-c06">焦松殼半炒淡芩半製半夏半</ab>
+          <ab type="formula" n="f029-c07" xml:id="u-f029-c07">加白蔻仁半製小朴二</ab>
+          <ab type="annotation" n="f029-a01" xml:id="u-f029-a01">杵</ab>
+          <note type="editorial">右上案頭半入縫區，正文二欄及附方四欄；朱記三處層次可見，右上另有小方印殘。</note>
+          <note type="editorial">右上碎方框朱印壓案頭。</note>
+          <note type="editorial">左上長形朱印。</note>
+          <note type="editorial">附方左下多字朱記。</note>
+          <note type="editorial">靠左下大型方印。</note>
+        </div>
+      </div>
+      <div n="30" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0030/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f030-c01" xml:id="u-f030-c01">方</ab>
+          <ab type="verso_writing" n="f030-c02" xml:id="u-f030-c02">濕熱未化便溏漸止納穀少增舌黄苔膩</ab>
+          <ab type="verso_writing" n="f030-c03" xml:id="u-f030-c03">脉形弦細再以和胃滲濕</ab>
+          <ab type="verso_writing" n="f030-c04" xml:id="u-f030-c04">淡竹叶</ab>
+          <ab type="verso_writing" n="f030-c05" xml:id="u-f030-c05">川石斛炒白朮片通草砂仁殼</ab>
+          <ab type="verso_writing" n="f030-c06" xml:id="u-f030-c06">赤茯苓焦米仁滑石末</ab>
+          <ab type="verso_writing" n="f030-c07" xml:id="u-f030-c07">炒淡芩焦穀芽焦六麴</ab>
+          <ab type="annotation" n="f030-a01" xml:id="u-f030-a01">荷月初一日診</ab>
+          <note type="editorial">背面有獨立寫法並疊029反透。右上「方」與右外欄日期字向正，正文與方欄續見，利用029同紙正面裁出反透。</note>
+          <note type="editorial">029的「中焦」「廣藿」及左端「加白蔻仁」水平翻查後相合；朱色轉影亦相應，與本面正向實書共存。</note>
+        </div>
+      </div>
+      <div n="31" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0031/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f031-c01" xml:id="u-f031-c01">〔方〕</ab>
+          <ab type="body" n="f031-c02" xml:id="u-f031-c02">濕熱未化便溏漸止納穀少增舌黄</ab>
+          <ab type="body" n="f031-c03" xml:id="u-f031-c03">苔膩脉形弦細再以和胃滲濕</ab>
+          <ab type="formula" n="f031-c04" xml:id="u-f031-c04">川石斛四炒白朮半片通草二</ab>
+          <ab type="formula" n="f031-c05" xml:id="u-f031-c05">赤茯苓三焦米仁四滑石末四</ab>
+          <ab type="formula" n="f031-c06" xml:id="u-f031-c06">炒淡芩半焦穀芽四焦六麴四</ab>
+          <ab type="formula" n="f031-c07" xml:id="u-f031-c07">加淡竹叶半砂仁殼二</ab>
+          <note type="editorial">大字本面，與030背面小字高度同文；右緣案頭近縫，朱印四處。</note>
+          <note type="editorial">右上小方殘印，延伸至縫。</note>
+          <note type="editorial">左上長朱印。</note>
+          <note type="editorial">左欄下方多字朱記。</note>
+          <note type="editorial">左下大方印。</note>
+        </div>
+      </div>
+      <div n="32" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0032/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">背面；反轉後右正文「濕熱未化」、方欄「川石斛」及「加淡竹叶」同位。</note>
+          <note type="editorial">墨畫與朱色均與031逐部對應；左邊紙縫外有鄰葉殘字。</note>
+        </div>
+      </div>
+      <div n="33" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0033/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f033-c01" xml:id="u-f033-c01">〔方〕</ab>
+          <ab type="body" n="f033-c02" xml:id="u-f033-c02">午後微寒身熱〔溲〕赤鼻衄舌白脉細</ab>
+          <ab type="body" n="f033-c03" xml:id="u-f033-c03">治以疏解</ab>
+          <ab type="formula" n="f033-c04" xml:id="u-f033-c04">紫〔菀〕分炒陳皮二焦六麴三焦山楂三</ab>
+          <ab type="formula" n="f033-c05" xml:id="u-f033-c05">〔炙〕香薷二製半夏半焦穀芽四赤苓三</ab>
+          <ab type="formula" n="f033-c06" xml:id="u-f033-c06">焦淡芩半炒澤瀉半焦米仁四片通草分</ab>
+          <ab type="formula" n="f033-c07" xml:id="u-f033-c07">加荷叶尖白蔻仁半</ab>
+          <ab type="annotation" n="f033-a01" xml:id="u-f033-a01">〔薑汁〕</ab>
+          <ab type="annotation" n="f033-a02" xml:id="u-f033-a02">杵</ab>
+          <note type="editorial">左上角內折，正文二欄，方三欄及加味一欄，小字在方欄間。</note>
+          <note type="editorial">右上案頭朱印碎跡。</note>
+          <note type="editorial">左上朱記。</note>
+          <note type="editorial">左下方欄朱記。</note>
+          <note type="editorial">左下大方印。</note>
+        </div>
+      </div>
+      <div n="34" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0034/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">背面，右上三角對合033翻折。</note>
+          <note type="editorial">鏡像對應033「午後」首筆、短欄「治以疏解」及加味旁小字；朱印同步反向，未辨背面獨立欄。</note>
+        </div>
+      </div>
+      <div n="35" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0035/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f035-c01" xml:id="u-f035-c01">□</ab>
+          <ab type="body" n="f035-c02" xml:id="u-f035-c02">瘧邪在營間日一作神疲納呆欲</ab>
+          <ab type="body" n="f035-c03" xml:id="u-f035-c03">嘔脘痛舌白脉細和營〔以〕解散治之</ab>
+          <ab type="formula" n="f035-c04" xml:id="u-f035-c04">〔醋製〕柴胡半白茯苓三薑半夏半</ab>
+          <ab type="formula" n="f035-c05" xml:id="u-f035-c05">炒當歸二青防風半川貝母二</ab>
+          <ab type="formula" n="f035-c06" xml:id="u-f035-c06">新會皮半剖〔薑〕半煨葛根半</ab>
+          <ab type="formula" n="f035-c07" xml:id="u-f035-c07">〔梗米〕〔薄荷〕□</ab>
+          <ab type="annotation" n="f035-a01" xml:id="u-f035-a01">高不打</ab>
+          <note type="editorial">本面正文、三方欄及左緣部分筆畫同頁，加寫墨和036反透互疊。左上濃墨及左緣鏡向日期可對合036右外欄；朱記另層。</note>
+          <note type="editorial">右上方框朱印與案頭近重。</note>
+          <note type="editorial">左上長朱記，與粗墨有交疊。</note>
+          <note type="editorial">左外多字朱記。</note>
+          <note type="editorial">左下大方印。</note>
+          <note type="editorial">左外粗墨與036右上大字相互鏡像，靠邊月日筆向以036正向為據；本面的「梗米」等藥字另存暫讀。</note>
+        </div>
+      </div>
+      <div n="36" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0036/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f036-c01" xml:id="u-f036-c01">〔李〕</ab>
+          <ab type="verso_writing" n="f036-c02" xml:id="u-f036-c02">瘧邪在營間日一作神疲納呆</ab>
+          <ab type="verso_writing" n="f036-c03" xml:id="u-f036-c03">欲嘔脘痛舌白脉細擬以和營解散治之</ab>
+          <ab type="verso_writing" n="f036-c04" xml:id="u-f036-c04">〔醋製〕柴胡白茯苓薑半夏</ab>
+          <ab type="verso_writing" n="f036-c05" xml:id="u-f036-c05">炒當歸青防風川貝母</ab>
+          <ab type="verso_writing" n="f036-c06" xml:id="u-f036-c06">〔□□梗〕〔粳〕米煨葛根</ab>
+          <ab type="verso_writing" n="f036-c07" xml:id="u-f036-c07">新會皮薄荷□□</ab>
+          <ab type="annotation" n="f036-a01" xml:id="u-f036-a01">〔六〕月十九日診</ab>
+          <note type="editorial">背面有獨立案頭、日期、診語及較淡藥字。大型右外欄與035左外反影互合，正文用小字疊在035醫案的水平反透之上。</note>
+          <note type="editorial">中央的「和營」大字、三欄方藥及朱印與035水平鏡像對合；背面自身另外有較小正向文。</note>
+        </div>
+      </div>
+      <div n="37" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0037/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f037-c01" xml:id="u-f037-c01">〔徐〕□</ab>
+          <ab type="body" n="f037-c02" xml:id="u-f037-c02">濕熱內蘊氣化不宣致形寒身熱</ab>
+          <ab type="body" n="f037-c03" xml:id="u-f037-c03">神疲肢痠舌膩脉細治以清宣</ab>
+          <ab type="formula" n="f037-c04" xml:id="u-f037-c04">大豆卷三製小朴二鹽炒陳皮半片通草二</ab>
+          <ab type="formula" n="f037-c05" xml:id="u-f037-c05">〔炙〕香薷二赤白苓四焦米仁四六一散三</ab>
+          <ab type="formula" n="f037-c06" xml:id="u-f037-c06">焦淡芩半炒穀芽四炒澤瀉三炒枳殼半</ab>
+          <ab type="formula" n="f037-c07" xml:id="u-f037-c07">加荷叶尖大腹皮三</ab>
+          <ab type="annotation" n="f037-a01" xml:id="u-f037-a01">洗</ab>
+          <note type="editorial">右上案頭緊貼書縫，正文兩欄，左有方三欄及加味一欄。左下朱記兩層。</note>
+          <note type="editorial">右上近縫小朱殘印。</note>
+          <note type="editorial">左下正文型朱色列字。</note>
+          <note type="editorial">左下大方朱篆。</note>
+        </div>
+      </div>
+      <div n="38" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0038/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f038-c01" xml:id="u-f038-c01">陳左</ab>
+          <ab type="verso_writing" n="f038-c02" xml:id="u-f038-c02">欲嘔氣急胸膈不爽舌苔白脉濡</ab>
+          <ab type="verso_writing" n="f038-c03" xml:id="u-f038-c03">細治以理氣祛痰炙甘草淨連翹</ab>
+          <ab type="verso_writing" n="f038-c04" xml:id="u-f038-c04">全栝蔞光杏仁廣鬱金</ab>
+          <ab type="verso_writing" n="f038-c05" xml:id="u-f038-c05">代赭石雲茯苓真川貝</ab>
+          <ab type="verso_writing" n="f038-c06" xml:id="u-f038-c06">杜蘇子法半夏冬瓜子</ab>
+          <ab type="annotation" n="f038-a01" xml:id="u-f038-a01">桂月朔日診</ab>
+          <note type="editorial">背面有正向案頭、日期、正文及方字，與037細部鏡向反透共存。正向案文同039。</note>
+          <note type="editorial">鏡反核對「濕熱內蘊」及左列「加荷叶尖大腹皮」的字軸；037印色亦有對應轉影。</note>
+        </div>
+      </div>
+      <div n="39" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0039/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f039-c01" xml:id="u-f039-c01">陳左</ab>
+          <ab type="body" n="f039-c02" xml:id="u-f039-c02">欲嘔氣急胸膈不爽舌苔白脉</ab>
+          <ab type="body" n="f039-c03" xml:id="u-f039-c03">濡細治以理氣祛痰</ab>
+          <ab type="formula" n="f039-c04" xml:id="u-f039-c04">全栝蔞半光杏仁四廣鬱金半</ab>
+          <ab type="formula" n="f039-c05" xml:id="u-f039-c05">代赭石三雲茯苓四真川貝半</ab>
+          <ab type="formula" n="f039-c06" xml:id="u-f039-c06">杜蘇子三法半夏半冬瓜子半</ab>
+          <ab type="formula" n="f039-c07" xml:id="u-f039-c07">加炙甘草分淨連翹三</ab>
+          <ab type="annotation" n="f039-a01" xml:id="u-f039-a01">包</ab>
+          <ab type="annotation" n="f039-a02" xml:id="u-f039-a02">研</ab>
+          <ab type="annotation" n="f039-a03" xml:id="u-f039-a03">研</ab>
+          <ab type="annotation" n="f039-a04" xml:id="u-f039-a04">煎分服</ab>
+          <note type="editorial">右上「陳」與朱印疊合，下有稱謂和縫邊小墨。兩欄正文，下續左四欄方。</note>
+          <note type="editorial">右上方印疊在案頭。</note>
+          <note type="editorial">左下朱色分列文字。</note>
+          <note type="editorial">左下朱篆方印。</note>
+        </div>
+      </div>
+      <div n="40" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0040/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f040-c01" xml:id="u-f040-c01">張順生</ab>
+          <ab type="verso_writing" n="f040-c02" xml:id="u-f040-c02">伏邪秋發形寒身熱祛□豆痰</ab>
+          <ab type="verso_writing" n="f040-c03" xml:id="u-f040-c03">泄瀉推納舌白脉細治以疏洩</ab>
+          <ab type="verso_writing" n="f040-c04" xml:id="u-f040-c04">廣藿香炒澤瀉鹽陳皮白蔻仁</ab>
+          <ab type="verso_writing" n="f040-c05" xml:id="u-f040-c05">〔炙〕香薷焦米仁赤白苓片通草</ab>
+          <ab type="verso_writing" n="f040-c06" xml:id="u-f040-c06">大豆卷焦淡芩焦穀芽大連翹</ab>
+          <ab type="verso_writing" n="f040-c07" xml:id="u-f040-c07">加鹽炒竹茹益元散</ab>
+          <ab type="annotation" n="f040-a01" xml:id="u-f040-a01">桂月初二日診</ab>
+          <note type="editorial">背面正向手書，案頭在右上，縱向日期在右外，尚有小墨正文與附方。左縫外露鄰面，下右有粗墨痕。</note>
+          <note type="editorial">039的「欲嘔」與「代赭石」等鏡像成立，左縫相鄰紙條近墨另判。</note>
+          <note type="editorial">下角粗墨長橫，與039末端黑痕同區，紙面起筆關係待核，無連讀。</note>
+        </div>
+      </div>
+      <div n="41" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0041/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f041-c01" xml:id="u-f041-c01">張順生</ab>
+          <ab type="body" n="f041-c02" xml:id="u-f041-c02">伏邪秋發形寒身熱肢痠豆痰</ab>
+          <ab type="body" n="f041-c03" xml:id="u-f041-c03">泄瀉推納舌白脉細治以疏洩</ab>
+          <ab type="formula" n="f041-c04" xml:id="u-f041-c04">廣藿香三炒澤瀉三鹽陳皮半白蔻殼半</ab>
+          <ab type="formula" n="f041-c05" xml:id="u-f041-c05">〔炙〕香薷三焦米仁四赤白苓四片通草二</ab>
+          <ab type="formula" n="f041-c06" xml:id="u-f041-c06">大豆卷三焦淡芩半焦穀芽四大連翹三</ab>
+          <ab type="formula" n="f041-c07" xml:id="u-f041-c07">加鹽炒竹茹半益元散三</ab>
+          <ab type="annotation" n="f041-a01" xml:id="u-f041-a01">荷叶包</ab>
+          <note type="editorial">案頭在右縫與朱印交疊，正文與040正向小墨近同，左半封方及藥名小注。</note>
+          <note type="editorial">右上朱印界在案頭。</note>
+          <note type="editorial">左下三列淡朱字跡。</note>
+          <note type="editorial">左下朱篆方印。</note>
+        </div>
+      </div>
+      <div n="42" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0042/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">背面由原向對正面與鏡像，可追同一紙縫與欄尾。</note>
+          <note type="editorial">正面伏邪欄、廣藿香及益元散三反透同位；原向無可分離之正向文字。</note>
+        </div>
+      </div>
+      <div n="43" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0043/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f043-c01" xml:id="u-f043-c01">〔張〕</ab>
+          <ab type="body" n="f043-c02" xml:id="u-f043-c02">中焦□□脘痞□</ab>
+          <ab type="body" n="f043-c03" xml:id="u-f043-c03">納舌黄脉弦治疏化濕</ab>
+          <ab type="formula" n="f043-c04" xml:id="u-f043-c04">廣藿香半焦淡芩半焦米仁四</ab>
+          <ab type="formula" n="f043-c05" xml:id="u-f043-c05">製小朴分大腹皮三赤白苓四</ab>
+          <ab type="formula" n="f043-c06" xml:id="u-f043-c06">焦枳殼半鹽炒陳皮半白蔻仁半</ab>
+          <ab type="formula" n="f043-c07" xml:id="u-f043-c07">加六一散三薑半夏半</ab>
+          <ab type="annotation" n="f043-a01" xml:id="u-f043-a01">杵</ab>
+          <ab type="annotation" n="f043-a02" xml:id="u-f043-a02">荷叶包</ab>
+          <ab type="annotation" n="f043-a03" xml:id="u-f043-a03">□廿八</ab>
+          <note type="editorial">右上案頭、第一正文欄為紙縫所截，第二正文至完整方欄見於主要紙面。左下連有小字、符式墨跡及朱印。</note>
+          <note type="editorial">右上硃痕約橢圓。</note>
+          <note type="editorial">下左多列朱色。</note>
+          <note type="editorial">下左大方篆印。</note>
+          <note type="editorial">小直方朱色。</note>
+          <note type="editorial">小方朱色。</note>
+        </div>
+      </div>
+      <div n="44" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0044/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f044-c01" xml:id="u-f044-c01">張</ab>
+          <ab type="verso_writing" n="f044-c02" xml:id="u-f044-c02">中焦濕滯脘痞䐜脹泛濁推納</ab>
+          <ab type="verso_writing" n="f044-c03" xml:id="u-f044-c03">舌黄脉弦治疏化濕</ab>
+          <ab type="verso_writing" n="f044-c04" xml:id="u-f044-c04">廣藿香焦淡芩焦米仁六一散</ab>
+          <ab type="verso_writing" n="f044-c05" xml:id="u-f044-c05">製小朴大腹皮赤白苓薑半夏</ab>
+          <ab type="verso_writing" n="f044-c06" xml:id="u-f044-c06">焦枳壳新會皮白蔻仁</ab>
+          <note type="editorial">背面有「張」案頭及正向診語和藥字，下右見與043左緣疊透墨。</note>
+          <note type="editorial">正面廣藿香起筆、左側加六一散、尾下朱印位置鏡相吻合；獨立正文小墨穿過，可用正向判讀。</note>
+        </div>
+      </div>
+      <div n="45" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0045/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f045-c01" xml:id="u-f045-c01">高左</ab>
+          <ab type="body" n="f045-c02" xml:id="u-f045-c02">形寒身熱肢節酸痠神□</ab>
+          <ab type="body" n="f045-c03" xml:id="u-f045-c03">痞推納舌苔黄脉細治以疏泄</ab>
+          <ab type="formula" n="f045-c04" xml:id="u-f045-c04">炒紫蘇半炒澤瀉半赤白苓四</ab>
+          <ab type="formula" n="f045-c05" xml:id="u-f045-c05">〔炙〕香薷二焦米仁四片通草二</ab>
+          <ab type="formula" n="f045-c06" xml:id="u-f045-c06">小兠鈴分焦穀芽四鹽炒陳皮半</ab>
+          <ab type="formula" n="f045-c07" xml:id="u-f045-c07">加益元散三</ab>
+          <ab type="annotation" n="f045-a01" xml:id="u-f045-a01">荷叶包</ab>
+          <ab type="annotation" n="f045-a02" xml:id="u-f045-a02">鮮竹叶廿片</ab>
+          <ab type="annotation" n="f045-a03" xml:id="u-f045-a03">□廿八</ab>
+          <note type="editorial">右上案頭及下正文首欄貼縫，罅隙墨跡有缺，方名列在左側。左下小記及朱印另層。</note>
+          <note type="editorial">右上朱印覆案頭。</note>
+          <note type="editorial">左下朱文字列。</note>
+          <note type="editorial">左下方篆朱印。</note>
+        </div>
+      </div>
+      <div n="46" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0046/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f046-c01" xml:id="u-f046-c01">丁左</ab>
+          <ab type="verso_writing" n="f046-c02" xml:id="u-f046-c02">濕熱未化納穀漸增脘痞腹脹舌苔薄糙</ab>
+          <ab type="verso_writing" n="f046-c03" xml:id="u-f046-c03">脉形濡細再以疏化和胃</ab>
+          <ab type="verso_writing" n="f046-c04" xml:id="u-f046-c04">加白蔻仁製小朴</ab>
+          <ab type="verso_writing" n="f046-c05" xml:id="u-f046-c05">廣藿香老川斛赤白苓</ab>
+          <ab type="verso_writing" n="f046-c06" xml:id="u-f046-c06">〔炙〕香薷焦穀芽炒澤瀉</ab>
+          <ab type="verso_writing" n="f046-c07" xml:id="u-f046-c07">焦淡芩焦米仁新會皮</ab>
+          <ab type="annotation" n="f046-a01" xml:id="u-f046-a01">楊家灣</ab>
+          <ab type="annotation" n="f046-a02" xml:id="u-f046-a02">巧月十四日診</ab>
+          <note type="editorial">背面有正向丁案，案頭側有地名、右外有日期，診語二欄與方字若干，045背透可辨。</note>
+          <note type="editorial">鏡查「高左」與「炒紫蘇」「加益元散」及底墨手勢。現幅正向「丁」及日期從墨向區分。</note>
+        </div>
+      </div>
+      <div n="47" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0047/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f047-c01" xml:id="u-f047-c01">丁左</ab>
+          <ab type="body" n="f047-c02" xml:id="u-f047-c02">濕熱未化納穀漸增脘脹漸和舌色</ab>
+          <ab type="body" n="f047-c03" xml:id="u-f047-c03">苔糙脉形濡細再疏化和胃</ab>
+          <ab type="formula" n="f047-c04" xml:id="u-f047-c04">廣藿香半老川斛四赤白苓四</ab>
+          <ab type="formula" n="f047-c05" xml:id="u-f047-c05">〔炙〕香薷二焦穀芽四炒澤瀉半</ab>
+          <ab type="formula" n="f047-c06" xml:id="u-f047-c06">焦淡芩半焦米仁四新會皮半</ab>
+          <ab type="formula" n="f047-c07" xml:id="u-f047-c07">加白蔻仁半製小朴半</ab>
+          <ab type="annotation" n="f047-a01" xml:id="u-f047-a01">巧月廿日診</ab>
+          <ab type="annotation" n="f047-a02" xml:id="u-f047-a02">杵</ab>
+          <note type="editorial">右案頭「丁左」與小朱印重合，右縫尚有窄縱附字。正向正文兩欄，左方四欄。</note>
+          <note type="editorial">右上案頭橢圓朱痕。</note>
+          <note type="editorial">左下零碎朱印。</note>
+          <note type="editorial">左下方篆朱印。</note>
+        </div>
+      </div>
+      <div n="48" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0048/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f048-c01" xml:id="u-f048-c01">鍾右</ab>
+          <ab type="verso_writing" n="f048-c02" xml:id="u-f048-c02">間日瘧形寒身熱胸悶便溏口渴推納</ab>
+          <ab type="verso_writing" n="f048-c03" xml:id="u-f048-c03">舌白脉細按以疏解</ab>
+          <ab type="verso_writing" n="f048-c04" xml:id="u-f048-c04">炒紫蘇薑製陳皮益元散製小朴</ab>
+          <ab type="verso_writing" n="f048-c05" xml:id="u-f048-c05">大豆卷焦穀芽焦米仁焦枳壳</ab>
+          <ab type="verso_writing" n="f048-c06" xml:id="u-f048-c06">〔炙〕香薷焦淡芩炒澤瀉大腹皮</ab>
+          <ab type="verso_writing" n="f048-c07" xml:id="u-f048-c07">加白蔻仁荷叶包</ab>
+          <ab type="annotation" n="f048-a01" xml:id="u-f048-a01">上王村</ab>
+          <ab type="annotation" n="f048-a02" xml:id="u-f048-a02">〔初〕秋月廿日</ab>
+          <note type="editorial">背面另寫鍾案，右外日期、地點小墨。047主欄反透與零碎朱影可對位。</note>
+          <note type="editorial">頁角斜切同形，丁案、廣藿香及左端「加白蔻仁」見水平反透，右側小案另錄。</note>
+        </div>
+      </div>
+      <div n="49" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0049/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f049-c01" xml:id="u-f049-c01">鍾左</ab>
+          <ab type="body" n="f049-c02" xml:id="u-f049-c02">間日瘧形寒身熱胸悶便溏口</ab>
+          <ab type="body" n="f049-c03" xml:id="u-f049-c03">渴推納舌白脉細按以疏解</ab>
+          <ab type="formula" n="f049-c04" xml:id="u-f049-c04">炒紫蘇半鹽炒橘紅焦六麴三製小朴分</ab>
+          <ab type="formula" n="f049-c05" xml:id="u-f049-c05">大豆卷三焦穀芽四焦米仁四焦枳殼半</ab>
+          <ab type="formula" n="f049-c06" xml:id="u-f049-c06">〔炙〕香薷二焦淡芩半炒澤瀉半大腹皮三</ab>
+          <ab type="formula" n="f049-c07" xml:id="u-f049-c07">加白蔻仁半六一散三</ab>
+          <ab type="annotation" n="f049-a01" xml:id="u-f049-a01">〔初〕秋月廿日</ab>
+          <ab type="annotation" n="f049-a02" xml:id="u-f049-a02">杵</ab>
+          <ab type="annotation" n="f049-a03" xml:id="u-f049-a03">荷叶包</ab>
+          <note type="editorial">案頭在右緣近朱印，右外墨列日期與縫相鄰，正文與048鍾案近同。左半方列及朱記。</note>
+          <note type="editorial">右上朱印與案頭重疊。</note>
+          <note type="editorial">左下淡朱色列字。</note>
+          <note type="editorial">左下方朱篆，右半疊黑筆。</note>
+        </div>
+      </div>
+      <div n="50" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0050/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f050-c01" xml:id="u-f050-c01">朱〔右〕</ab>
+          <ab type="verso_writing" n="f050-c02" xml:id="u-f050-c02">肝邪凌胃陣陣上逆飲食無味嘈雜</ab>
+          <ab type="verso_writing" n="f050-c03" xml:id="u-f050-c03">頻噫脘痞脉弦細治以和肝胃</ab>
+          <ab type="verso_writing" n="f050-c04" xml:id="u-f050-c04">左金丸石斛陳粟米三佛手果</ab>
+          <ab type="verso_writing" n="f050-c05" xml:id="u-f050-c05">金鈴肉三法半夏半焦六麴淨枳殼</ab>
+          <ab type="verso_writing" n="f050-c06" xml:id="u-f050-c06">旋覆花包焦穀芽四白蔻□</ab>
+          <ab type="annotation" n="f050-a01" xml:id="u-f050-a01">〔孟〕冬月初一日診</ab>
+          <note type="editorial">背面另有朱案，日期沿右外欄，兩細欄正文與三方欄中均見透墨，辨清者錄入。</note>
+          <note type="editorial">右外「加白蔻仁」和中段「間日瘧」倒向對合，紙角兩處斜邊可互證。</note>
+        </div>
+      </div>
+      <div n="51" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0051/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f051-c01" xml:id="u-f051-c01">陸右</ab>
+          <ab type="body" n="f051-c02" xml:id="u-f051-c02">脘痛作脹肢痠乏疲大便溏泄嘔欲</ab>
+          <ab type="body" n="f051-c03" xml:id="u-f051-c03">推納舌黄脉弦治以疏中理氣</ab>
+          <ab type="formula" n="f051-c04" xml:id="u-f051-c04">金鈴肉三焦枳殼半薑半夏半</ab>
+          <ab type="formula" n="f051-c05" xml:id="u-f051-c05">元胡索半製小朴分新會皮二</ab>
+          <ab type="formula" n="f051-c06" xml:id="u-f051-c06">製香附四大腹皮三煨木香半</ab>
+          <ab type="formula" n="f051-c07" xml:id="u-f051-c07">加白蔻仁半佛手柑分</ab>
+          <ab type="annotation" n="f051-a01" xml:id="u-f051-a01">九月十九日</ab>
+          <ab type="annotation" n="f051-a02" xml:id="u-f051-a02">打</ab>
+          <ab type="annotation" n="f051-a03" xml:id="u-f051-a03">杵</ab>
+          <note type="editorial">右上陸姓案頭，稱位稍內，日期在縫。正文兩欄及數味加方、朱記兩層。</note>
+          <note type="editorial">左下朱色列字。</note>
+          <note type="editorial">左下方朱印。</note>
+        </div>
+      </div>
+      <div n="52" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0052/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">背面墨影深淺不一，均以051圖之相應筆向核查。</note>
+          <note type="editorial">翻向合案頭「陸」、正文「脘痛」及「佛手柑」末組與左下朱印。無能分離的正向墨字。</note>
+        </div>
+      </div>
+      <div n="53" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0053/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f053-c01" xml:id="u-f053-c01">邱左</ab>
+          <ab type="body" n="f053-c02" xml:id="u-f053-c02">暑濕合邪形寒体熱肢痠推納</ab>
+          <ab type="body" n="f053-c03" xml:id="u-f053-c03">便溏溲赤舌白脉細治以疏解</ab>
+          <ab type="formula" n="f053-c04" xml:id="u-f053-c04">〔炙〕香薷二炒澤瀉半焦穀芽四</ab>
+          <ab type="formula" n="f053-c05" xml:id="u-f053-c05">炒紫蘇半焦米仁四焦淡芩半</ab>
+          <ab type="formula" n="f053-c06" xml:id="u-f053-c06">製小朴分焦六麴三片通草二</ab>
+          <ab type="formula" n="f053-c07" xml:id="u-f053-c07">加益元散三白蔻仁半</ab>
+          <ab type="annotation" n="f053-a01" xml:id="u-f053-a01">〔初〕秋月廿日診</ab>
+          <ab type="annotation" n="f053-a02" xml:id="u-f053-a02">荷叶包</ab>
+          <ab type="annotation" n="f053-a03" xml:id="u-f053-a03">杵</ab>
+          <note type="editorial">案頭地位靠右，換行正文兩列，左四短方欄。左下朱印與墨點接近。</note>
+          <note type="editorial">右上朱印疊邱字。</note>
+          <note type="editorial">左下朱色列字，又見方欄黑墨疊壓。</note>
+          <note type="editorial">左下方朱篆，內有下行墨點。</note>
+        </div>
+      </div>
+      <div n="54" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0054/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">背面有透墨與污黃區，紙上方未見正向案頭。</note>
+          <note type="editorial">水平翻轉吻合「邱」「暑濕」，朱印與旁小墨也循原紙面左右反向，可辨區未見獨立書寫。</note>
+        </div>
+      </div>
+      <div n="55" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0055/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f055-c01" xml:id="u-f055-c01">何〔右〕</ab>
+          <ab type="body" n="f055-c02" xml:id="u-f055-c02">飲食尚少腹痛不作寒熱未清</ab>
+          <ab type="body" n="f055-c03" xml:id="u-f055-c03">納未全進舌白脉細再以疏泄</ab>
+          <ab type="formula" n="f055-c04" xml:id="u-f055-c04">紫蘇梗二大腹皮三焦穀芽四</ab>
+          <ab type="formula" n="f055-c05" xml:id="u-f055-c05">〔炙〕香薷二炒澤瀉半川石斛四</ab>
+          <ab type="formula" n="f055-c06" xml:id="u-f055-c06">鹽炒陳皮半焦米仁四〔石炒〕六一散三</ab>
+          <ab type="formula" n="f055-c07" xml:id="u-f055-c07">加砂仁殼半連翹三</ab>
+          <ab type="annotation" n="f055-a01" xml:id="u-f055-a01">九月十九日診</ab>
+          <ab type="annotation" n="f055-a02" xml:id="u-f055-a02">洗</ab>
+          <ab type="annotation" n="f055-a03" xml:id="u-f055-a03">荷叶包</ab>
+          <note type="editorial">右縫附近有案頭、日期，左下朱印及藥方小字相疊。</note>
+          <note type="editorial">右上橢圓朱痕。</note>
+          <note type="editorial">左下朱色列印。</note>
+          <note type="editorial">左下方朱篆。</note>
+        </div>
+      </div>
+      <div n="56" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0056/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">背面透墨通幅，右下方朱印隨前幅反向。</note>
+          <note type="editorial">反向對照首「何」、右正文「飲食」與方欄「紫蘇梗」「加砂仁殼」；原向未見獨立欄。</note>
+        </div>
+      </div>
+      <div n="57" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0057/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f057-c01" xml:id="u-f057-c01">丁左</ab>
+          <ab type="body" n="f057-c02" xml:id="u-f057-c02">形寒身熱肢痠乏疲推納溲赤舌</ab>
+          <ab type="body" n="f057-c03" xml:id="u-f057-c03">根苔糙脉來弦細擬議和解之法</ab>
+          <ab type="formula" n="f057-c04" xml:id="u-f057-c04">大豆卷三大腹皮三赤白苓四</ab>
+          <ab type="formula" n="f057-c05" xml:id="u-f057-c05">〔炙〕香薷二焦米仁四焦淡芩半</ab>
+          <ab type="formula" n="f057-c06" xml:id="u-f057-c06">炒紫蘇半炒澤瀉半製小朴分</ab>
+          <ab type="formula" n="f057-c07" xml:id="u-f057-c07">加益元散三通草分</ab>
+          <ab type="annotation" n="f057-a01" xml:id="u-f057-a01">九月十八日診</ab>
+          <ab type="annotation" n="f057-a02" xml:id="u-f057-a02">洗</ab>
+          <ab type="annotation" n="f057-a03" xml:id="u-f057-a03">荷叶包</ab>
+          <note type="editorial">右上丁案、沿縫日期，正文兩欄、方四列。左下朱色文字分上下兩塊。</note>
+          <note type="editorial">右上案頭橢圓朱印。</note>
+          <note type="editorial">左下朱列字。</note>
+          <note type="editorial">左下大朱方印。</note>
+        </div>
+      </div>
+      <div n="58" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0058/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">背面右側反透左方諸味，左縫略見鄰頁紙面。</note>
+          <note type="editorial">丁字縱鉤、正文「形寒身熱」、左欄「益元散」與「通草」鏡相對位。</note>
+        </div>
+      </div>
+      <div n="59" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0059/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f059-c01" xml:id="u-f059-c01">何〔秉〕□</ab>
+          <ab type="body" n="f059-c02" xml:id="u-f059-c02">伏邪秋發形寒身熱嘔吐泄瀉</ab>
+          <ab type="body" n="f059-c03" xml:id="u-f059-c03">舌白脉弦治以疏泄</ab>
+          <ab type="formula" n="f059-c04" xml:id="u-f059-c04">廣藿香半製小朴分炒澤瀉半</ab>
+          <ab type="formula" n="f059-c05" xml:id="u-f059-c05">〔炙〕香薷二新會皮半赤白苓四</ab>
+          <ab type="formula" n="f059-c06" xml:id="u-f059-c06">焦淡芩半焦米仁四薑半夏半</ab>
+          <ab type="formula" n="f059-c07" xml:id="u-f059-c07">加鹽炒竹茹半益元散三</ab>
+          <ab type="annotation" n="f059-a01" xml:id="u-f059-a01">九月十五日診</ab>
+          <ab type="annotation" n="f059-a02" xml:id="u-f059-a02">□</ab>
+          <ab type="annotation" n="f059-a03" xml:id="u-f059-a03">荷叶包</ab>
+          <note type="editorial">右上姓名於縫中存殘筆，有日期邊寫。正文兩欄，方四列，底紙破裂和折痕橫跨朱印。</note>
+          <note type="editorial">右上小朱印與何字重疊。</note>
+          <note type="editorial">左下多列淺朱印。</note>
+          <note type="editorial">左下方印，與底角斜折交疊。</note>
+        </div>
+      </div>
+      <div n="60" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0060/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">背面相對紙邊殘破；透影與上端案頭和下角墨列相續。</note>
+          <note type="editorial">正面「伏邪秋發」「廣藿香」與左端荷叶包互為鏡像，下緣紙折位置同。</note>
+        </div>
+      </div>
+      <div n="61" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0061/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f061-c01" xml:id="u-f061-c01">朱右</ab>
+          <ab type="body" n="f061-c02" xml:id="u-f061-c02">肝邪凌胃之氣上逆致食後即吐</ab>
+          <ab type="body" n="f061-c03" xml:id="u-f061-c03">呃逆頻至按脉弦細治以和胃調中</ab>
+          <ab type="formula" n="f061-c04" xml:id="u-f061-c04">左金丸二新會皮半陳粟米三</ab>
+          <ab type="formula" n="f061-c05" xml:id="u-f061-c05">金鈴肉三法半夏半焦穀芽四</ab>
+          <ab type="formula" n="f061-c06" xml:id="u-f061-c06">元胡索半金石斛三白蔻仁半</ab>
+          <ab type="formula" n="f061-c07" xml:id="u-f061-c07">加代代花十朶枸橘李二</ab>
+          <ab type="annotation" n="f061-a01" xml:id="u-f061-a01">十二月</ab>
+          <ab type="annotation" n="f061-a02" xml:id="u-f061-a02">杵</ab>
+          <note type="editorial">右面有大破缺與斜折，案頭、右外日期僅存月份。折痕穿正文與方列，同紙背面062亦存大破缺。</note>
+        </div>
+      </div>
+      <div n="62" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0062/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f062-c01" xml:id="u-f062-c01">朱右</ab>
+          <ab type="verso_writing" n="f062-c02" xml:id="u-f062-c02">肝邪凌胃之氣上逆飲食後即吐呃逆並</ab>
+          <ab type="verso_writing" n="f062-c03" xml:id="u-f062-c03">至按脉弦細治以和胃安中</ab>
+          <ab type="verso_writing" n="f062-c04" xml:id="u-f062-c04">左金丸新會皮陳粟米代代花</ab>
+          <ab type="verso_writing" n="f062-c05" xml:id="u-f062-c05">金鈴肉法半夏焦穀芽枸橘李</ab>
+          <ab type="verso_writing" n="f062-c06" xml:id="u-f062-c06">元胡索金石斛白蔻仁</ab>
+          <ab type="annotation" n="f062-a01" xml:id="u-f062-a01">十二月廿三日診</ab>
+          <note type="editorial">背面另有朱案與十二月日次。較小正墨多字疏疏其間，061主書由鏡向透見。左切缺同061。</note>
+          <note type="editorial">破缺、縱橫折線、案名及大字上下落點可鏡向比對，現幅較小朱案另讀。</note>
+        </div>
+      </div>
+      <div n="63" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0063/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f063-c01" xml:id="u-f063-c01">沈〔紹生〕</ab>
+          <ab type="body" n="f063-c02" xml:id="u-f063-c02">時當秋令形寒身熱飲食疲倦推納</ab>
+          <ab type="body" n="f063-c03" xml:id="u-f063-c03">肢痠舌苔糙脉濡細治疏和法</ab>
+          <ab type="formula" n="f063-c04" xml:id="u-f063-c04">冬桑叶半光杏仁四真川貝半連翹三</ab>
+          <ab type="formula" n="f063-c05" xml:id="u-f063-c05">薄荷半雲茯苓三左秦艽三淡芩半</ab>
+          <ab type="formula" n="f063-c06" xml:id="u-f063-c06">梔殼三新會皮半焦米仁四</ab>
+          <ab type="formula" n="f063-c07" xml:id="u-f063-c07">加辰灯心七扎卷竹心廿頁</ab>
+          <ab type="annotation" n="f063-a01" xml:id="u-f063-a01">九月十一日診</ab>
+          <ab type="annotation" n="f063-a02" xml:id="u-f063-a02">煎不打</ab>
+          <ab type="annotation" n="f063-a03" xml:id="u-f063-a03">後入</ab>
+          <ab type="annotation" n="f063-a04" xml:id="u-f063-a04">薑炒</ab>
+          <note type="editorial">沈姓案，名字沿右縫，日期與右破缺相鄰，左三方欄及加味。左下淡朱字列與方印。</note>
+          <note type="editorial">右上小朱印，壓沈字。</note>
+          <note type="editorial">左下朱列字。</note>
+          <note type="editorial">左下淡方朱篆。</note>
+        </div>
+      </div>
+      <div n="64" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0064/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f064-c01" xml:id="u-f064-c01">范太太</ab>
+          <ab type="verso_writing" n="f064-c02" xml:id="u-f064-c02">寒熱嘔嗽出氣濁熱口渴胸悶氣逆胁疼</ab>
+          <ab type="verso_writing" n="f064-c03" xml:id="u-f064-c03">脘痞不食舌苔細面白脉形濡細濕熱蘊於肺胃</ab>
+          <ab type="verso_writing" n="f064-c04" xml:id="u-f064-c04">□柴胡桔梗川芎□炒枳殼□陳皮</ab>
+          <ab type="verso_writing" n="f064-c05" xml:id="u-f064-c05">水炙紫菀炒枳殼半夏□淡黃芩</ab>
+          <ab type="verso_writing" n="f064-c06" xml:id="u-f064-c06">焦穀芽炒蘇葉鮮竹叶</ab>
+          <ab type="verso_writing" n="f064-c07" xml:id="u-f064-c07">大力子川貝連翹金石斛□</ab>
+          <ab type="annotation" n="f064-a01" xml:id="u-f064-a01">巧月廿一日診</ab>
+          <note type="editorial">背面另有范氏案頭、右側日期、診語及藥字，與063沈案反透交覆。</note>
+          <note type="editorial">正文「時當秋令」和左外「辰灯心」等鏡合；本面「范」字和小墨列不能由063反字對出。</note>
+        </div>
+      </div>
+      <div n="65" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0065/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f065-c01" xml:id="u-f065-c01">〔張〕</ab>
+          <ab type="body" n="f065-c02" xml:id="u-f065-c02">濕火下滯左小腿腫痛堅硬兼至</ab>
+          <ab type="body" n="f065-c03" xml:id="u-f065-c03">寒熱併作舌勢難消按以托化</ab>
+          <ab type="formula" n="f065-c04" xml:id="u-f065-c04">生西芪三焦米仁四炒銀花半炒澤瀉半</ab>
+          <ab type="formula" n="f065-c05" xml:id="u-f065-c05">大力子三赤白苓四焦山梔三川牛膝三</ab>
+          <ab type="formula" n="f065-c06" xml:id="u-f065-c06">象貝母二淨連翹三滑石塊四</ab>
+          <ab type="formula" n="f065-c07" xml:id="u-f065-c07">加角針二炙甲片半</ab>
+          <ab type="annotation" n="f065-a01" xml:id="u-f065-a01">九月十一日</ab>
+          <note type="editorial">案頭靠縫，右外日期半遮，正文記左小腿。方列四欄，左下朱印二層。</note>
+          <note type="editorial">右上小朱印。</note>
+          <note type="editorial">左下多列朱印。</note>
+          <note type="editorial">左下方朱篆。</note>
+        </div>
+      </div>
+      <div n="66" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0066/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f066-c01" xml:id="u-f066-c01">張</ab>
+          <ab type="verso_writing" n="f066-c02" xml:id="u-f066-c02">濕火下滯左小腿腫痛堅硬兼寒熱並作</ab>
+          <ab type="verso_writing" n="f066-c03" xml:id="u-f066-c03">其勢難消脉□按以托化</ab>
+          <ab type="verso_writing" n="f066-c04" xml:id="u-f066-c04">皂角針半</ab>
+          <ab type="verso_writing" n="f066-c05" xml:id="u-f066-c05">炙甲炒澤瀉</ab>
+          <ab type="verso_writing" n="f066-c06" xml:id="u-f066-c06">生西芪焦米仁炒銀花川牛膝</ab>
+          <ab type="verso_writing" n="f066-c07" xml:id="u-f066-c07">大力子赤白苓焦山梔</ab>
+          <ab type="verso_writing" n="f066-c08" xml:id="u-f066-c08">象貝母淨連翹塊滑石用□□</ab>
+          <ab type="annotation" n="f066-a01" xml:id="u-f066-a01">巧月十一日診</ab>
+          <note type="editorial">背面張案有獨立正文與方字，從紙面原向墨跡對照065正文的逆向筆。</note>
+          <note type="editorial">右外日期存在正向小墨和背透互疊，正面「左小腿腫痛」及大字方下尾欄鏡向可定位。</note>
+        </div>
+      </div>
+      <div n="67" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0067/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f067-c01" xml:id="u-f067-c01">沈左</ab>
+          <ab type="body" n="f067-c02" xml:id="u-f067-c02">寒熱微微脘痞納呆肢痠乏疲</ab>
+          <ab type="body" n="f067-c03" xml:id="u-f067-c03">舌苔糙脉弦數治以疏解</ab>
+          <ab type="formula" n="f067-c04" xml:id="u-f067-c04">炒柴胡半焦淡芩半炒澤瀉半焦六麴三</ab>
+          <ab type="formula" n="f067-c05" xml:id="u-f067-c05">製小朴二赤白苓四焦米仁四砂仁殼半</ab>
+          <ab type="formula" n="f067-c06" xml:id="u-f067-c06">〔炙〕香薷二焦穀芽四炒陳皮半</ab>
+          <ab type="formula" n="f067-c07" xml:id="u-f067-c07">加通草絲分益元散三</ab>
+          <ab type="annotation" n="f067-a01" xml:id="u-f067-a01">〔巧〕月初九日診</ab>
+          <ab type="annotation" n="f067-a02" xml:id="u-f067-a02">荷叶包</ab>
+          <note type="editorial">右首姓名、日期近窄縫。正文兩欄、左方四欄，與068正向小墨的病例近同。</note>
+          <note type="editorial">右上小朱印。</note>
+          <note type="editorial">左下朱色列字。</note>
+          <note type="editorial">左下大方朱篆。</note>
+        </div>
+      </div>
+      <div n="68" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0068/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f068-c01" xml:id="u-f068-c01">沈左</ab>
+          <ab type="verso_writing" n="f068-c02" xml:id="u-f068-c02">微寒微熱脘痞納少頭疼乏疲舌薄黄</ab>
+          <ab type="verso_writing" n="f068-c03" xml:id="u-f068-c03">脉粒數治以疏解</ab>
+          <ab type="verso_writing" n="f068-c04" xml:id="u-f068-c04">益元散鮮荷叶一方</ab>
+          <ab type="verso_writing" n="f068-c05" xml:id="u-f068-c05">炒柴胡焦淡芩炒澤瀉焦六麴</ab>
+          <ab type="verso_writing" n="f068-c06" xml:id="u-f068-c06">製小朴赤白苓焦米仁砂仁壳</ab>
+          <ab type="verso_writing" n="f068-c07" xml:id="u-f068-c07">〔炙〕香薷焦穀芽炒陳皮絲通草</ab>
+          <ab type="annotation" n="f068-a01" xml:id="u-f068-a01">長浜</ab>
+          <ab type="annotation" n="f068-a02" xml:id="u-f068-a02">巧月初十日診</ab>
+          <ab type="annotation" n="f068-a03" xml:id="u-f068-a03">三劑</ab>
+          <ab type="annotation" n="f068-a04" xml:id="u-f068-a04">三劑</ab>
+          <note type="editorial">背面有沈姓、稱位與名二小字，正書日期、正文、方名及兩筆「三劑」，與067反透可分。</note>
+          <note type="editorial">「沈左」及「製小朴」等來自067大墨鏡向；另有正向案文與方，不能用前幅反讀代錄。</note>
+        </div>
+      </div>
+      <div n="69" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0069/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f069-c01" xml:id="u-f069-c01">何</ab>
+          <ab type="body" n="f069-c02" xml:id="u-f069-c02">寒熱未清口渴已止惟肢痠乏疲</ab>
+          <ab type="body" n="f069-c03" xml:id="u-f069-c03">納穀少增舌白脉弦治以和解</ab>
+          <ab type="formula" n="f069-c04" xml:id="u-f069-c04">炒柴胡半製小朴二炒澤瀉半</ab>
+          <ab type="formula" n="f069-c05" xml:id="u-f069-c05">〔炙〕香薷二焦穀芽四赤白苓四</ab>
+          <ab type="formula" n="f069-c06" xml:id="u-f069-c06">大豆卷三焦米仁四鹽炒橘紅二</ab>
+          <ab type="formula" n="f069-c07" xml:id="u-f069-c07">加益元散三白蔻仁半</ab>
+          <ab type="annotation" n="f069-a01" xml:id="u-f069-a01">巧月初七日診</ab>
+          <ab type="annotation" n="f069-a02" xml:id="u-f069-a02">荷叶包</ab>
+          <ab type="annotation" n="f069-a03" xml:id="u-f069-a03">杵</ab>
+          <note type="editorial">右首何姓、縫邊日期。病正文末到下緣，左欄方與兩層朱印。</note>
+          <note type="editorial">右上小朱印。</note>
+          <note type="editorial">左下淺朱列字。</note>
+          <note type="editorial">左下朱篆方印。</note>
+        </div>
+      </div>
+      <div n="70" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0070/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">背面反透較淡，右中部有褐色暈斑與紙孔，左縫可見相鄰筆。</note>
+          <note type="editorial">「何」到下沿「乏疲」及「白蔻仁」相應，局部濃黑亦能與069筆勢對位。原向未辨獨立欄。</note>
+        </div>
+      </div>
+      <div n="71" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0071/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f071-c01" xml:id="u-f071-c01">〔錢〕</ab>
+          <ab type="body" n="f071-c02" xml:id="u-f071-c02">寒熱得止胸仍滿悶小溲短赤神疲</ab>
+          <ab type="body" n="f071-c03" xml:id="u-f071-c03">推納舌苔白脉弦數再以前方加減進之</ab>
+          <ab type="formula" n="f071-c04" xml:id="u-f071-c04">大豆卷三焦米仁四赤白苓四炒澤瀉半</ab>
+          <ab type="formula" n="f071-c05" xml:id="u-f071-c05">〔炙〕香薷二焦淡芩半光杏仁四益元散三</ab>
+          <ab type="formula" n="f071-c06" xml:id="u-f071-c06">老川斛四焦穀芽四片通草二</ab>
+          <ab type="formula" n="f071-c07" xml:id="u-f071-c07">加鮮佩蘭廿頁</ab>
+          <ab type="annotation" n="f071-a01" xml:id="u-f071-a01">荷月晦日診</ab>
+          <ab type="annotation" n="f071-a02" xml:id="u-f071-a02">荷叶包</ab>
+          <note type="editorial">案頭朱色與墨重疊，左兩顆朱印可見邊框，有大墨污斜劃與方欄分開。</note>
+          <note type="editorial">右上朱印與墨重合。</note>
+          <note type="editorial">左下長方朱記，篆隸未決。</note>
+          <note type="editorial">左下朱篆，朱邊較整。</note>
+          <note type="editorial">左外斜長粗墨近邊角，無連讀。</note>
+        </div>
+      </div>
+      <div n="72" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0072/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f072-c01" xml:id="u-f072-c01">錢左</ab>
+          <ab type="verso_writing" n="f072-c02" xml:id="u-f072-c02">寒熱得止自痰滿慄小溲短赤神疲推</ab>
+          <ab type="verso_writing" n="f072-c03" xml:id="u-f072-c03">納舌薄白脉弦數再以前方加減進之</ab>
+          <ab type="verso_writing" n="f072-c04" xml:id="u-f072-c04">大豆卷焦米仁赤白苓炒澤瀉</ab>
+          <ab type="verso_writing" n="f072-c05" xml:id="u-f072-c05">香青蒿焦淡芩光杏仁益元散</ab>
+          <ab type="verso_writing" n="f072-c06" xml:id="u-f072-c06">老川斛焦穀芽梗通草鮮荷叶</ab>
+          <ab type="annotation" n="f072-a01" xml:id="u-f072-a01">洪塘頭</ab>
+          <ab type="annotation" n="f072-a02" xml:id="u-f072-a02">荷月晦日診</ab>
+          <ab type="annotation" n="f072-a03" xml:id="u-f072-a03">三劑</ab>
+          <note type="editorial">背面錢案有姓名旁小字、日期、正文、處方與「三劑」。左下印跡、邊角粗墨自071反向對位。</note>
+          <note type="editorial">對照前幅主墨、短方、粗斜畫以及左下兩印移至本幅右下的位置，方能分離本面的細字。</note>
+        </div>
+      </div>
+      <div n="73" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0073/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f073-c01" xml:id="u-f073-c01">〔任〕</ab>
+          <ab type="body" n="f073-c02" xml:id="u-f073-c02">寒熱未清口渴吐惡已止肢痠乏疲</ab>
+          <ab type="body" n="f073-c03" xml:id="u-f073-c03">舌白脉細再以疏解</ab>
+          <ab type="formula" n="f073-c04" xml:id="u-f073-c04">炒柴胡半焦穀芽四赤白苓四</ab>
+          <ab type="formula" n="f073-c05" xml:id="u-f073-c05">〔炙〕香薷二焦米仁四炒澤瀉半</ab>
+          <ab type="formula" n="f073-c06" xml:id="u-f073-c06">焦淡芩半鹽炒橘紅二片通草二</ab>
+          <ab type="formula" n="f073-c07" xml:id="u-f073-c07">加益元散三白扣仁半</ab>
+          <ab type="annotation" n="f073-a01" xml:id="u-f073-a01">巧月初九日診</ab>
+          <ab type="annotation" n="f073-a02" xml:id="u-f073-a02">荷叶包</ab>
+          <ab type="annotation" n="f073-a03" xml:id="u-f073-a03">杵</ab>
+          <note type="editorial">右首稱謂靠紙縫，方欄左有添「益元散」及「白扣仁」，其旁各一小書。</note>
+        </div>
+      </div>
+      <div n="74" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0074/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f074-c01" xml:id="u-f074-c01">任左</ab>
+          <ab type="verso_writing" n="f074-c02" xml:id="u-f074-c02">寒熱未清口渴吐惡已止頭疼乏疲舌白</ab>
+          <ab type="verso_writing" n="f074-c03" xml:id="u-f074-c03">脉細姑以疏解</ab>
+          <ab type="verso_writing" n="f074-c04" xml:id="u-f074-c04">水炙柴胡焦谷芽赤白苓益元散</ab>
+          <ab type="verso_writing" n="f074-c05" xml:id="u-f074-c05">香青蒿焦米仁炒澤瀉白扣仁</ab>
+          <ab type="verso_writing" n="f074-c06" xml:id="u-f074-c06">焦淡芩鹽水炒橘紅片通草</ab>
+          <ab type="annotation" n="f074-a01" xml:id="u-f074-a01">〔白〕虎頭</ab>
+          <ab type="annotation" n="f074-a02" xml:id="u-f074-a02">巧月初九日診</ab>
+          <note type="editorial">背面「任左」正文、藥字和右外日期正墨獨立，隨073主墨疊透。稱謂右側另列小字。</note>
+          <note type="editorial">正面案頭、方列益元散及正文尾肢痠等鏡向；本面日期及「頭疼」以原向小墨判。</note>
+        </div>
+      </div>
+      <div n="75" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0075/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f075-c01" xml:id="u-f075-c01">〔任〕</ab>
+          <ab type="body" n="f075-c02" xml:id="u-f075-c02">形寒身熱神疲納呆肢痠溲赤</ab>
+          <ab type="body" n="f075-c03" xml:id="u-f075-c03">舌白脉弦治以疏泄</ab>
+          <ab type="formula" n="f075-c04" xml:id="u-f075-c04">大豆卷三赤茯苓四炒澤瀉半</ab>
+          <ab type="formula" n="f075-c05" xml:id="u-f075-c05">〔炙〕香薷二焦米仁四新會皮半</ab>
+          <ab type="formula" n="f075-c06" xml:id="u-f075-c06">焦淡芩半焦穀芽四製半夏半</ab>
+          <ab type="formula" n="f075-c07" xml:id="u-f075-c07">加辰砂六一散三通草絲分</ab>
+          <ab type="annotation" n="f075-a01" xml:id="u-f075-a01">巧月初一日診</ab>
+          <ab type="annotation" n="f075-a02" xml:id="u-f075-a02">薑炒</ab>
+          <ab type="annotation" n="f075-a03" xml:id="u-f075-a03">荷叶包</ab>
+          <note type="editorial">任案首字入右縫，右外日期受壓；正文二欄，方列四欄及小字。</note>
+        </div>
+      </div>
+      <div n="76" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0076/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f076-c01" xml:id="u-f076-c01">徐南山</ab>
+          <ab type="verso_writing" n="f076-c02" xml:id="u-f076-c02">寒熱如瘧頭疼泛惡咳嗆肢痠穀少少進脉來弦細</ab>
+          <ab type="verso_writing" n="f076-c03" xml:id="u-f076-c03">治以和解調肺氣</ab>
+          <ab type="verso_writing" n="f076-c04" xml:id="u-f076-c04">水炙柴胡芰桑叶滑米仁</ab>
+          <ab type="verso_writing" n="f076-c05" xml:id="u-f076-c05">東桑梗法半夏赤白苓</ab>
+          <ab type="verso_writing" n="f076-c06" xml:id="u-f076-c06">焦黄芩白蔻壳滑石末</ab>
+          <ab type="verso_writing" n="f076-c07" xml:id="u-f076-c07">光杏仁</ab>
+          <ab type="verso_writing" n="f076-c08" xml:id="u-f076-c08">加桔梗梗通草</ab>
+          <ab type="annotation" n="f076-a01" xml:id="u-f076-a01">荷月三十日診</ab>
+          <note type="editorial">背面右上徐南山，右外日期，正向小案文續至下緣。075反透逐欄相應。</note>
+          <note type="editorial">任字、長正文「形寒身熱」和末端「肢痠溲赤」的鏡向墨形對位；原向徐案另存。</note>
+        </div>
+      </div>
+      <div n="77" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0077/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f077-c01" xml:id="u-f077-c01">曹娘娘</ab>
+          <ab type="body" n="f077-c02" xml:id="u-f077-c02">寒熱暮發咳嗆脘脹惡泛納食晚稀脉細弦此正氣</ab>
+          <ab type="body" n="f077-c03" xml:id="u-f077-c03">不足伏邪外感客邪也</ab>
+          <ab type="formula" n="f077-c04" xml:id="u-f077-c04">〔雲〕蘇枝子法半夏半焦穀芽四</ab>
+          <ab type="formula" n="f077-c05" xml:id="u-f077-c05">嫩鈎□□白蔻壳半玫瑰花三朶</ab>
+          <ab type="formula" n="f077-c06" xml:id="u-f077-c06">小石斛三錢生附片三代代花十朶</ab>
+          <ab type="formula" n="f077-c07" xml:id="u-f077-c07">糯杏仁三錢加硃茯神三錢</ab>
+          <ab type="formula" n="f077-c08" xml:id="u-f077-c08">炒穀芽半</ab>
+          <ab type="formula" n="f077-c09" xml:id="u-f077-c09">大豆卷半</ab>
+          <ab type="annotation" n="f077-a01" xml:id="u-f077-a01">十月朔日</ab>
+          <ab type="annotation" n="f077-a02" xml:id="u-f077-a02">□□</ab>
+          <note type="editorial">字體較細、版面較寬。右外姓氏、稱位及日期，正文跨至次列，旁有增方及圈墨。左下殘朱。</note>
+          <note type="editorial">左下極淡朱色，疑字列與印面重疊。</note>
+        </div>
+      </div>
+      <div n="78" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0078/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">背面原向反透較淡，紙中縱折及左欄方筆均可對應。</note>
+          <note type="editorial">「曹娘娘」、「不足伏邪」及「大豆卷」鏡相合，未見可獨立讀正向文。</note>
+        </div>
+      </div>
+      <div n="79" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0079/canvas">
+        <div type="surface" n="recto">
+          <ab type="body" n="f079-c01" xml:id="u-f079-c01">寒熱如瘧頭疼泛惡咳嗆肢痠完穀少進脉</ab>
+          <ab type="body" n="f079-c02" xml:id="u-f079-c02">來弦細治以和解調肺氣</ab>
+          <ab type="formula" n="f079-c03" xml:id="u-f079-c03">水炙柴胡四分冬桑叶半滑米仁四</ab>
+          <ab type="formula" n="f079-c04" xml:id="u-f079-c04">東桑梗半法半夏半赤白苓三</ab>
+          <ab type="formula" n="f079-c05" xml:id="u-f079-c05">焦黄芩半白蔻壳半滑石末四</ab>
+          <ab type="formula" n="f079-c06" xml:id="u-f079-c06">光杏仁三錢加桔梗三錢</ab>
+          <ab type="formula" n="f079-c07" xml:id="u-f079-c07">梗通草分</ab>
+          <note type="editorial">右起正文未見清晰案頭；縫線帶出鄰葉，兩欄正文及小方，左下朱色兩類分開。與076徐案近文。</note>
+          <note type="editorial">下左大方篆印，當右面，字未定。</note>
+          <note type="editorial">大方朱印左側細行紅字，兩欄可讀「門人金子才」「□□芳侍診」若干，姓名待覆核。</note>
+        </div>
+      </div>
+      <div n="80" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0080/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">背面左側為正面正文的鏡向透墨，右下朱篆也對位。</note>
+          <note type="editorial">邊「寒熱如瘧」、尾「脉」及「梗通草」以鏡像對位，未辨背面獨立墨。</note>
+        </div>
+      </div>
+      <div n="81" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0081/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f081-c01" xml:id="u-f081-c01">宋〔漢亭〕</ab>
+          <ab type="body" n="f081-c02" xml:id="u-f081-c02">發瘧後寒熱未清脘滿腹脹肢痠</ab>
+          <ab type="body" n="f081-c03" xml:id="u-f081-c03">乏疲舌白脉弦治以疏和</ab>
+          <ab type="formula" n="f081-c04" xml:id="u-f081-c04">製小朴二新會皮半大腹皮三焦六麴三</ab>
+          <ab type="formula" n="f081-c05" xml:id="u-f081-c05">〔炙〕香薷半法半夏半白蔻仁半片通草二</ab>
+          <ab type="formula" n="f081-c06" xml:id="u-f081-c06">茯苓皮四焦米仁四炒澤瀉半焦淡芩半</ab>
+          <ab type="formula" n="f081-c07" xml:id="u-f081-c07">加焦白术半焦穀芽四</ab>
+          <ab type="annotation" n="f081-a01" xml:id="u-f081-a01">巧月初□日</ab>
+          <ab type="annotation" n="f081-a02" xml:id="u-f081-a02">洗</ab>
+          <ab type="annotation" n="f081-a03" xml:id="u-f081-a03">杵</ab>
+          <note type="editorial">右上宋姓與縫邊人名及日期，正文二欄，左四方欄有小注。</note>
+        </div>
+      </div>
+      <div n="82" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0082/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">背面右上反透首方，左窄邊露出相鄰葉黑墨。</note>
+          <note type="editorial">「發瘧後」與「加焦白术」翻向回至081，原向未見新增獨立書。</note>
+        </div>
+      </div>
+      <div n="83" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0083/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f083-c01" xml:id="u-f083-c01">□</ab>
+          <ab type="body" n="f083-c02" xml:id="u-f083-c02">寒熱經久時甚時輕肢痠納呆並</ab>
+          <ab type="body" n="f083-c03" xml:id="u-f083-c03">左牙衄齦出血舌白脉弦治以清解</ab>
+          <ab type="formula" n="f083-c04" xml:id="u-f083-c04">醋典柴胡分焦山梔三片通草二</ab>
+          <ab type="formula" n="f083-c05" xml:id="u-f083-c05">〔炙〕香薷二赤白苓四金銀花半</ab>
+          <ab type="formula" n="f083-c06" xml:id="u-f083-c06">焦淡芩半焦米仁四六一散三</ab>
+          <ab type="formula" n="f083-c07" xml:id="u-f083-c07">加淡竹叶半</ab>
+          <ab type="annotation" n="f083-a01" xml:id="u-f083-a01">荷□□</ab>
+          <ab type="annotation" n="f083-a02" xml:id="u-f083-a02">荷叶包</ab>
+          <note type="editorial">右上案頭貼縫而截，朱印半入縫。正文見齦出血小字；左下印色與方後墨有疊。</note>
+          <note type="editorial">右上小朱印及縫邊。</note>
+          <note type="editorial">左下朱色列字。</note>
+          <note type="editorial">左下大方朱篆。</note>
+          <note type="editorial">靠正文與方欄間散墨數點，無法連讀。</note>
+        </div>
+      </div>
+      <div n="84" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0084/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">背面中央灰墨及印轉，右上切角與083相符。</note>
+          <note type="editorial">寒熱主欄、左牙旁小墨、左方「加淡竹叶」及下部朱印均可鏡校，無可辨獨立正向欄。</note>
+        </div>
+      </div>
+      <div n="85" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0085/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f085-c01" xml:id="u-f085-c01">〔朱子榮〕</ab>
+          <ab type="body" n="f085-c02" xml:id="u-f085-c02">時當夏令身熱不解遂發白痧飲</ab>
+          <ab type="body" n="f085-c03" xml:id="u-f085-c03">嗆痰膩按脉弦細姑以清化</ab>
+          <ab type="formula" n="f085-c04" xml:id="u-f085-c04">大豆卷三粉前胡半大連翹三白蔻仁半</ab>
+          <ab type="formula" n="f085-c05" xml:id="u-f085-c05">經霜叶半光杏仁四焦山梔三焦淡芩半</ab>
+          <ab type="formula" n="f085-c06" xml:id="u-f085-c06">〔炙〕香薷二白茯苓三淨銀花半炒澤瀉半</ab>
+          <ab type="formula" n="f085-c07" xml:id="u-f085-c07">加六一散三枇杷十二張</ab>
+          <ab type="annotation" n="f085-a01" xml:id="u-f085-a01">六月十五日診</ab>
+          <ab type="annotation" n="f085-a02" xml:id="u-f085-a02">杵</ab>
+          <ab type="annotation" n="f085-a03" xml:id="u-f085-a03">杵</ab>
+          <ab type="annotation" n="f085-a04" xml:id="u-f085-a04">荷叶包</ab>
+          <ab type="annotation" n="f085-a05" xml:id="u-f085-a05">去毛</ab>
+          <note type="editorial">右上案頭約有三字，沿縫受折，主文兩欄、方四欄。左下多朱色。</note>
+          <note type="editorial">右上窄邊朱印，疊姓名。</note>
+          <note type="editorial">左下朱色直行筆。</note>
+          <note type="editorial">左下方篆印。</note>
+        </div>
+      </div>
+      <div n="86" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0086/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f086-c01" xml:id="u-f086-c01">朱子榮</ab>
+          <ab type="verso_writing" n="f086-c02" xml:id="u-f086-c02">時當夏令身熱不解遂發白痧</ab>
+          <ab type="verso_writing" n="f086-c03" xml:id="u-f086-c03">咳嗆痰膩按脉弦細姑以清化</ab>
+          <ab type="verso_writing" n="f086-c04" xml:id="u-f086-c04">大豆卷粉前胡大連翹白蔻仁</ab>
+          <ab type="verso_writing" n="f086-c05" xml:id="u-f086-c05">經霜桑叶光杏仁黑山梔焦淡芩</ab>
+          <ab type="verso_writing" n="f086-c06" xml:id="u-f086-c06">香青蒿白茯苓炒銀花炒澤瀉</ab>
+          <ab type="verso_writing" n="f086-c07" xml:id="u-f086-c07">六一散枇杷叶十</ab>
+          <ab type="annotation" n="f086-a01" xml:id="u-f086-a01">六月十五日診</ab>
+          <ab type="annotation" n="f086-a02" xml:id="u-f086-a02">〔痧〕</ab>
+          <note type="editorial">背面朱案，日期右外，另有孤立右下字。正向文和方字疊085反透。</note>
+          <note type="editorial">反看大豆卷、枇杷數字及左下印可對位；兩側大小墨書以字向分離。</note>
+        </div>
+      </div>
+      <div n="87" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0087/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f087-c01" xml:id="u-f087-c01">王左</ab>
+          <ab type="body" n="f087-c02" xml:id="u-f087-c02">伏邪秋發形寒身熱肢疼肢痠神</ab>
+          <ab type="body" n="f087-c03" xml:id="u-f087-c03">疲推納舌黄脉弦治以疏泄</ab>
+          <ab type="formula" n="f087-c04" xml:id="u-f087-c04">大豆卷三焦淡芩半焦米仁四鹽炒橘紅二</ab>
+          <ab type="formula" n="f087-c05" xml:id="u-f087-c05">〔炙〕香薷二焦山梔三赤白苓四辰砂六一散三</ab>
+          <ab type="formula" n="f087-c06" xml:id="u-f087-c06">炒柴胡半焦穀芽四炒澤瀉半</ab>
+          <ab type="formula" n="f087-c07" xml:id="u-f087-c07">加鮮佩蘭廿頁</ab>
+          <ab type="annotation" n="f087-a01" xml:id="u-f087-a01">巧月初十日診</ab>
+          <ab type="annotation" n="f087-a02" xml:id="u-f087-a02">荷叶包</ab>
+          <note type="editorial">右首王姓稱位，後有一列日期尾字入縫。正文跨兩列，方四欄及左下印。</note>
+          <note type="editorial">案頭橢圓朱印。</note>
+          <note type="editorial">左下有邊長方朱印。</note>
+          <note type="editorial">左下大方朱篆。</note>
+        </div>
+      </div>
+      <div n="88" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0088/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f088-c01" xml:id="u-f088-c01">王左</ab>
+          <ab type="verso_writing" n="f088-c02" xml:id="u-f088-c02">伏邪秋發形寒身熱頻感胸痛神疲推納</ab>
+          <ab type="verso_writing" n="f088-c03" xml:id="u-f088-c03">舌黄脉弦治以疏泄</ab>
+          <ab type="verso_writing" n="f088-c04" xml:id="u-f088-c04">大豆卷焦淡芩焦米仁鹽炒橘紅</ab>
+          <ab type="verso_writing" n="f088-c05" xml:id="u-f088-c05">〔炙〕香青蒿黑山梔赤白苓六一散</ab>
+          <ab type="verso_writing" n="f088-c06" xml:id="u-f088-c06">炒柴胡焦穀芽炒澤瀉鮮佩蘭</ab>
+          <ab type="annotation" n="f088-a01" xml:id="u-f088-a01">池家浜</ab>
+          <ab type="annotation" n="f088-a02" xml:id="u-f088-a02">巧月初十日診</ab>
+          <note type="editorial">背面王案可辨地名、日期、正文和附方，與087同姓案近文。正向紙面上有透朱與反墨。</note>
+          <note type="editorial">王案、方欄「大豆卷」及其左印見轉影，正向小字另列。</note>
+        </div>
+      </div>
+      <div n="89" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0089/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f089-c01" xml:id="u-f089-c01">〔任〕右</ab>
+          <ab type="body" n="f089-c02" xml:id="u-f089-c02">寒熱日作肢疼乏疲口渴吐惡舌白</ab>
+          <ab type="body" n="f089-c03" xml:id="u-f089-c03">脉弦治以疏解</ab>
+          <ab type="formula" n="f089-c04" xml:id="u-f089-c04">炒柴胡半焦穀芽四炒淡芩半</ab>
+          <ab type="formula" n="f089-c05" xml:id="u-f089-c05">〔炙〕香薷二焦米仁四白茯苓三</ab>
+          <ab type="formula" n="f089-c06" xml:id="u-f089-c06">鹽炒橘紅半炒澤瀉半片通草四</ab>
+          <ab type="formula" n="f089-c07" xml:id="u-f089-c07">加鹽炒竹茹半六一散三</ab>
+          <ab type="annotation" n="f089-a01" xml:id="u-f089-a01">荷月初一日</ab>
+          <ab type="annotation" n="f089-a02" xml:id="u-f089-a02">荷叶包</ab>
+          <note type="editorial">右上任姓及稱位側朱印，日期位右外窄邊。左下朱記兩層。</note>
+          <note type="editorial">右上小朱印。</note>
+          <note type="editorial">左下朱列色及外框。</note>
+          <note type="editorial">左下方篆朱印。</note>
+        </div>
+      </div>
+      <div n="90" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0090/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f090-c01" xml:id="u-f090-c01">任右</ab>
+          <ab type="verso_writing" n="f090-c02" xml:id="u-f090-c02">寒熱日作頭疼乏疲口渴吐惡舌白脉</ab>
+          <ab type="verso_writing" n="f090-c03" xml:id="u-f090-c03">弦治以疏解</ab>
+          <ab type="verso_writing" n="f090-c04" xml:id="u-f090-c04">炒柴胡焦穀芽白茯苓</ab>
+          <ab type="verso_writing" n="f090-c05" xml:id="u-f090-c05">〔炙〕香青蒿焦米仁炒淡芩</ab>
+          <ab type="verso_writing" n="f090-c06" xml:id="u-f090-c06">鹽炒橘紅炒澤瀉片通草</ab>
+          <ab type="annotation" n="f090-a01" xml:id="u-f090-a01">荷月初一日診</ab>
+          <note type="editorial">背面任案右側日期完整，正文細黑且與089近文，中央方字另可辨。</note>
+          <note type="editorial">自任字到鹽炒竹茹反向對應，其左雙印也移至背面右下。</note>
+        </div>
+      </div>
+      <div n="91" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0091/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f091-c01" xml:id="u-f091-c01">〔鍾〕左</ab>
+          <ab type="body" n="f091-c02" xml:id="u-f091-c02">寒熱日作肢疼肢痠口渴推納並</ab>
+          <ab type="body" n="f091-c03" xml:id="u-f091-c03">發白痧未退舌白脉弦按以和解</ab>
+          <ab type="formula" n="f091-c04" xml:id="u-f091-c04">炒柴胡分赤白苓四炒扁豆三片通草分</ab>
+          <ab type="formula" n="f091-c05" xml:id="u-f091-c05">〔炙〕香薷二焦米仁四細川斛四炒澤瀉半</ab>
+          <ab type="formula" n="f091-c06" xml:id="u-f091-c06">焦淡芩半炒穀芽四鹽炒橘紅二玫瑰花三朶</ab>
+          <ab type="formula" n="f091-c07" xml:id="u-f091-c07">加辰砂六一散三大連翹三</ab>
+          <ab type="annotation" n="f091-a01" xml:id="u-f091-a01">荷月十八日</ab>
+          <ab type="annotation" n="f091-a02" xml:id="u-f091-a02">□末</ab>
+          <ab type="annotation" n="f091-a03" xml:id="u-f091-a03">荷叶包</ab>
+          <note type="editorial">右上案頭疊朱，日期沿窄縫。正文兩列直至右下方，方四欄與左下印。</note>
+          <note type="editorial">右上橢圓朱印。</note>
+          <note type="editorial">左下長方朱記與墨筆重疊。</note>
+          <note type="editorial">左下方朱篆。</note>
+        </div>
+      </div>
+      <div n="92" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0092/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f092-c01" xml:id="u-f092-c01">鍾</ab>
+          <ab type="verso_writing" n="f092-c02" xml:id="u-f092-c02">形寒微熱溲赤納呆舌薄白脉弦細</ab>
+          <ab type="verso_writing" n="f092-c03" xml:id="u-f092-c03">疏滲理治</ab>
+          <ab type="annotation" n="f092-a01" xml:id="u-f092-a01">荷月廿九日診</ab>
+          <note type="editorial">背面鍾案另起正向姓名、日期與正文。左半較淡，未辨獨立可讀藥方。</note>
+          <note type="editorial">原向左上較濃的「寒」及「炒柴胡」等均與091水平翻轉墨向相應；本面右案另存。</note>
+        </div>
+      </div>
+      <div n="93" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0093/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f093-c01" xml:id="u-f093-c01">〔鍾〕</ab>
+          <ab type="body" n="f093-c02" xml:id="u-f093-c02">形寒体熱溲赤納呆舌苔白脉</ab>
+          <ab type="body" n="f093-c03" xml:id="u-f093-c03">弦細治以疏理法</ab>
+          <ab type="formula" n="f093-c04" xml:id="u-f093-c04">〔炙〕香薷二製小朴分炒澤瀉半</ab>
+          <ab type="formula" n="f093-c05" xml:id="u-f093-c05">川石斛三炒米仁四製半夏半</ab>
+          <ab type="formula" n="f093-c06" xml:id="u-f093-c06">焦淡芩半焦穀芽四片通草二</ab>
+          <ab type="formula" n="f093-c07" xml:id="u-f093-c07">加鮮佛手分六一散三</ab>
+          <ab type="annotation" n="f093-a01" xml:id="u-f093-a01">荷月十八日診</ab>
+          <ab type="annotation" n="f093-a02" xml:id="u-f093-a02">荷叶包</ab>
+          <note type="editorial">右切角及右縫壓案頭，方欄有寫入朱印區的墨筆，兩個朱記另列。</note>
+          <note type="editorial">右縫剪入的朱記。</note>
+          <note type="editorial">左下朱直行。</note>
+          <note type="editorial">左下方朱印。</note>
+        </div>
+      </div>
+      <div n="94" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0094/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f094-c01" xml:id="u-f094-c01">錢</ab>
+          <ab type="verso_writing" n="f094-c02" xml:id="u-f094-c02">寒熱日作胸痛推納口渴溲赤白疹密佈</ab>
+          <ab type="verso_writing" n="f094-c03" xml:id="u-f094-c03">舌薄白脉弦細治以滲化</ab>
+          <ab type="verso_writing" n="f094-c04" xml:id="u-f094-c04">大豆卷三焦穀芽四炒澤瀉半</ab>
+          <ab type="verso_writing" n="f094-c05" xml:id="u-f094-c05">〔炙〕香薷二焦淡芩半赤白苓四</ab>
+          <ab type="verso_writing" n="f094-c06" xml:id="u-f094-c06">廣藿香半炒扁豆三焦米仁四</ab>
+          <ab type="verso_writing" n="f094-c07" xml:id="u-f094-c07">加六一散三川石斛三</ab>
+          <ab type="annotation" n="f094-a01" xml:id="u-f094-a01">荷月廿五日診</ab>
+          <ab type="annotation" n="f094-a02" xml:id="u-f094-a02">荷叶包</ab>
+          <note type="editorial">背面有錢案正向姓名、時間、正文和方。右下斜角與正面位置相對，左邊露鄰葉。</note>
+          <note type="editorial">形寒欄、大字藥欄與兩顆底部朱記依倒向對位；本面錢字及小墨另錄。</note>
+        </div>
+      </div>
+      <div n="95" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0095/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f095-c01" xml:id="u-f095-c01">〔錢〕</ab>
+          <ab type="body" n="f095-c02" xml:id="u-f095-c02">寒熱日作肢痠推納口渴溲赤白</ab>
+          <ab type="body" n="f095-c03" xml:id="u-f095-c03">疹密佈舌苔白脉弦細按以滲化</ab>
+          <ab type="formula" n="f095-c04" xml:id="u-f095-c04">大豆卷三焦穀芽四炒澤瀉半</ab>
+          <ab type="formula" n="f095-c05" xml:id="u-f095-c05">〔炙〕香薷二焦淡芩半赤白苓四</ab>
+          <ab type="formula" n="f095-c06" xml:id="u-f095-c06">廣藿香半炒扁豆三焦米仁四</ab>
+          <ab type="formula" n="f095-c07" xml:id="u-f095-c07">加六一散三川石斛三</ab>
+          <ab type="annotation" n="f095-a01" xml:id="u-f095-a01">荷月廿三日診</ab>
+          <ab type="annotation" n="f095-a02" xml:id="u-f095-a02">荷叶包</ab>
+          <note type="editorial">錢案墨沿縫，日期側書。兩欄正診，左列方與朱記兩層。</note>
+          <note type="editorial">右上小朱印，壓案頭。</note>
+          <note type="editorial">左下朱色列印。</note>
+          <note type="editorial">左下方朱篆。</note>
+        </div>
+      </div>
+      <div n="96" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0096/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">背面右上斜折，透影在紙面各部可見。</note>
+          <note type="editorial">右上大方欄及左圍日次鏡向對位，正面「川石斛」尾筆可見，未見可分離正向欄。</note>
+        </div>
+      </div>
+      <div n="97" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0097/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f097-c01" xml:id="u-f097-c01">〔丁〕左</ab>
+          <ab type="body" n="f097-c02" xml:id="u-f097-c02">伏邪秋發形寒身熱肢疼乏疲口</ab>
+          <ab type="body" n="f097-c03" xml:id="u-f097-c03">渴引飲舌白脉弦治以清滲</ab>
+          <ab type="formula" n="f097-c04" xml:id="u-f097-c04">大豆卷三焦淡芩半赤苓四</ab>
+          <ab type="formula" n="f097-c05" xml:id="u-f097-c05">〔炙〕香薷二焦米仁四花粉三</ab>
+          <ab type="formula" n="f097-c06" xml:id="u-f097-c06">焦山梔三焦穀芽四六一散三</ab>
+          <ab type="formula" n="f097-c07" xml:id="u-f097-c07">加焦六麴三白蔻仁半</ab>
+          <ab type="annotation" n="f097-a01" xml:id="u-f097-a01">□日診</ab>
+          <ab type="annotation" n="f097-a02" xml:id="u-f097-a02">□包</ab>
+          <ab type="annotation" n="f097-a03" xml:id="u-f097-a03">杵</ab>
+          <note type="editorial">右案頭姓大筆近截、稱位位右側，正文入二欄，左方藥與小注，左下雙朱印。</note>
+          <note type="editorial">案頭小殘朱印。</note>
+          <note type="editorial">左下朱色行字。</note>
+          <note type="editorial">左下朱篆印。</note>
+        </div>
+      </div>
+      <div n="98" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0098/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f098-c01" xml:id="u-f098-c01">李</ab>
+          <ab type="verso_writing" n="f098-c02" xml:id="u-f098-c02">頭疼耳鳴風入空竅治以辛泄</ab>
+          <ab type="verso_writing" n="f098-c03" xml:id="u-f098-c03">羌活防風春白芷枳殼菊花</ab>
+          <ab type="verso_writing" n="f098-c04" xml:id="u-f098-c04">□苓甘草蔓荊子石菖蒲</ab>
+          <ab type="verso_writing" n="f098-c05" xml:id="u-f098-c05">荊芥連翹藁本□</ab>
+          <ab type="annotation" n="f098-a01" xml:id="u-f098-a01">〔荔〕月初一日診</ab>
+          <ab type="annotation" n="f098-a02" xml:id="u-f098-a02">□□</ab>
+          <note type="editorial">背面有李案的獨立正向墨字，日期靠右側。中央左方藥欄間有圈記及透墨。</note>
+          <note type="editorial">翻轉後前幅正文「伏邪秋發」和右外短增墨輪廓同位；李案獨立墨及圈另存。</note>
+        </div>
+      </div>
+      <div n="99" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0099/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f099-c01" xml:id="u-f099-c01">□</ab>
+          <ab type="body" n="f099-c02" xml:id="u-f099-c02">飲食尚少納穀未增舌白脉細</ab>
+          <ab type="body" n="f099-c03" xml:id="u-f099-c03">法再和化</ab>
+          <ab type="formula" n="f099-c04" xml:id="u-f099-c04">老川斛四焦穀芽四炒澤瀉半</ab>
+          <ab type="formula" n="f099-c05" xml:id="u-f099-c05">光杏仁四炒橘白二香薷梗二</ab>
+          <ab type="formula" n="f099-c06" xml:id="u-f099-c06">粉前胡三焦米仁四廣藿梗三</ab>
+          <ab type="formula" n="f099-c07" xml:id="u-f099-c07">加淡竹叶半白蔻仁半</ab>
+          <ab type="annotation" n="f099-a01" xml:id="u-f099-a01">□月初□日</ab>
+          <note type="editorial">案頭及右外日期靠縫，有朱印殘跡。兩欄正文，方藥有下端疊朱。</note>
+          <note type="editorial">右側淡朱印界。</note>
+          <note type="editorial">左下朱色列字疊藥。</note>
+          <note type="editorial">左下方篆淡印。</note>
+        </div>
+      </div>
+      <div n="100" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0100/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f100-c01" xml:id="u-f100-c01">陸左</ab>
+          <ab type="verso_writing" n="f100-c02" xml:id="u-f100-c02">枯燥內熱少陽胸脘脹痛二便不調舌白</ab>
+          <ab type="verso_writing" n="f100-c03" xml:id="u-f100-c03">脉弦數按頭脘疼擬以疏風滲濕</ab>
+          <ab type="verso_writing" n="f100-c04" xml:id="u-f100-c04">川羌活滑石塊生薏仁黑連翹</ab>
+          <ab type="verso_writing" n="f100-c05" xml:id="u-f100-c05">青防風炒蒼术菊花川鬱金</ab>
+          <ab type="verso_writing" n="f100-c06" xml:id="u-f100-c06">荊芥炒海金沙黄芩蘇葉</ab>
+          <ab type="verso_writing" n="f100-c07" xml:id="u-f100-c07">白杏仁□</ab>
+          <ab type="annotation" n="f100-a01" xml:id="u-f100-a01">〔荔〕月初□日診</ab>
+          <note type="editorial">背面陸案，有日期、正文及方多列，099翻轉墨與本面正文多處強疊。</note>
+          <note type="editorial">099本面的右正文、光杏仁與淡竹叶對應反透。角折墨點同處；本幅陸案之字向獨立。</note>
+        </div>
+      </div>
+      <div n="101" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0101/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f101-c01" xml:id="u-f101-c01">〔宋〕左</ab>
+          <ab type="body" n="f101-c02" xml:id="u-f101-c02">形寒身熱溲赤便溏乏疲納呆舌</ab>
+          <ab type="body" n="f101-c03" xml:id="u-f101-c03">苔白脉弦數治以滲化</ab>
+          <ab type="formula" n="f101-c04" xml:id="u-f101-c04">大豆卷三焦枳殼半炒澤瀉半</ab>
+          <ab type="formula" n="f101-c05" xml:id="u-f101-c05">〔炙〕香薷二焦六麴三赤白苓四</ab>
+          <ab type="formula" n="f101-c06" xml:id="u-f101-c06">製小朴分焦米仁四焦穀芽四</ab>
+          <ab type="formula" n="f101-c07" xml:id="u-f101-c07">加金粟豆衣四六一散三</ab>
+          <ab type="annotation" n="f101-a01" xml:id="u-f101-a01">荷月廿一日診</ab>
+          <ab type="annotation" n="f101-a02" xml:id="u-f101-a02">包</ab>
+          <note type="editorial">右上姓及稱位有朱印疊，正文二欄，下緣有「舌」字作接。附方列左。</note>
+          <note type="editorial">姓名近縫小朱印。</note>
+          <note type="editorial">左下長朱印。</note>
+          <note type="editorial">左下大方朱篆。</note>
+        </div>
+      </div>
+      <div n="102" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0102/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f102-c01" xml:id="u-f102-c01">范右</ab>
+          <ab type="verso_writing" n="f102-c02" xml:id="u-f102-c02">形寒微熱吳□脘痛便溏納呆泛惡</ab>
+          <ab type="verso_writing" n="f102-c03" xml:id="u-f102-c03">倦怠喉燥咳嗆舌苔薄白脉弦細數按風</ab>
+          <ab type="verso_writing" n="f102-c04" xml:id="u-f102-c04">大連翹三等陳皮半</ab>
+          <ab type="verso_writing" n="f102-c05" xml:id="u-f102-c05">青防風炒澤瀉三蘇葉半焦枳壳半</ab>
+          <ab type="verso_writing" n="f102-c06" xml:id="u-f102-c06">金蕎麥茸廣藿梗赤苓焦穀芽半</ab>
+          <ab type="verso_writing" n="f102-c07" xml:id="u-f102-c07">白杏仁法半夏淨蒼耳炒□</ab>
+          <ab type="annotation" n="f102-a01" xml:id="u-f102-a01">臘月初八診</ab>
+          <note type="editorial">背面新增范案，右外日期清，正文與方多處疊前正面反墨。</note>
+          <note type="editorial">101「形寒」與「加金粟豆衣」及朱印輪廓在鏡向見，可分辨本幅右外與細方墨。</note>
+        </div>
+      </div>
+      <div n="103" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0103/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f103-c01" xml:id="u-f103-c01">〔任〕右</ab>
+          <ab type="body" n="f103-c02" xml:id="u-f103-c02">寒熱尚少納穀漸增口渴肢痠乏疲</ab>
+          <ab type="body" n="f103-c03" xml:id="u-f103-c03">神疲舌白脉弦治以疏和</ab>
+          <ab type="formula" n="f103-c04" xml:id="u-f103-c04">老川斛四焦穀芽四炒澤瀉半</ab>
+          <ab type="formula" n="f103-c05" xml:id="u-f103-c05">〔炙〕香薷二焦淡芩半片通草二</ab>
+          <ab type="formula" n="f103-c06" xml:id="u-f103-c06">焦米仁四赤白苓四鹽炒橘紅二</ab>
+          <ab type="formula" n="f103-c07" xml:id="u-f103-c07">加砂仁殼半益元散三</ab>
+          <ab type="annotation" n="f103-a01" xml:id="u-f103-a01">巧月初八日診</ab>
+          <ab type="annotation" n="f103-a02" xml:id="u-f103-a02">痠</ab>
+          <ab type="annotation" n="f103-a03" xml:id="u-f103-a03">荷叶包</ab>
+          <note type="editorial">右案頭沾小朱色、旁側日期近縫。主正文至右下有增寫字，方欄左下方朱印內又見黑墨。</note>
+          <note type="editorial">案頭小朱跡。</note>
+          <note type="editorial">左下朱色長列。</note>
+          <note type="editorial">左下大方印，右下另疊濃墨小鈐。</note>
+          <note type="editorial">呈篆條似黑印，在已見朱印之右下，讀文字未定。</note>
+        </div>
+      </div>
+      <div n="104" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0104/canvas">
+        <div type="surface" n="verso">
+          <ab type="verso_writing" n="f104-c01" xml:id="u-f104-c01">馬左</ab>
+          <ab type="verso_writing" n="f104-c02" xml:id="u-f104-c02">脘痛不劇神疲推納面浮足腫</ab>
+          <ab type="verso_writing" n="f104-c03" xml:id="u-f104-c03">舌色薄白脉形弦數先以清滲</ab>
+          <ab type="verso_writing" n="f104-c04" xml:id="u-f104-c04">川斛炒澤瀉炒陳皮白蔻仁</ab>
+          <ab type="verso_writing" n="f104-c05" xml:id="u-f104-c05">焦淡芩焦米仁法半夏製香附</ab>
+          <ab type="verso_writing" n="f104-c06" xml:id="u-f104-c06">焦建麴焦穀芽煨木香</ab>
+          <ab type="annotation" n="f104-a01" xml:id="u-f104-a01">中秋初八日診</ab>
+          <ab type="annotation" n="f104-a02" xml:id="u-f104-a02">○</ab>
+          <ab type="annotation" n="f104-a03" xml:id="u-f104-a03">打</ab>
+          <note type="editorial">背面另書馬案，右側「中秋」日期，診語兩縱欄，中央方墨分組，與103反透疊。</note>
+          <note type="editorial">左縫墨另葉，其餘103「老川斛」「納穀」及朱印相反向，本面馬案為獨立小墨。</note>
+        </div>
+      </div>
+      <div n="105" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0105/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f105-c01" xml:id="u-f105-c01">〔馬〕左</ab>
+          <ab type="body" n="f105-c02" xml:id="u-f105-c02">脘痛不劇神疲推納面浮足腫舌</ab>
+          <ab type="body" n="f105-c03" xml:id="u-f105-c03">色苔白脉形弦數先以清疏</ab>
+          <ab type="formula" n="f105-c04" xml:id="u-f105-c04">薑川連分炒澤瀉二炒陳皮半</ab>
+          <ab type="formula" n="f105-c05" xml:id="u-f105-c05">焦淡芩半焦米仁四法半夏半</ab>
+          <ab type="formula" n="f105-c06" xml:id="u-f105-c06">焦建麴三焦穀芽四煨木香半</ab>
+          <ab type="formula" n="f105-c07" xml:id="u-f105-c07">加白蔻仁半分製香附四</ab>
+          <ab type="annotation" n="f105-a01" xml:id="u-f105-a01">中秋初八日診</ab>
+          <ab type="annotation" n="f105-a02" xml:id="u-f105-a02">杵</ab>
+          <ab type="annotation" n="f105-a03" xml:id="u-f105-a03">打</ab>
+          <note type="editorial">右上馬字沿縫受遮，正文與104馬案近同。中幅玫紅染痕穿紙，左緣破裂及二方底朱記。</note>
+          <note type="editorial">左下朱列字與添方疊。</note>
+          <note type="editorial">左下大方朱印。</note>
+        </div>
+      </div>
+      <div n="106" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0106/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">反面粉色染處和紙角缺折沿105對位；左窄條露鄰面正向筆。</note>
+          <note type="editorial">正面「脘痛」「薑川連」、側小字及兩層印皆鏡合。無可辨獨立正文。</note>
+        </div>
+      </div>
+      <div n="107" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0107/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f107-c01" xml:id="u-f107-c01">沈左</ab>
+          <ab type="body" n="f107-c02" xml:id="u-f107-c02">形寒身熱無汗推納神疲乏疲舌</ab>
+          <ab type="body" n="f107-c03" xml:id="u-f107-c03">色苔白脉息濡細治以疏泄</ab>
+          <ab type="formula" n="f107-c04" xml:id="u-f107-c04">冬桑叶半鹽炒陳皮半〔炙〕香薷二池菊花半</ab>
+          <ab type="formula" n="f107-c05" xml:id="u-f107-c05">大豆卷三焦穀芽四炒米仁四焦六麴三</ab>
+          <ab type="formula" n="f107-c06" xml:id="u-f107-c06">炒柴胡分雲茯苓四炒澤瀉半製小朴分</ab>
+          <ab type="formula" n="f107-c07" xml:id="u-f107-c07">加益元散三片通草二</ab>
+          <ab type="annotation" n="f107-a01" xml:id="u-f107-a01">桂月初一日診</ab>
+          <ab type="annotation" n="f107-a02" xml:id="u-f107-a02">荷叶包</ab>
+          <note type="editorial">右案沈左，右縫日期隨紙裂起伏，中部粉暈較廣，方藥中段和左下朱記。</note>
+          <note type="editorial">右上小朱印，疊案頭。</note>
+          <note type="editorial">左下長朱記。</note>
+          <note type="editorial">左下方篆淡印。</note>
+        </div>
+      </div>
+      <div n="108" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0108/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">背面右側邊疊葉，互映粉暈及大字；左窄緣所露另葉與本面分離。</note>
+          <note type="editorial">對讀「沈左」「無汗」及「益元散」，左縫近字由主墨翻影及鄰葉兩部分組成。</note>
+        </div>
+      </div>
+      <div n="109" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0109/canvas">
+        <div type="surface" n="recto">
+          <ab type="case_heading" n="f109-c01" xml:id="u-f109-c01">陳左</ab>
+          <ab type="body" n="f109-c02" xml:id="u-f109-c02">飲食氣急痰黏不爽舌白脉濡</ab>
+          <ab type="body" n="f109-c03" xml:id="u-f109-c03">治以理肺祛痰</ab>
+          <ab type="formula" n="f109-c04" xml:id="u-f109-c04">沉香片半杜蘇子三新會皮半</ab>
+          <ab type="formula" n="f109-c05" xml:id="u-f109-c05">全栝蔞半雲茯苓四真川貝半</ab>
+          <ab type="formula" n="f109-c06" xml:id="u-f109-c06">代赭石四光杏仁四法半夏半</ab>
+          <ab type="formula" n="f109-c07" xml:id="u-f109-c07">加銀杏肉三玫瑰花三朶</ab>
+          <ab type="annotation" n="f109-a01" xml:id="u-f109-a01">桂月初二日</ab>
+          <ab type="annotation" n="f109-a02" xml:id="u-f109-a02">研</ab>
+          <ab type="annotation" n="f109-a03" xml:id="u-f109-a03">薑炒</ab>
+          <ab type="annotation" n="f109-a04" xml:id="u-f109-a04">煎不打</ab>
+          <ab type="annotation" n="f109-a05" xml:id="u-f109-a05">研</ab>
+          <ab type="annotation" n="f109-a06" xml:id="u-f109-a06">包</ab>
+          <note type="editorial">卷末獨立醫案。陳左，右外日期傍縫，中央及左部藥欄和小字；紅色為粉暈，未辨朱篆。</note>
+        </div>
+      </div>
+      <div n="110" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0110/canvas">
+        <div type="surface" n="verso">
+          <note type="editorial">末葉反面連紙疊與裝訂線。主墨為109陳案鏡向反透；線邊其餘細殘墨保留位置，未成欄。</note>
+          <note type="editorial">左右翻轉可見案頭「陳左」「飲食氣急」長文以及「沉香片」「銀杏肉」方列，粉痕與紙摺同位。</note>
+          <note type="editorial">近裝訂線有少量縱排淡墨，部分與109右縫近墨同向反映；其餘無從辨出確切字序或判定同葉。</note>
+        </div>
+      </div>
+      <div n="111" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0111/canvas">
+        <div type="surface" n="recto">
+          <note type="editorial">卷末色卡重拍。同003可見紙疊、斜折、粉紅染面、右上「丁左」、黑筆塗改與原筆。下半主要被攝影色卡覆蓋。</note>
+          <note type="editorial">同葉原向，比對外側紙束分層、左上折角階梯、上中粉紅染痕及疊改墨筆，字列「丁左」「形寒身熱」「黄脉弦」逐處對得。攝影標尺框遮住下半，底端仍露003兩側欄尾。以003為文字承載幅。</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

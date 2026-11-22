@@ -1,0 +1,5272 @@
+{
+  "source": "https://resolver.staatsbibliothek-berlin.de/SBB000355D200000000",
+  "image_viewer": "https://content.staatsbibliothek-berlin.de/dc/186813833X/manifest",
+  "source_rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "shelfmark": "Slg. Unschuld 8373",
+  "data_version": "0.1.0",
+  "image_inventory": [
+    {
+      "image": 1,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0001/canvas",
+      "label": "[1]r [1]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0001/canvas",
+      "sha256": "6c5f23374473bdcbb0050064341e4dbcc2ddd75b65174d531f3a7c4a92958097",
+      "scan_width": 2361,
+      "scan_height": 4100,
+      "dimensions": [
+        2361,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f001-c01",
+          "char_offset_0based": 1,
+          "surface_text": "〔豐巖〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f001-c01",
+          "note": "兩名用字暫讀；「右」下有墨點。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f001-c02",
+          "note": "「在暮」與「脘淡」待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f001-c04",
+          "char_offset_0based": 4,
+          "surface_text": "〔銀花〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f001-c04",
+          "note": "數字與兩味名的行筆未決。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f001-c05",
+          "note": "「炙」下方數字易與相鄰欄連讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f001-a01",
+          "char_offset_0based": 0,
+          "surface_text": "〔本年月十四日按〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f001-a01",
+          "note": "與稱謂同一列而隔破孔小寫，起止字待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f001-a02",
+          "note": "左下淡朱方印輪廓及內線，印文待辨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f001-a03",
+          "note": "右上首列背後較淡的朱色痕跡；可能與套印或污漬重疊。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 2,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0002/canvas",
+      "label": "[1]v [2]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0002/canvas",
+      "sha256": "1738e6224703eab6890714b60688e341396c94177994a2453270de9b143a75de",
+      "scan_width": 1954,
+      "scan_height": 4100,
+      "dimensions": [
+        1954,
+        4100
+      ],
+      "writing_status": "bleedthrough_with_unresolved_trace",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f002-a02",
+          "note": "葉面上部兩短黑點無法明確與001對位；形不足成字，保留位置待查。本葉暫未分出獨立正向欄。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 3,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0003/canvas",
+      "label": "[2]r [3]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0003/canvas",
+      "sha256": "311d258a6679406710dc039fa2e2c18f1a84fc837294d1f8038501bbf9f4669b",
+      "scan_width": 2237,
+      "scan_height": 4100,
+      "dimensions": [
+        2237,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f003-c04",
+          "char_offset_0based": 1,
+          "surface_text": "〔藿〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f003-c04",
+          "note": "上部有濃墨塗疊，首三字不能分定。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f003-c05",
+          "note": "此欄首味待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f003-a01",
+          "char_offset_0based": 1,
+          "surface_text": "〔服〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f003-a01",
+          "char_offset_0based": 4,
+          "surface_text": "□□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f003-a01",
+          "note": "在稱位下隔開，右側貼縫被遮，待回圖，不連讀為稱謂。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f003-a02",
+          "note": "「枇杷葉三錢」左側小字。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 4,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0004/canvas",
+      "label": "[2]v [4]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0004/canvas",
+      "sha256": "f9e78f15e7abb34d361bdb4eb15dff04dffaf6ab1a5150d74eb4d7682cf7c84e",
+      "scan_width": 1966,
+      "scan_height": 4100,
+      "dimensions": [
+        1966,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 5,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0005/canvas",
+      "label": "[3]r [5]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0005/canvas",
+      "sha256": "398f5285a0a5b64d24ee8e81a62444c435bce070410504628864220eb4aadb0e",
+      "scan_width": 2048,
+      "scan_height": 4100,
+      "dimensions": [
+        2048,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f005-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔喬〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f005-c01",
+          "char_offset_0based": 3,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f005-c01",
+          "note": "稱位上部墨筆與朱印疊，下字或稱位被右緣遮。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f005-c05",
+          "note": "第二味與數字連寫待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f005-a01",
+          "char_offset_0based": 0,
+          "surface_text": "〔荷〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f005-a01",
+          "note": "靠縫獨列日期；首字暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f005-a02",
+          "note": "右上窄長淡朱文印疊稱謂，未釋。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f005-a03",
+          "note": "左下方朱痕上群，重疊欄文，與下方篆印可見不同縱向位置。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f005-a04",
+          "note": "左下方朱篆方印，篆文待辨。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 6,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0006/canvas",
+      "label": "[3]v [6]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0006/canvas",
+      "sha256": "24015a578ed7bbf7b299f8c213c5d8b04581cf908e68dfbb34d580787dbb2666",
+      "scan_width": 1979,
+      "scan_height": 4100,
+      "dimensions": [
+        1979,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 7,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0007/canvas",
+      "label": "[4]r [7]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0007/canvas",
+      "sha256": "e4ca55b6aa65f77b2b677a74855f3e44931a5a7824c098e65ecb0a2f7af37505",
+      "scan_width": 2027,
+      "scan_height": 4100,
+      "dimensions": [
+        2027,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f007-c01",
+          "note": "首字有紅印覆筆。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f007-c05",
+          "note": "首二味之量與形待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f007-c07",
+          "note": "「葉央」暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f007-a01",
+          "char_offset_0based": 0,
+          "surface_text": "〔七〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f007-a01",
+          "char_offset_0based": 5,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f007-a01",
+          "note": "右緣稱位下另見日期部分，後段有裁遮。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f007-a02",
+          "note": "右上橢長朱印，印文待辨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f007-a03",
+          "note": "左中紅章狀印跡重壓墨，界緣不齊。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f007-a04",
+          "note": "左下朱方篆印輪廓可辨。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 8,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0008/canvas",
+      "label": "[4]v [8]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0008/canvas",
+      "sha256": "5133323baa7fed505d3ffb4be0e17af9eb8e89e969ed1e9b11b30dd16d3d41c5",
+      "scan_width": 2034,
+      "scan_height": 4100,
+      "dimensions": [
+        2034,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 9,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0009/canvas",
+      "label": "[5]r [9]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0009/canvas",
+      "sha256": "2fb6c4c2a3b74542e1688ae09af33ab946e927e44b50ed7b67a7b43518dc92de",
+      "scan_width": 1978,
+      "scan_height": 4100,
+      "dimensions": [
+        1978,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f009-c01",
+          "char_offset_0based": 1,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f009-c01",
+          "note": "「任」下稱位有對葉遮擋。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f009-c04",
+          "note": "「外」疑同上方字連寫。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f009-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔旋覆〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f009-c05",
+          "note": "首味暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f009-a01",
+          "note": "右首下部淡朱長印，部分壓於鄰葉邊界。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f009-a02",
+          "note": "左中上朱記二列，與最外「引」墨重疊。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f009-a03",
+          "note": "左下朱記二列，字密，印文待辨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f009-a04",
+          "note": "左下墨色方篆印，篆文寬列。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 10,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0010/canvas",
+      "label": "[5]v [10]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0010/canvas",
+      "sha256": "b8d2886d5094f8925294b9de29bb8c453d5b2630982c3880070719d39bacafc0",
+      "scan_width": 1953,
+      "scan_height": 4100,
+      "dimensions": [
+        1953,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 11,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0011/canvas",
+      "label": "[6]r [11]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0011/canvas",
+      "sha256": "53d28b1d32366723266da35cb6c3ea0cde32312ce48fe384e59ed0c47ac3b490",
+      "scan_width": 1919,
+      "scan_height": 4100,
+      "dimensions": [
+        1919,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f011-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔雷〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f011-c01",
+          "char_offset_0based": 3,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f011-c01",
+          "note": "首字上端近裝訂，字形及稱位待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f011-c06",
+          "note": "「板」上部與鄰欄略綴。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f011-a01",
+          "char_offset_0based": 0,
+          "surface_text": "〔本月〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f011-a01",
+          "char_offset_0based": 4,
+          "surface_text": "□□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f011-a01",
+          "note": "本葉靠右縫墨跡斷續，與頭隔開。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f011-a02",
+          "note": "左緣短小字與方欄分讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f011-a03",
+          "note": "右首稱位下窄朱印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f011-a04",
+          "note": "左下最外縱長朱印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f011-a05",
+          "note": "左下朱字群，與方欄重疊。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f011-a06",
+          "note": "左下朱方篆印。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 12,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0012/canvas",
+      "label": "[6]v [12]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0012/canvas",
+      "sha256": "491c00659f437c173580446bf114c8d74e90af1c0fbdb205e7afb95545bb3c11",
+      "scan_width": 1877,
+      "scan_height": 4100,
+      "dimensions": [
+        1877,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 13,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0013/canvas",
+      "label": "[7]r [13]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0013/canvas",
+      "sha256": "77fa12c87a16a2d823c564eb4b0c1653e80fce6b35732191bcf87642d0b04974",
+      "scan_width": 1911,
+      "scan_height": 4100,
+      "dimensions": [
+        1911,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f013-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔沙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f013-c01",
+          "note": "首字見水旁傾筆，右部待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f013-c07",
+          "note": "首味暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f013-a01",
+          "char_offset_0based": 1,
+          "surface_text": "□□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f013-a01",
+          "note": "右外緣僅餘部分；續筆是否記日待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f013-a02",
+          "note": "旁小字，與白蔻仁列相近。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f013-a03",
+          "note": "右上稱謂疊朱印，邊緣小部缺失。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f013-a04",
+          "note": "左外下窄長朱印，字形不穩。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f013-a05",
+          "note": "左下朱字塊與墨方欄疊。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f013-a06",
+          "note": "左下朱方篆印，篆文待辨。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 14,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0014/canvas",
+      "label": "[7]v [14]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0014/canvas",
+      "sha256": "8edbf6e5517f908a6553319ea6cf370dd704a77598ab397c5f36820e2194b72c",
+      "scan_width": 1934,
+      "scan_height": 4100,
+      "dimensions": [
+        1934,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 15,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0015/canvas",
+      "label": "[8]r [15]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0015/canvas",
+      "sha256": "8065611d3a6c1b23541b9dabc30041b70caaa21db58efaf7809d6d51da218049",
+      "scan_width": 2053,
+      "scan_height": 4100,
+      "dimensions": [
+        2053,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f015-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔朱〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f015-c01",
+          "char_offset_0based": 3,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f015-c01",
+          "note": "首字暫讀，右上外截；稱位未辨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f015-c04",
+          "note": "首味似「冬桑葉」，未決。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f015-c08",
+          "note": "「生姜」間有細線或前導記號。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f015-a01",
+          "char_offset_0based": 0,
+          "surface_text": "□□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f015-a01",
+          "note": "右側截墨位於本葉縫邊，無可確讀全文。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f015-a02",
+          "note": "位於左下，數字及「日」與相鄰筆連寫。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f015-a03",
+          "note": "右上淡朱長印和稱位重合。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f015-a04",
+          "note": "左下淡朱字群，分列。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f015-a05",
+          "note": "左下朱方篆印輪廓可別，印文待辨。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 16,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0016/canvas",
+      "label": "[8]v [16]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0016/canvas",
+      "sha256": "c739f30120f4fdeed43829e023a6075cf5f11bf04b27c2a9dd2f91566d979ef7",
+      "scan_width": 2044,
+      "scan_height": 4100,
+      "dimensions": [
+        2044,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 17,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0017/canvas",
+      "label": "[9]r [17]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0017/canvas",
+      "sha256": "3cdba5f0055999a4bd99a1fa747c56fd9ab10192467bc5d25bd6bddce75a080d",
+      "scan_width": 1934,
+      "scan_height": 4100,
+      "dimensions": [
+        1934,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f017-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔有〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f017-c01",
+          "note": "姓名首字暫讀，最右筆受縫邊限制。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f017-a01",
+          "note": "稱謂下另寫日期，「杏」字形待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f017-a02",
+          "note": "小字位於外方欄兩味之間。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f017-a03",
+          "note": "右上稱謂旁淡朱印殘緣與粉色暈斑疊。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f017-a04",
+          "note": "左下淡朱色縱列片段，印文待釋。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f017-a05",
+          "note": "左下淡朱方印。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 18,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0018/canvas",
+      "label": "[9]v [18]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0018/canvas",
+      "sha256": "b809407c6f4f603ddef0bb5d9b45b9dc3985cc8f6de58b95a3d29e5041b39fa8",
+      "scan_width": 1892,
+      "scan_height": 4100,
+      "dimensions": [
+        1892,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 19,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0019/canvas",
+      "label": "[10]r [19]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0019/canvas",
+      "sha256": "cedeab321b151ba9e985fbbdb5b8e0be6d6b168068daa1769b2871f280385193",
+      "scan_width": 1896,
+      "scan_height": 4100,
+      "dimensions": [
+        1896,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f019-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔許〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f019-c01",
+          "note": "首字可見言旁，姓及名第一字暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f019-c04",
+          "note": "兩末味與左鄰欄較近，尾味待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f019-a01",
+          "char_offset_0based": 2,
+          "surface_text": "□□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f019-a01",
+          "note": "右緣小段被覆，是否具足日期待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f019-a02",
+          "note": "兩小字近「花十朶」右側。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f019-a03",
+          "note": "右上淡朱印殘界。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f019-a04",
+          "note": "左下朱色密列印記，部分和墨方、粉色暈染相疊。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f019-a05",
+          "note": "左下朱方篆印，印文待辨。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 20,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0020/canvas",
+      "label": "[10]v [20]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0020/canvas",
+      "sha256": "b9d9c42b6720d9108e472d585908a9fec1caef612b6f9192cf6deac93dfda7f1",
+      "scan_width": 1879,
+      "scan_height": 4100,
+      "dimensions": [
+        1879,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 21,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0021/canvas",
+      "label": "[11]r [21]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0021/canvas",
+      "sha256": "98336f0717aeef1f158a95471395df983bb0dfc2ea62e9138ca98631046e5149",
+      "scan_width": 1900,
+      "scan_height": 4100,
+      "dimensions": [
+        1900,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f021-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔許〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f021-c01",
+          "note": "與019稱呼筆形近，名第一字暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f021-c06",
+          "note": "首味中間連筆待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f021-a01",
+          "note": "日數受縫邊遮，暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f021-a02",
+          "note": "右上淡朱印暈殘。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f021-a03",
+          "note": "左下朱色列印，內字淡。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f021-a04",
+          "note": "左下朱方篆印。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 22,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0022/canvas",
+      "label": "[11]v [22]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0022/canvas",
+      "sha256": "06a5252cc96ed9918ae3cb606dc5bf6c52dd3188bdb4942ad2534245537acd89",
+      "scan_width": 1896,
+      "scan_height": 4100,
+      "dimensions": [
+        1896,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 23,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0023/canvas",
+      "label": "[12]r [23]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0023/canvas",
+      "sha256": "fda4b9466e87e57eabbba4f57a63ac3f0ecbd4f611422c7249fab2f6c5347bbd",
+      "scan_width": 1925,
+      "scan_height": 4100,
+      "dimensions": [
+        1925,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f023-c03",
+          "note": "「仙製」暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f023-c06",
+          "char_offset_0based": 10,
+          "surface_text": "〔新豆衣〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f023-c06",
+          "note": "最下藥味分辨待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f023-a01",
+          "char_offset_0based": 0,
+          "surface_text": "〔去毛〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f023-a01",
+          "note": "枇杷葉旁小書，與正方墨勢不同。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f023-a02",
+          "note": "左緣中下小列，其首二字暫讀。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 24,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0024/canvas",
+      "label": "[12]v [24]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0024/canvas",
+      "sha256": "bc0a44677de5234fdf4ee47b7f9983f2c03d2adc8aae6e7023c6639262f5de5b",
+      "scan_width": 1909,
+      "scan_height": 4100,
+      "dimensions": [
+        1909,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 25,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0025/canvas",
+      "label": "[13]r [25]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0025/canvas",
+      "sha256": "0f136c0bd2349e648f3fbe2e711358e48afaac317813d0af9655bdddc20d9f56",
+      "scan_width": 2018,
+      "scan_height": 4100,
+      "dimensions": [
+        2018,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f025-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔方〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f025-c01",
+          "note": "同後數幅案頭位置，惟字右側貼紙縫，未見全筆。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f025-a01",
+          "note": "右縫數點朱色，無可連讀印文，與大片粉紅染痕重疊。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 26,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0026/canvas",
+      "label": "[13]v [26]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0026/canvas",
+      "sha256": "ee9e7ca4956b72769698164bd60037d83ac96146863de5aa317ef0b819fcb406",
+      "scan_width": 2023,
+      "scan_height": 4100,
+      "dimensions": [
+        2023,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 27,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0027/canvas",
+      "label": "[14]r [27]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0027/canvas",
+      "sha256": "adc823537d18ac489f6075d3499b5d775c77a697ee7871fb95c4b4f3c492243b",
+      "scan_width": 2027,
+      "scan_height": 4100,
+      "dimensions": [
+        2027,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f027-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔方〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f027-c01",
+          "note": "可見主斜鉤，跨縫殘筆另層，勿擴讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f027-c05",
+          "note": "「松」形近木旁右公；或是藥名異讀，保留待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f027-a01",
+          "note": "「白蔻仁半」左側小寫。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 28,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0028/canvas",
+      "label": "[14]v [28]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0028/canvas",
+      "sha256": "e45316ce8c952bf683d4983949683fb5e0ea596a41a885e5b7c369f37e944ce9",
+      "scan_width": 2019,
+      "scan_height": 4100,
+      "dimensions": [
+        2019,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 29,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0029/canvas",
+      "label": "[15]r [29]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0029/canvas",
+      "sha256": "0d1e6fafa79dda5d495314f343cb9abd9912382aec039adaf4afee29c3732f39",
+      "scan_width": 2027,
+      "scan_height": 4100,
+      "dimensions": [
+        2027,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f029-c01",
+          "char_offset_0based": 0,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f029-c01",
+          "note": "上端墨痕及朱印同處，姓名末筆貼縫。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f029-c04",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f029-c04",
+          "note": "首字下筆長，疑「炙」，與033方欄同形；草頭藥名待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f029-c06",
+          "note": "「松」形近木旁右公，參027，不將其當作統一判讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f029-a01",
+          "note": "「白蔻仁半」左側小寫。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f029-a02",
+          "note": "右上碎方框朱印壓案頭。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f029-a03",
+          "note": "左上長形朱印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f029-a04",
+          "note": "附方左下多字朱記。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f029-a05",
+          "note": "靠左下大型方印。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 30,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0030/canvas",
+      "label": "[15]v [30]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0030/canvas",
+      "sha256": "0abfb4e2b7e319adbeee3582c18416c67aa662274250ff177257e395e2a55ea2",
+      "scan_width": 2019,
+      "scan_height": 4100,
+      "dimensions": [
+        2019,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f030-c01",
+          "note": "背面右上墨字，位置在029鏡像區上方。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f030-c02",
+          "note": "墨向與029反透相反，「穀」「增」筆畫交疊，參031同文復核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f030-c03",
+          "note": "末「濕」後本欄隔空另有添書。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f030-c04",
+          "note": "本欄下段獨立三字，疊影處未辨劑量字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f030-c05",
+          "note": "各組間留空，與031方藥名相應，數字等細筆暫未辨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f030-c06",
+          "note": "右斜字與正面反透對沖，各組間留空。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f030-c07",
+          "note": "諸藥條之間有留白，「六麴」與正面疊筆。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f030-a01",
+          "note": "背面右外欄，下起中段，與029左附方鏡像重疊，日次暫讀。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 31,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0031/canvas",
+      "label": "[16]r [31]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0031/canvas",
+      "sha256": "61130f7a65c399beaa384406960493890df7d48edc5089c1993a9a5b9c127976",
+      "scan_width": 2040,
+      "scan_height": 4100,
+      "dimensions": [
+        2040,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f031-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔方〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f031-c01",
+          "note": "案頭粗墨與上一葉相似，右側近紙縫。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f031-a01",
+          "note": "右上小方殘印，延伸至縫。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f031-a02",
+          "note": "左上長朱印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f031-a03",
+          "note": "左欄下方多字朱記。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f031-a04",
+          "note": "左下大方印。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 32,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0032/canvas",
+      "label": "[16]v [32]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0032/canvas",
+      "sha256": "c1efe18d6327d132aafdc2e97e9f499abb212faa877e42efe2bd7fb57904f7d8",
+      "scan_width": 2018,
+      "scan_height": 4100,
+      "dimensions": [
+        2018,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 33,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0033/canvas",
+      "label": "[17]r [33]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0033/canvas",
+      "sha256": "2af791b7ee278cf2ceeaebe4fcf3312fb92852aa9a93f3f0a2fae7a7cf1fe077",
+      "scan_width": 2002,
+      "scan_height": 4100,
+      "dimensions": [
+        2002,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f033-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔方〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f033-c01",
+          "note": "右沿紙縫殘，朱印重疊。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f033-c02",
+          "char_offset_0based": 6,
+          "surface_text": "〔溲〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f033-c02",
+          "note": "「溲」形旁水，右部複筆粘連，暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f033-c04",
+          "char_offset_0based": 1,
+          "surface_text": "〔菀〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f033-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f033-c05",
+          "note": "首字見029同形，草頭藥名待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f033-a01",
+          "char_offset_0based": 0,
+          "surface_text": "〔薑汁〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f033-a01",
+          "note": "夾在「紫」起方與「製半夏」欄之間，二小字墨痕，候選讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f033-a02",
+          "note": "「白蔻仁半」左側小寫。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f033-a03",
+          "note": "右上案頭朱印碎跡。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f033-a04",
+          "note": "左上朱記。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f033-a05",
+          "note": "左下方欄朱記。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f033-a06",
+          "note": "左下大方印。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 34,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0034/canvas",
+      "label": "[17]v [34]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0034/canvas",
+      "sha256": "1eb673a64d397f9a91489c87e55fdeb0fb07bffb9353702e38565c3c3757df8e",
+      "scan_width": 2007,
+      "scan_height": 4100,
+      "dimensions": [
+        2007,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 35,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0035/canvas",
+      "label": "[18]r [35]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0035/canvas",
+      "sha256": "d607d783bc0aae98877c1d90a3bdebf486449d8897ed4a354903c0f35dbe7afe",
+      "scan_width": 1993,
+      "scan_height": 4100,
+      "dimensions": [
+        1993,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f035-c01",
+          "char_offset_0based": 0,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f035-c01",
+          "note": "右上朱印覆墨，字貼紙縫。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f035-c03",
+          "char_offset_0based": 9,
+          "surface_text": "〔以〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f035-c03",
+          "note": "「營」與「解」之間一字牽筆濃密，暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f035-c04",
+          "char_offset_0based": 0,
+          "surface_text": "〔醋製〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f035-c04",
+          "note": "上頭二字筆序疊透，辨見「酉」形，製字仍待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f035-c06",
+          "char_offset_0based": 5,
+          "surface_text": "〔薑〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f035-c06",
+          "note": "兩組之間有反透筆，疑「薑」，候選保留。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f035-c07",
+          "char_offset_0based": 0,
+          "surface_text": "〔梗米〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f035-c07",
+          "char_offset_0based": 4,
+          "surface_text": "〔薄荷〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f035-c07",
+          "char_offset_0based": 8,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f035-c07",
+          "note": "左緣正向墨與對面反透日期疊用，藥名「梗米」「薄荷」暫讀，末有零碎字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f035-a01",
+          "note": "「川貝母二」之下三小筆，疑其中首字「高」，末二見「不打」。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f035-a02",
+          "note": "右上方框朱印與案頭近重。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f035-a03",
+          "note": "左上長朱記，與粗墨有交疊。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f035-a04",
+          "note": "左外多字朱記。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f035-a05",
+          "note": "左下大方印。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 36,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0036/canvas",
+      "label": "[18]v [36]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0036/canvas",
+      "sha256": "b2f1357602670573f90a94fe1338ccc1c140330e8d31b084fd9d7faa492e5a3b",
+      "scan_width": 1964,
+      "scan_height": 4100,
+      "dimensions": [
+        1964,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f036-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔李〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f036-c01",
+          "note": "右上木形及子形粗墨，與035左外字互為反影；可疑姓字按右幅正向暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f036-c02",
+          "note": "與035右正文語句近同，在本幅偏右正向可辨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f036-c03",
+          "note": "利用035對讀確定順讀位置；「擬以」附近細筆交疊，保留本幅讀法。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f036-c04",
+          "char_offset_0based": 0,
+          "surface_text": "〔醋製〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f036-c04",
+          "note": "上起二字存疑，中下可辨三藥起筆；間隙無從核定劑量。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f036-c05",
+          "note": "方名小筆和035欄疊壓，下半段較淡。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f036-c06",
+          "char_offset_0based": 0,
+          "surface_text": "〔□□梗〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f036-c06",
+          "char_offset_0based": 5,
+          "surface_text": "〔粳〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f036-c06",
+          "note": "首組只確定疑「梗」，米字旁和左欄邊疊筆。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f036-c07",
+          "char_offset_0based": 5,
+          "surface_text": "□□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f036-c07",
+          "note": "最左小墨另筆，尾部未辨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f036-a01",
+          "char_offset_0based": 0,
+          "surface_text": "〔六〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f036-a01",
+          "note": "位右外欄。「月」字鉤向與036原向吻合，月數或有別讀，「日診」與墨朱重疊。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 37,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0037/canvas",
+      "label": "[19]r [37]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0037/canvas",
+      "sha256": "f53c0820afd245bc846bf3dbd67b0fef97e5d8ec5e1160a8144e3ef931502654",
+      "scan_width": 1931,
+      "scan_height": 4100,
+      "dimensions": [
+        1931,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f037-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔徐〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f037-c01",
+          "char_offset_0based": 3,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f037-c01",
+          "note": "右側為縫所遮，首字疑彳旁。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f037-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f037-c05",
+          "note": "首字同前數方，形近「炙」。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f037-a01",
+          "note": "「大腹皮」左側小字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f037-a02",
+          "note": "右上近縫小朱殘印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f037-a03",
+          "note": "左下正文型朱色列字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f037-a04",
+          "note": "左下大方朱篆。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 38,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0038/canvas",
+      "label": "[19]v [38]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0038/canvas",
+      "sha256": "63df551278d27a9f0b924511c4c8c3425e86ff5f285ece3bdf37ac75ff7c08dd",
+      "scan_width": 1934,
+      "scan_height": 4100,
+      "dimensions": [
+        1934,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f038-c02",
+          "note": "「胸」與反影交疊，暫從原幅正向筆讀，參039「胸」形。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f038-c03",
+          "note": "正文下與方名同欄。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f038-c04",
+          "note": "三方名分段小墨，疊透落在左末。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f038-c06",
+          "note": "首味第二字及「冬瓜」末組仍需覆核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f038-a01",
+          "note": "右外疊透處，「朔」右部月形可辨。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 39,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0039/canvas",
+      "label": "[20]r [39]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0039/canvas",
+      "sha256": "d79e9ffc11c3947b1454e26a634a8172f18e831dbc30800b2c737c656ab7a314",
+      "scan_width": 1935,
+      "scan_height": 4100,
+      "dimensions": [
+        1935,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f039-a01",
+          "note": "「代赭石」量旁小字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f039-a02",
+          "note": "「雲茯苓」後右小字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f039-a03",
+          "note": "靠左「杜蘇子」後旁寫。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f039-a04",
+          "note": "位兩附方欄末下側，讀法待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f039-a05",
+          "note": "右上方印疊在案頭。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f039-a06",
+          "note": "左下朱色分列文字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f039-a07",
+          "note": "左下朱篆方印。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 40,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0040/canvas",
+      "label": "[20]v [40]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0040/canvas",
+      "sha256": "8a0545bb583cfd7ca4fcf06df6c5c58380be2c56aa26130a624359d207b32324",
+      "scan_width": 1947,
+      "scan_height": 4100,
+      "dimensions": [
+        1947,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f040-c02",
+          "char_offset_0based": 9,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f040-c02",
+          "note": "中下部分筆畫重疊，參041可辨正文前段，末三字待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f040-c03",
+          "note": "前半二詞疊墨，讀法待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f040-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f040-a01",
+          "note": "「初二」部分落在透字上，日期暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f040-a03",
+          "note": "下角粗墨長橫，與039末端黑痕同區，紙面起筆關係待核，無連讀。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 41,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0041/canvas",
+      "label": "[21]r [41]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0041/canvas",
+      "sha256": "30373dd4478cb9e374494eee52d0e18cf0b8326464272143e93c0abf6c7ac8af",
+      "scan_width": 1939,
+      "scan_height": 4100,
+      "dimensions": [
+        1939,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f041-c01",
+          "note": "「張」左部有墨擦，040同名較清。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f041-c02",
+          "note": "「豆」字像豆形，意義待校。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f041-c03",
+          "note": "「推納」暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f041-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f041-a01",
+          "note": "左下方末之旁寫。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f041-a02",
+          "note": "右上朱印界在案頭。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f041-a03",
+          "note": "左下三列淡朱字跡。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f041-a04",
+          "note": "左下朱篆方印。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 42,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0042/canvas",
+      "label": "[21]v [42]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0042/canvas",
+      "sha256": "2cbb593cfdbad5da95cd5c9d762b74c7cf1c1c975b4afcb79e177481dc810770",
+      "scan_width": 1973,
+      "scan_height": 4100,
+      "dimensions": [
+        1973,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 43,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0043/canvas",
+      "label": "[22]r [43]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0043/canvas",
+      "sha256": "21e2415bc9cb07b5bd20794256d835c81f00dc5c30893b2d6b7ec42fe8647154",
+      "scan_width": 1964,
+      "scan_height": 4100,
+      "dimensions": [
+        1964,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f043-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔張〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f043-c01",
+          "note": "字處紙縫並疊朱印，參041同姓形，本幅仍暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f043-c02",
+          "char_offset_0based": 2,
+          "surface_text": "□□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f043-c02",
+          "char_offset_0based": 6,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f043-c02",
+          "note": "所見為縫內殘筆，文字順序有缺，44面同姓案未用來補本面。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f043-a01",
+          "note": "白蔻仁的左側小墨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f043-a02",
+          "note": "六一散旁書。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f043-a03",
+          "char_offset_0based": 0,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f043-a03",
+          "note": "左下符式墨字，首筆回環，難辨是否日期。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f043-a04",
+          "note": "右上硃痕約橢圓。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f043-a05",
+          "note": "下左多列朱色。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f043-a06",
+          "note": "下左大方篆印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f043-a07",
+          "note": "小直方朱色。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f043-a08",
+          "note": "小方朱色。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 44,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0044/canvas",
+      "label": "[22]v [44]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0044/canvas",
+      "sha256": "4271f1058b479155ad37db9a54e28ecd60ce3539c593a9caf4b36d11bbc4dc9b",
+      "scan_width": 1917,
+      "scan_height": 4100,
+      "dimensions": [
+        1917,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f044-c02",
+          "note": "本欄長，數字與043墨跡疊；「䐜」暫從月旁，前後語暫讀。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 45,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0045/canvas",
+      "label": "[23]r [45]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0045/canvas",
+      "sha256": "14b4c13117eb4a7afa182aa5af4426725cdf911d1e2c661131a9f79c60496744",
+      "scan_width": 1985,
+      "scan_height": 4100,
+      "dimensions": [
+        1985,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f045-c02",
+          "char_offset_0based": 9,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f045-c02",
+          "note": "貼縫半欄；「酸痠」形未清，保留。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f045-c04",
+          "note": "首味下字牽筆，暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f045-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f045-c06",
+          "note": "首味「兠」「鈴」筆形皆待校。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f045-a01",
+          "note": "散字左下小注。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f045-a02",
+          "note": "方末另起，首字候選。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f045-a03",
+          "char_offset_0based": 0,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f045-a03",
+          "note": "左下墨痕，首個回環與043旁書接近。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f045-a04",
+          "note": "右上朱印覆案頭。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f045-a05",
+          "note": "左下朱文字列。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f045-a06",
+          "note": "左下方篆朱印。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 46,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0046/canvas",
+      "label": "[23]v [46]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0046/canvas",
+      "sha256": "ea5c6276454cbcaa380573a545444df7adf25fa5769acf7d347a7004cec9840f",
+      "scan_width": 1981,
+      "scan_height": 4100,
+      "dimensions": [
+        1981,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f046-c02",
+          "note": "後半「腹脹」及末字相疊，參047近文。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f046-c03",
+          "note": "末二字較淡。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f046-c04",
+          "note": "位正文第二欄的下方，兩藥在該區分列。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f046-c06",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f046-a01",
+          "note": "案頭右細字，「楊」左形交疊。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f046-a02",
+          "note": "右外直列，日數上筆待核。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 47,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0047/canvas",
+      "label": "[24]r [47]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0047/canvas",
+      "sha256": "e05438586c77c833cbca2a028a1f945e8c3424cf12c4e1bede97fa1fdeabea04",
+      "scan_width": 2014,
+      "scan_height": 4100,
+      "dimensions": [
+        2014,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f047-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f047-a01",
+          "note": "右縫日期末部近頁緣，須與046另對。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f047-a02",
+          "note": "白蔻仁左小字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f047-a03",
+          "note": "右上案頭橢圓朱痕。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f047-a04",
+          "note": "左下零碎朱印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f047-a05",
+          "note": "左下方篆朱印。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 48,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0048/canvas",
+      "label": "[24]v [48]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0048/canvas",
+      "sha256": "4ce6b1b608200dd47506f49c2c2fe2f4bebd87d8f952d5ab74e0f0957a5a1b9f",
+      "scan_width": 1981,
+      "scan_height": 4100,
+      "dimensions": [
+        1981,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f048-c02",
+          "note": "「胸悶」旁透筆掩第一字，暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f048-c04",
+          "note": "第二藥頭字和047反影重疊。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f048-c06",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f048-c07",
+          "note": "白蔻靠左，尾組小筆疊透。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f048-a01",
+          "note": "右上姓旁三小字，末形疑「村」。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f048-a02",
+          "char_offset_0based": 0,
+          "surface_text": "〔初〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f048-a02",
+          "note": "右外墨字，「初」斜筆不清。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 49,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0049/canvas",
+      "label": "[25]r [49]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0049/canvas",
+      "sha256": "ad23b7d7316eb9ea8a9f7ae55d58ec6f944811cb3f74fd305e888c05c9f0a42f",
+      "scan_width": 1981,
+      "scan_height": 4100,
+      "dimensions": [
+        1981,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f049-c01",
+          "note": "正文與048同姓案近同，稱位按本幅形讀「左」。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f049-c06",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f049-a01",
+          "char_offset_0based": 0,
+          "surface_text": "〔初〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f049-a01",
+          "note": "靠右縫日期之上字逢壓，下端亦入縫。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f049-a02",
+          "note": "右接「白蔻仁」的縱注。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f049-a03",
+          "note": "散字左旁。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f049-a04",
+          "note": "右上朱印與案頭重疊。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f049-a05",
+          "note": "左下淡朱色列字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f049-a06",
+          "note": "左下方朱篆，右半疊黑筆。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 50,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0050/canvas",
+      "label": "[25]v [50]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0050/canvas",
+      "sha256": "fecc9488cf9507311dc2964bcdd216b754bfbbe6ca104a02905574cff60971ff",
+      "scan_width": 1977,
+      "scan_height": 4100,
+      "dimensions": [
+        1977,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f050-c01",
+          "char_offset_0based": 1,
+          "surface_text": "〔右〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f050-c01",
+          "note": "稱位小字向右下斜，末筆與透印無涉但讀形暫定。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f050-c02",
+          "note": "疊影中仍可辨木旁、阝等字局部，末段暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f050-c03",
+          "note": "中段筆勢交錯，若干字暫從文勢。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f050-c04",
+          "note": "方字分段，其中粟米與劑量相鄰，尚待複核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f050-c05",
+          "note": "最後一組左部壓透。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f050-c06",
+          "char_offset_0based": 10,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f050-c06",
+          "note": "最下小墨與背透邊線並疊。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f050-a01",
+          "char_offset_0based": 0,
+          "surface_text": "〔孟〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f050-a01",
+          "note": "位置右外，字稍疊透；上段也可能是「十月」，所錄保留候選。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 51,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0051/canvas",
+      "label": "[26]r [51]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0051/canvas",
+      "sha256": "8b4adaace226e84a189cff4ec10e30647ce72516da0881d6814488ea042a1806",
+      "scan_width": 1976,
+      "scan_height": 4100,
+      "dimensions": [
+        1976,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f051-a01",
+          "note": "最右縫中可辨月份與日數部分，確讀待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f051-a02",
+          "note": "製香附側小書。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f051-a03",
+          "note": "白蔻仁半左側小黑字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f051-a04",
+          "note": "左下朱色列字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f051-a05",
+          "note": "左下方朱印。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 52,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0052/canvas",
+      "label": "[26]v [52]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0052/canvas",
+      "sha256": "62c4d49d13370a90de6ff32255cfaec850e890a1c068c8753f6c6e86c200d78b",
+      "scan_width": 1952,
+      "scan_height": 4100,
+      "dimensions": [
+        1952,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 53,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0053/canvas",
+      "label": "[27]r [53]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0053/canvas",
+      "sha256": "51280e27621e4e2a3bd042c0d0a6083689a9211d4f3d71fa79cbb47e8996e2d6",
+      "scan_width": 1976,
+      "scan_height": 4100,
+      "dimensions": [
+        1976,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f053-c04",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f053-a01",
+          "char_offset_0based": 0,
+          "surface_text": "〔初〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f053-a01",
+          "note": "右縫內斜列日期，首字受邊摺。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f053-a02",
+          "note": "益元散側小墨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f053-a03",
+          "note": "白蔻仁側較大字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f053-a04",
+          "note": "右上朱印疊邱字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f053-a05",
+          "note": "左下朱色列字，又見方欄黑墨疊壓。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f053-a06",
+          "note": "左下方朱篆，內有下行墨點。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 54,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0054/canvas",
+      "label": "[27]v [54]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0054/canvas",
+      "sha256": "89069f5c0f798d17084a9fcefda76b04317d405971f516ac8f3d43971082dd64",
+      "scan_width": 1981,
+      "scan_height": 4100,
+      "dimensions": [
+        1981,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 55,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0055/canvas",
+      "label": "[28]r [55]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0055/canvas",
+      "sha256": "0892a69bddd92ced8642bbf6107e7213bcd2757bb8d2dead2695b5babca0abb7",
+      "scan_width": 1976,
+      "scan_height": 4100,
+      "dimensions": [
+        1976,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f055-c01",
+          "char_offset_0based": 1,
+          "surface_text": "〔右〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f055-c01",
+          "note": "稱位貼縫，筆畫殘。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f055-c02",
+          "note": "「不作」兩字牽筆，讀法待校。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f055-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f055-c06",
+          "char_offset_0based": 9,
+          "surface_text": "〔石炒〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f055-c06",
+          "note": "「石炒」或與後一味有記號關係，暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f055-a01",
+          "note": "右欄下三字入縫附近，月份首字暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f055-a02",
+          "note": "「大腹皮三」左旁小筆。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f055-a03",
+          "note": "六一散左側小注入朱印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f055-a04",
+          "note": "右上橢圓朱痕。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f055-a05",
+          "note": "左下朱色列印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f055-a06",
+          "note": "左下方朱篆。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 56,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0056/canvas",
+      "label": "[28]v [56]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0056/canvas",
+      "sha256": "99bb70df35292ba12932871c99d8a82aa7f32fa76a78da140d4f044432e2a806",
+      "scan_width": 1944,
+      "scan_height": 4100,
+      "dimensions": [
+        1944,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 57,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0057/canvas",
+      "label": "[29]r [57]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0057/canvas",
+      "sha256": "89bfca2b5bfaa7a7bd88530a2cbeb293c2e93e7003aad560a20c5af031e2eeba",
+      "scan_width": 1967,
+      "scan_height": 4100,
+      "dimensions": [
+        1967,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f057-c03",
+          "note": "「擬議」與右欄大筆互近，暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f057-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f057-a01",
+          "note": "「八」貼縫，末筆斜下。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f057-a02",
+          "note": "大腹皮側小字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f057-a03",
+          "note": "益元散旁書。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f057-a04",
+          "note": "右上案頭橢圓朱印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f057-a05",
+          "note": "左下朱列字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f057-a06",
+          "note": "左下大朱方印。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 58,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0058/canvas",
+      "label": "[29]v [58]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0058/canvas",
+      "sha256": "0b3013aaec9cfa86d75e9d024a50f029ad1099b0e3f3f0965573c3a02da2fa16",
+      "scan_width": 1944,
+      "scan_height": 4100,
+      "dimensions": [
+        1944,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 59,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0059/canvas",
+      "label": "[30]r [59]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0059/canvas",
+      "sha256": "2254dc7906c7709279a264b21154ad5123556f2cb1c6e3b3e4ec41ed83bc3f64",
+      "scan_width": 1959,
+      "scan_height": 4100,
+      "dimensions": [
+        1959,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f059-c01",
+          "char_offset_0based": 1,
+          "surface_text": "〔秉〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f059-c01",
+          "char_offset_0based": 4,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f059-c01",
+          "note": "右下細字末部貼縫，名未能確讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f059-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f059-a01",
+          "note": "右緣數字筆與折入的右紙交疊。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f059-a02",
+          "char_offset_0based": 0,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f059-a02",
+          "note": "加字下一小墨未辨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f059-a03",
+          "note": "散字旁小墨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f059-a04",
+          "note": "右上小朱印與何字重疊。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f059-a05",
+          "note": "左下多列淺朱印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f059-a06",
+          "note": "左下方印，與底角斜折交疊。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 60,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0060/canvas",
+      "label": "[30]v [60]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0060/canvas",
+      "sha256": "dd45dd7fcb7497790c0e93a53d27ea707841de6dcccd88595783e7022b52e01b",
+      "scan_width": 1936,
+      "scan_height": 4100,
+      "dimensions": [
+        1936,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 61,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0061/canvas",
+      "label": "[31]r [61]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0061/canvas",
+      "sha256": "32c06b42e4765da5b51cdb7791473a079b5b7a123020b1e8bae94485a8bf671a",
+      "scan_width": 2171,
+      "scan_height": 4100,
+      "dimensions": [
+        2171,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f061-c07",
+          "note": "末藥字形似「李」，讀法待校。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f061-a01",
+          "note": "日期月以下破缺，正文另列。月右折的另一筆不補。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f061-a02",
+          "note": "白蔻與左欄相接小筆。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 62,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0062/canvas",
+      "label": "[31]v [62]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0062/canvas",
+      "sha256": "a0cf046691c0053606173c82accb92322e98507872ce150264dd97a5dfd135c7",
+      "scan_width": 2205,
+      "scan_height": 4100,
+      "dimensions": [
+        2205,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f062-c02",
+          "note": "「即吐」獨立細書，前幾字也見061正面近文。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f062-a01",
+          "note": "右外墨列，「廿三」末橫清楚。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 63,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0063/canvas",
+      "label": "[32]r [63]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0063/canvas",
+      "sha256": "b9cba07be059eab5ef41007cede5a2fbd9be82004ca9a8d1ca2d70dc94372df3",
+      "scan_width": 1967,
+      "scan_height": 4100,
+      "dimensions": [
+        1967,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f063-c01",
+          "char_offset_0based": 1,
+          "surface_text": "〔紹生〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f063-c01",
+          "note": "名二字靠右，第一字上半不清。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f063-c02",
+          "note": "「疲倦」兩字近脈證墨痕，原字待校。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f063-c05",
+          "note": "「秦艽」字形近，首字「左」疑方藥所帶記號。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f063-c06",
+          "note": "首味可能是「枳殼」，字形待校。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f063-c07",
+          "note": "「辰」字及「頁」讀法待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f063-a01",
+          "note": "末段與上幅破缺外沿相接，原圖見斜筆。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f063-a02",
+          "note": "真川貝下列細字，首字暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f063-a03",
+          "note": "薄荷旁書兩字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f063-a04",
+          "note": "新會皮旁墨，第二字牽筆。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f063-a05",
+          "note": "右上小朱印，壓沈字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f063-a06",
+          "note": "左下朱列字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f063-a07",
+          "note": "左下淡方朱篆。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 64,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0064/canvas",
+      "label": "[32]v [64]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0064/canvas",
+      "sha256": "848a72e27f6848b4026c64e4181253610933195e521020630f5b1c3d2c5d374f",
+      "scan_width": 1965,
+      "scan_height": 4100,
+      "dimensions": [
+        1965,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f064-c02",
+          "note": "中段短語受063多筆交覆，末字暫從形讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f064-c03",
+          "note": "「面白」以下有反透強墨，保留校讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f064-c04",
+          "char_offset_0based": 0,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f064-c04",
+          "char_offset_0based": 7,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f064-c04",
+          "char_offset_0based": 11,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f064-c04",
+          "note": "藥欄初、中、末幾處疊透。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f064-c05",
+          "char_offset_0based": 9,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f064-c05",
+          "note": "首二字和「半夏」下筆列待校。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f064-c06",
+          "note": "中二處受大字反相橫過，末味約讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f064-c07",
+          "char_offset_0based": 10,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f064-c07",
+          "note": "末段二小字相疊，部分藥名有待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f064-a01",
+          "note": "右外日期；日次與診後連筆相依，暫讀。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 65,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0065/canvas",
+      "label": "[33]r [65]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0065/canvas",
+      "sha256": "a304a08e9963cf94a3cd86b0c40595f3e4654907d7d8b2cbaae7c9188b824477",
+      "scan_width": 1961,
+      "scan_height": 4100,
+      "dimensions": [
+        1961,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f065-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔張〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f065-c01",
+          "note": "右端靠縫且壓朱印，姓暫讀，參066近文。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f065-c03",
+          "note": "「舌勢」是否「其勢」待校，末二字以形暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f065-a01",
+          "note": "右縫墨列，上下有缺。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f065-a02",
+          "note": "右上小朱印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f065-a03",
+          "note": "左下多列朱印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f065-a04",
+          "note": "左下方朱篆。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 66,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0066/canvas",
+      "label": "[33]v [66]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0066/canvas",
+      "sha256": "28dfe8eda6233e4ebac2c66b924aea7acb563792742062544c60c16edda733a7",
+      "scan_width": 1957,
+      "scan_height": 4100,
+      "dimensions": [
+        1957,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f066-c03",
+          "char_offset_0based": 5,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f066-c03",
+          "note": "中間字上方多條反透細筆。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f066-c04",
+          "note": "第二筆下方另小方名，末是否量字待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f066-c05",
+          "note": "靠中下的小墨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f066-c08",
+          "char_offset_0based": 10,
+          "surface_text": "□□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f066-a01",
+          "note": "右外小列，日次位置與透影互疊。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 67,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0067/canvas",
+      "label": "[34]r [67]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0067/canvas",
+      "sha256": "d1b374e464a75abdf819bfe862a67f22d089b9983b0a23b678b3683516c28af9",
+      "scan_width": 1998,
+      "scan_height": 4100,
+      "dimensions": [
+        1998,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f067-c03",
+          "note": "「數」放筆與治字相近，暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f067-c06",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f067-a01",
+          "char_offset_0based": 0,
+          "surface_text": "〔巧〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f067-a01",
+          "note": "月上字左邊外伸，貼縫。日數與068分讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f067-a02",
+          "note": "散字左下小書。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f067-a03",
+          "note": "右上小朱印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f067-a04",
+          "note": "左下朱色列字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f067-a05",
+          "note": "左下大方朱篆。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 68,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0068/canvas",
+      "label": "[34]v [68]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0068/canvas",
+      "sha256": "a635d72e4c3e82946333e61f72fb928a9fcc91c2f9e14560761d97e4a97dce5e",
+      "scan_width": 1973,
+      "scan_height": 4100,
+      "dimensions": [
+        1973,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f068-c02",
+          "note": "「微」與反透交疊，部分字從正墨暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f068-c03",
+          "note": "「粒」形似米旁，暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f068-c04",
+          "note": "正文第二欄下另有方名，「一方」在下右位置。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f068-c07",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f068-a01",
+          "note": "稱位右二字，「浜」偏旁如水，保留原字形。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f068-a02",
+          "note": "右外直列。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f068-a03",
+          "note": "靠右下正向字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f068-a04",
+          "note": "前記左側另一筆，稍低。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 69,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0069/canvas",
+      "label": "[35]r [69]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0069/canvas",
+      "sha256": "b771dfa29048fa4bef5715cc57093153630ce75a374b7848781f390744aa168e",
+      "scan_width": 1981,
+      "scan_height": 4100,
+      "dimensions": [
+        1981,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f069-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f069-a01",
+          "note": "右縫上端另有擦痕，月名首字暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f069-a02",
+          "note": "散字左側大墨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f069-a03",
+          "note": "白蔻仁下沿左小墨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f069-a04",
+          "note": "右上小朱印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f069-a05",
+          "note": "左下淺朱列字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f069-a06",
+          "note": "左下朱篆方印。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 70,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0070/canvas",
+      "label": "[35]v [70]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0070/canvas",
+      "sha256": "8573bddd6d809c3c8c3243edc1db92f56e82e7b0b7fc5cb2d587752d9b3e0932",
+      "scan_width": 1957,
+      "scan_height": 4100,
+      "dimensions": [
+        1957,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 71,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0071/canvas",
+      "label": "[36]r [71]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0071/canvas",
+      "sha256": "d680a0d26e6dae12f16920cdf9526a65d5c123a447b10ff691ed1c841197224d",
+      "scan_width": 1981,
+      "scan_height": 4100,
+      "dimensions": [
+        1981,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f071-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔錢〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f071-c01",
+          "note": "字大幅疊右上印色，暫取原圖金旁筆，參072案頭。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f071-c02",
+          "note": "「胸仍滿悶」之字多連筆，仍待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f071-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f071-c07",
+          "note": "「佩蘭」與072「鮮荷叶」字形不同，按本幅暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f071-a01",
+          "note": "右縫附近，日次筆部入纖維折線。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f071-a02",
+          "note": "益元散方末之包字入左下。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f071-a03",
+          "note": "右上朱印與墨重合。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f071-a04",
+          "note": "左下長方朱記，篆隸未決。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f071-a05",
+          "note": "左下朱篆，朱邊較整。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f071-a06",
+          "note": "左外斜長粗墨近邊角，無連讀。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 72,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0072/canvas",
+      "label": "[36]v [72]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0072/canvas",
+      "sha256": "8b19143fb45b8cef814dbbd42747fff74bd0edc2b598d172b74859aa1f394419",
+      "scan_width": 1965,
+      "scan_height": 4100,
+      "dimensions": [
+        1965,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f072-c02",
+          "note": "「自痰滿慄」四個位置疊墨，保留讀法。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f072-c06",
+          "note": "「梗」與「通草」首筆靠近。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f072-a01",
+          "note": "姓名右三字，左三點水筆明見。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f072-a02",
+          "note": "右外側字，「晦」左日形、下「日」明。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f072-a03",
+          "note": "右下正向較大字。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 73,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0073/canvas",
+      "label": "[37]r [73]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0073/canvas",
+      "sha256": "2214adf96b86048d36d77fc349bb7767ef9f44fbbecf77f6d8797ab090064af4",
+      "scan_width": 1977,
+      "scan_height": 4100,
+      "dimensions": [
+        1977,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f073-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔任〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f073-c01",
+          "note": "姓字右側貼縫，參074正向案頭。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f073-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f073-a01",
+          "note": "末日數被縫切，疑讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f073-a02",
+          "note": "散字左側下小筆。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f073-a03",
+          "note": "白扣仁側小字。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 74,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0074/canvas",
+      "label": "[37]v [74]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0074/canvas",
+      "sha256": "5df5bac04e9da592402c596adeed4533c36804e912ce9ee73d9f42236479bfb6",
+      "scan_width": 1952,
+      "scan_height": 4100,
+      "dimensions": [
+        1952,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f074-c04",
+          "note": "首詞正墨間可見獨立「水」筆，「谷」保留字面。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f074-a01",
+          "char_offset_0based": 0,
+          "surface_text": "〔白〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f074-a01",
+          "note": "稱謂右小筆，首字右上有折，暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f074-a02",
+          "note": "獨立右外欄，初與下字相連。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 75,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0075/canvas",
+      "label": "[38]r [75]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0075/canvas",
+      "sha256": "440eaf11a8927335cec8125873862e12e55fedce2af9700577cdfeb3a1734647",
+      "scan_width": 1963,
+      "scan_height": 4100,
+      "dimensions": [
+        1963,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f075-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔任〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f075-c01",
+          "note": "字右與紙縫重，參前幅，保留暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f075-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f075-c07",
+          "note": "「辰砂」暫從字形，附藥名在末。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f075-a01",
+          "note": "右邊見「巧月初」「診」斜筆，日數筆受遮。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f075-a02",
+          "note": "新會皮方末左小字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f075-a03",
+          "note": "散字左側小字。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 76,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0076/canvas",
+      "label": "[38]v [76]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0076/canvas",
+      "sha256": "29f12337e070ea5d41177f252130bd5e25e4e2764cd33f6eb279e34a05d28371",
+      "scan_width": 1948,
+      "scan_height": 4100,
+      "dimensions": [
+        1948,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f076-c02",
+          "note": "「穀少少」處正、反墨相疊，首字及重字保留待讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f076-c04",
+          "note": "「芰」「滑」暫讀，受疊筆。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f076-c08",
+          "note": "最左小字有重「梗」可能，暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f076-a01",
+          "note": "右外日期，末字與反影尾筆交覆。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 77,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0077/canvas",
+      "label": "[39]r [77]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0077/canvas",
+      "sha256": "26845d9084f98922646e9fbcb0ac721d50b19737aa26f436bdea1ead2f328ca4",
+      "scan_width": 2247,
+      "scan_height": 4100,
+      "dimensions": [
+        2247,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f077-c01",
+          "note": "第二「娘」以重字符見。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f077-c02",
+          "note": "「納食晚稀」一段墨筆轉細，讀法暫定。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f077-c04",
+          "char_offset_0based": 0,
+          "surface_text": "〔雲〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f077-c04",
+          "note": "首藥形同後續不常見，疑字保留。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f077-c05",
+          "char_offset_0based": 2,
+          "surface_text": "□□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f077-c05",
+          "note": "「玫瑰花」有墨圈，嫩鈎下小字待校。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f077-c06",
+          "note": "「附片」藥名待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f077-c07",
+          "note": "杏上字暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f077-a01",
+          "note": "正向靠右細列，「十」暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f077-a02",
+          "char_offset_0based": 0,
+          "surface_text": "□□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f077-a02",
+          "note": "正文末右細墨，未能確讀，疑另註。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f077-a03",
+          "note": "左下極淡朱色，疑字列與印面重疊。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 78,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0078/canvas",
+      "label": "[39]v [78]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0078/canvas",
+      "sha256": "40698bbeacec59bd5ee0c68480cea462144b333a3fac6fb68851a93f2c0d3cb8",
+      "scan_width": 2235,
+      "scan_height": 4100,
+      "dimensions": [
+        2235,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 79,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0079/canvas",
+      "label": "[40]r [79]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0079/canvas",
+      "sha256": "d5d6876850abcabcdfa15f121436d8974df1d997b7948ffd1a7bf4ad702797e3",
+      "scan_width": 1960,
+      "scan_height": 4100,
+      "dimensions": [
+        1960,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f079-c01",
+          "note": "「完穀」兩字草體，參076同句，保留暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f079-c03",
+          "note": "「冬桑」「滑米仁」待校。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f079-a01",
+          "note": "下左大方篆印，當右面，字未定。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f079-a02",
+          "note": "大方朱印左側細行紅字，兩欄可讀「門人金子才」「□□芳侍診」若干，姓名待覆核。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 80,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0080/canvas",
+      "label": "[40]v [80]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0080/canvas",
+      "sha256": "254567211e45e0e0fad536a419c88e1d07089f26a19a927b23e15048eec1de3b",
+      "scan_width": 1953,
+      "scan_height": 4100,
+      "dimensions": [
+        1953,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 81,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0081/canvas",
+      "label": "[41]r [81]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0081/canvas",
+      "sha256": "31720a0024319d4c9c0dce94c8f0673036227bd851fa2e38d2321c28660e43da",
+      "scan_width": 1948,
+      "scan_height": 4100,
+      "dimensions": [
+        1948,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f081-c01",
+          "char_offset_0based": 1,
+          "surface_text": "〔漢亭〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f081-c01",
+          "note": "名字較短，第一名筆逢右折。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f081-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f081-a01",
+          "char_offset_0based": 3,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f081-a01",
+          "note": "日次在紙縫，斜按筆受遮。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f081-a02",
+          "note": "大腹皮旁小寫。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f081-a03",
+          "note": "白蔻仁旁小字。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 82,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0082/canvas",
+      "label": "[41]v [82]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0082/canvas",
+      "sha256": "05fc25fa16d542aa3587b6c5f8f1a2f4094ea87854b30831f53d1b57859e063c",
+      "scan_width": 1931,
+      "scan_height": 4100,
+      "dimensions": [
+        1931,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 83,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0083/canvas",
+      "label": "[42]r [83]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0083/canvas",
+      "sha256": "fdcfccb8cef0e676ed383f2b3cec876d00754abbdfd6549b3d05194e94d8a99f",
+      "scan_width": 1928,
+      "scan_height": 4100,
+      "dimensions": [
+        1928,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f083-c01",
+          "char_offset_0based": 0,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f083-c01",
+          "note": "粗墨殘在紙縫，朱印壓下。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f083-c03",
+          "note": "「衄」字似擠寫入兩字之間，詞序待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f083-c04",
+          "note": "「典」字疑「炙」疊寫，按形暫錄。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f083-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f083-a01",
+          "char_offset_0based": 1,
+          "surface_text": "□□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f083-a01",
+          "note": "右縫小欄只可辨上字，日數缺。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f083-a02",
+          "note": "散字左小墨與印疊。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f083-a03",
+          "note": "右上小朱印及縫邊。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f083-a04",
+          "note": "左下朱色列字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f083-a05",
+          "note": "左下大方朱篆。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f083-a06",
+          "note": "靠正文與方欄間散墨數點，無法連讀。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 84,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0084/canvas",
+      "label": "[42]v [84]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0084/canvas",
+      "sha256": "8c4c1423f27d8959f7ab27df3d6599e0e094f2b4ee5d84660518943e6f734fa5",
+      "scan_width": 1924,
+      "scan_height": 4100,
+      "dimensions": [
+        1924,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 85,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0085/canvas",
+      "label": "[43]r [85]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0085/canvas",
+      "sha256": "d32efe730192130b0047f25f8b1075d1b86cbe08719374e9ff37c87368cdfe56",
+      "scan_width": 1941,
+      "scan_height": 4100,
+      "dimensions": [
+        1941,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f085-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔朱子榮〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f085-c01",
+          "note": "右半筆貼縫，與086案文近同，本面姓名仍暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f085-c03",
+          "note": "首字形似「嗆」，與前「飲」連讀待校。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f085-c05",
+          "note": "霜後疑脫字或原省，按圖未補。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f085-c06",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f085-a01",
+          "note": "右縫長列殘，有十五日之下斜筆，參086字形。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f085-a02",
+          "note": "白蔻仁左小字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f085-a03",
+          "note": "杏仁左小墨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f085-a04",
+          "note": "六一散側小字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f085-a05",
+          "note": "枇杷葉旁小字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f085-a06",
+          "note": "右上窄邊朱印，疊姓名。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f085-a07",
+          "note": "左下朱色直行筆。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f085-a08",
+          "note": "左下方篆印。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 86,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0086/canvas",
+      "label": "[43]v [86]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0086/canvas",
+      "sha256": "530dc2afffece9849427ec499f6df2c99b80b4e882fbfe0628213fc1cae4550c",
+      "scan_width": 1924,
+      "scan_height": 4100,
+      "dimensions": [
+        1924,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f086-a01",
+          "note": "右外膠褐斑下墨列。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f086-a02",
+          "char_offset_0based": 0,
+          "surface_text": "〔痧〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f086-a02",
+          "note": "右下孤立草字，從疒形暫讀。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 87,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0087/canvas",
+      "label": "[44]r [87]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0087/canvas",
+      "sha256": "edddd019154e6c73ff5d3cbb414201389921626a31743ba7dd486f33efe3ecb5",
+      "scan_width": 1928,
+      "scan_height": 4100,
+      "dimensions": [
+        1928,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f087-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f087-c07",
+          "note": "「佩」形也可讀「風」，待核原字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f087-a01",
+          "note": "右縫日次下部入縫。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f087-a02",
+          "note": "方末小墨挨縫略歪。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f087-a03",
+          "note": "案頭橢圓朱印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f087-a04",
+          "note": "左下有邊長方朱印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f087-a05",
+          "note": "左下大方朱篆。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 88,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0088/canvas",
+      "label": "[44]v [88]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0088/canvas",
+      "sha256": "6147e021c03a4fd4ca25cd6c6064f7be77094ac2eaa3c683dcdd37f8cef7d8b0",
+      "scan_width": 1940,
+      "scan_height": 4100,
+      "dimensions": [
+        1940,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f088-c02",
+          "note": "中下題字疊前幅「肢痠」，待覆核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f088-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f088-c06",
+          "note": "末藥「佩」讀法有待。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f088-a01",
+          "note": "稱位右側直列三字，末字水旁右形疑「浜」。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f088-a02",
+          "note": "右外直列日期。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 89,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0089/canvas",
+      "label": "[45]r [89]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0089/canvas",
+      "sha256": "ed7126eda0b301891455f7d4fcca92109e89244bcccdc16069ca859132c9ec9f",
+      "scan_width": 1937,
+      "scan_height": 4100,
+      "dimensions": [
+        1937,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f089-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔任〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f089-c01",
+          "note": "大字右部貼縫，090獨立案頭清楚，本面暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f089-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f089-a01",
+          "note": "僅見縫邊數筆與斜寫月形，參090，缺不補。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f089-a02",
+          "note": "散字左下小墨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f089-a03",
+          "note": "右上小朱印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f089-a04",
+          "note": "左下朱列色及外框。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f089-a05",
+          "note": "左下方篆朱印。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 90,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0090/canvas",
+      "label": "[45]v [90]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0090/canvas",
+      "sha256": "80ebab4800fe371f4a86343d070970c26ace3c4999543da15c8cb649d4f210ce",
+      "scan_width": 1940,
+      "scan_height": 4100,
+      "dimensions": [
+        1940,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f090-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f090-a01",
+          "note": "日期原向近外側，前頁反透筆較粗。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 91,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0091/canvas",
+      "label": "[46]r [91]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0091/canvas",
+      "sha256": "2079f6728913d5d972cea16259d20b40625b355776198ddf5191bc231d658249",
+      "scan_width": 1945,
+      "scan_height": 4100,
+      "dimensions": [
+        1945,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f091-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔鍾〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f091-c01",
+          "note": "姓暫讀，右部受縫遮。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f091-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f091-a01",
+          "note": "首字墨尾貼縫，下部紀日待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f091-a02",
+          "char_offset_0based": 0,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f091-a02",
+          "note": "赤白苓四旁有二殘小字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f091-a03",
+          "note": "六一散旁字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f091-a04",
+          "note": "右上橢圓朱印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f091-a05",
+          "note": "左下長方朱記與墨筆重疊。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f091-a06",
+          "note": "左下方朱篆。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 92,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0092/canvas",
+      "label": "[46]v [92]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0092/canvas",
+      "sha256": "bea91f457c22eb1ac0b701c0991cb756643a368785b26a6273a81900dae895ec",
+      "scan_width": 1891,
+      "scan_height": 4100,
+      "dimensions": [
+        1891,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f092-c03",
+          "note": "筆畫密與091正文疊，「滲」暫候，「理治」筆形未決。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f092-a01",
+          "note": "右外「廿九」正向清楚，「診」與反透墨疊。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 93,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0093/canvas",
+      "label": "[47]r [93]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0093/canvas",
+      "sha256": "1a16b18a0b36db98ef6200e28aa58e657e8a3c1257f1c4c658ba5b5d87750f54",
+      "scan_width": 1929,
+      "scan_height": 4100,
+      "dimensions": [
+        1929,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f093-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔鍾〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f093-c01",
+          "note": "姓形逢右縫，結構有金旁筆，參092。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f093-c04",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f093-a01",
+          "note": "日期上下緣貼縫，日次暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f093-a02",
+          "note": "散字左下小墨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f093-a03",
+          "note": "右縫剪入的朱記。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f093-a04",
+          "note": "左下朱直行。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f093-a05",
+          "note": "左下方朱印。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 94,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0094/canvas",
+      "label": "[47]v [94]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0094/canvas",
+      "sha256": "dff60e3de12bb3e377bf994fd0012f180cec7a4d6814089f722889b5d1f02de3",
+      "scan_width": 1903,
+      "scan_height": 4100,
+      "dimensions": [
+        1903,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f094-c02",
+          "note": "末兩字連筆，「疹」有「痧」候選。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f094-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f094-c07",
+          "note": "左加味欄近反透略帶東移。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f094-a01",
+          "note": "右外墨列，中間日次第二筆待覆核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f094-a02",
+          "note": "左側小字落在方末旁。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 95,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0095/canvas",
+      "label": "[48]r [95]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0095/canvas",
+      "sha256": "7256ea13b6affc6b964ab06de9034cb3e7548bfaf5a41b828bcf521285b44c0c",
+      "scan_width": 1924,
+      "scan_height": 4100,
+      "dimensions": [
+        1924,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f095-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔錢〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f095-c01",
+          "note": "姓字右側緊鄰紙縫。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f095-c03",
+          "note": "與094診語近，前字有「痧」候選。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f095-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f095-a01",
+          "note": "右外直列有遮，「三」尚待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f095-a02",
+          "note": "六一散旁小注。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f095-a03",
+          "note": "右上小朱印，壓案頭。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f095-a04",
+          "note": "左下朱色列印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f095-a05",
+          "note": "左下方朱篆。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 96,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0096/canvas",
+      "label": "[48]v [96]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0096/canvas",
+      "sha256": "79b0cdcaaf85e19c9aa59652e4d97608e51dacaf92e252d7251a96dfd2cb6e50",
+      "scan_width": 1903,
+      "scan_height": 4100,
+      "dimensions": [
+        1903,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 97,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0097/canvas",
+      "label": "[49]r [97]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0097/canvas",
+      "sha256": "b3b28cd01cfa63471ed2e0f97e48df2c56fd0bdb7614df6499a694f33c81aeba",
+      "scan_width": 1945,
+      "scan_height": 4100,
+      "dimensions": [
+        1945,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f097-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔丁〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f097-c01",
+          "note": "案頭首字僅存覆縫長橫與鉤殘，候選待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f097-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f097-a01",
+          "char_offset_0based": 0,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f097-a01",
+          "note": "右外窄列被縫遮。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f097-a02",
+          "char_offset_0based": 0,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f097-a02",
+          "note": "散字左側的小注只辨「包」。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f097-a03",
+          "note": "白蔻仁旁墨寫。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f097-a04",
+          "note": "案頭小殘朱印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f097-a05",
+          "note": "左下朱色行字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f097-a06",
+          "note": "左下朱篆印。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 98,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0098/canvas",
+      "label": "[49]v [98]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0098/canvas",
+      "sha256": "e283a480f05c0d65a76a802f7e5b47563fabaa2fdffa4140f6759d555909cb16",
+      "scan_width": 1932,
+      "scan_height": 4100,
+      "dimensions": [
+        1932,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f098-c02",
+          "note": "「空竅」與正面反透互覆，末筆疑不同讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f098-c03",
+          "note": "有多列疊影，分組據可見的正向筆。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f098-c04",
+          "char_offset_0based": 0,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f098-c04",
+          "note": "多用細筆，末組旁見圈記，暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f098-c05",
+          "char_offset_0based": 6,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f098-c05",
+          "note": "荊芥下數筆較粗，詞形待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f098-a01",
+          "char_offset_0based": 0,
+          "surface_text": "〔荔〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f098-a01",
+          "note": "右外日期首字和日次都疊墨，暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f098-a02",
+          "char_offset_0based": 0,
+          "surface_text": "□□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f098-a02",
+          "note": "兩枚圈墨在細藥列之間，圈內字未決。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 99,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0099/canvas",
+      "label": "[50]r [99]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0099/canvas",
+      "sha256": "d535f9eac1bcb397840ebeaf32bb2a2d214bed3eb036a83823dbbbc5e7e2b775",
+      "scan_width": 1945,
+      "scan_height": 4100,
+      "dimensions": [
+        1945,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f099-c01",
+          "char_offset_0based": 0,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f099-c01",
+          "note": "姓只見右縫左部墨形，與100背面陸案分列。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f099-a01",
+          "char_offset_0based": 0,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f099-a01",
+          "char_offset_0based": 3,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f099-a01",
+          "note": "右外縫邊殘筆，月日待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f099-a02",
+          "note": "右側淡朱印界。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f099-a03",
+          "note": "左下朱色列字疊藥。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f099-a04",
+          "note": "左下方篆淡印。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 100,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0100/canvas",
+      "label": "[50]v [100]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0100/canvas",
+      "sha256": "7c522d5ef88b7eaee87c7ccc4c62f2f86db220b1fdb306b8324fedf2d94e25fa",
+      "scan_width": 1932,
+      "scan_height": 4100,
+      "dimensions": [
+        1932,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f100-c02",
+          "note": "首段「枯燥」及「少陽」格外疊墨，暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f100-c03",
+          "note": "「按頭」附近語劃交錯，候選保留。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f100-c05",
+          "note": "中部藥名形疊，暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f100-c07",
+          "char_offset_0based": 3,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f100-c07",
+          "note": "左緣起中段，末旁一短符。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f100-a01",
+          "char_offset_0based": 0,
+          "surface_text": "〔荔〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f100-a01",
+          "char_offset_0based": 5,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f100-a01",
+          "note": "首二形似荔月，日數褐黑不清。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 101,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0101/canvas",
+      "label": "[51]r [101]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0101/canvas",
+      "sha256": "99601791d37b7a5e08cef6181400958daf285568d12b36bf98cc13528bd75621",
+      "scan_width": 1973,
+      "scan_height": 4100,
+      "dimensions": [
+        1973,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f101-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔宋〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f101-c01",
+          "note": "姓左下兩撇墨深，右上疊朱與縫，暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f101-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f101-c07",
+          "note": "「金粟」小形受墨疊，暫讀；散字旁留小墨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f101-a01",
+          "note": "右外斜列有壓邊。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f101-a02",
+          "note": "左下貼散字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f101-a03",
+          "note": "姓名近縫小朱印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f101-a04",
+          "note": "左下長朱印。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f101-a05",
+          "note": "左下大方朱篆。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 102,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0102/canvas",
+      "label": "[51]v [102]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0102/canvas",
+      "sha256": "8a7270f4af8110ad4271919f2856a5fa3f5a6264cb31e00f97963e200fbfa5ac",
+      "scan_width": 1953,
+      "scan_height": 4100,
+      "dimensions": [
+        1953,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f102-c02",
+          "char_offset_0based": 5,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f102-c02",
+          "note": "中段數筆與101同位逆向墨相交。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f102-c03",
+          "note": "前段重墨疊小字多，末「按風」保留疑讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f102-c04",
+          "note": "右方欄上下兩組字，第二組起字「等」存疑。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f102-c05",
+          "note": "藥字層多，部分量字為暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f102-c06",
+          "note": "兩欄緊鄰且疊，前兩味待校。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f102-c07",
+          "char_offset_0based": 10,
+          "surface_text": "□",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f102-c07",
+          "note": "左列早與墨反影蹭，末一味未辨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f102-a01",
+          "note": "首字筆大，末作「診」，前日字未見。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 103,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0103/canvas",
+      "label": "[52]r [103]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0103/canvas",
+      "sha256": "9bba3a996f511ab3b903dca906d9f9840c455b2f57d9848fd978093e156de6d1",
+      "scan_width": 1945,
+      "scan_height": 4100,
+      "dimensions": [
+        1945,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f103-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔任〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f103-c01",
+          "note": "姓右側近縫，保留暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f103-c05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f103-a01",
+          "note": "右外直列被紙縫壓，日次待核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f103-a02",
+          "note": "正文右下與肢字相接的細增書，輔讀正欄。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f103-a03",
+          "note": "末方左緣小字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f103-a04",
+          "note": "案頭小朱跡。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f103-a05",
+          "note": "左下朱色長列。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f103-a06",
+          "note": "左下大方印，右下另疊濃墨小鈐。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f103-a07",
+          "note": "呈篆條似黑印，在已見朱印之右下，讀文字未定。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 104,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0104/canvas",
+      "label": "[52]v [104]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0104/canvas",
+      "sha256": "2f1b7999e19c38c0883a1ef6a541e13b01f016d6b2a16923fcb1303f3cc764be",
+      "scan_width": 1953,
+      "scan_height": 4100,
+      "dimensions": [
+        1953,
+        4100
+      ],
+      "writing_status": "writing_and_bleedthrough",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f104-c04",
+          "note": "上似有另字或圈，下「白蔻」貼旁列。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f104-a01",
+          "note": "「初八」二字近細，暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f104-a02",
+          "note": "白蔻仁旁墨圈，未辨內字。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f104-a03",
+          "note": "製香附側小字。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 105,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0105/canvas",
+      "label": "[53]r [105]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0105/canvas",
+      "sha256": "23056a52b61375c49718f5163a037a364586588c01b768cab47a0a6eac969fa3",
+      "scan_width": 2039,
+      "scan_height": 4100,
+      "dimensions": [
+        2039,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f105-c01",
+          "char_offset_0based": 0,
+          "surface_text": "〔馬〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f105-c01",
+          "note": "右部貼縫，參104案頭，按本面所餘暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f105-c04",
+          "note": "首釋「薑川連」，未決。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f105-c07",
+          "note": "量部兩個單位連附，位置待覆核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f105-a01",
+          "note": "右外日次的左筆被紙縫割。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f105-a02",
+          "note": "白蔻仁左側短墨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f105-a03",
+          "note": "香附左下小墨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f105-a04",
+          "note": "左下朱列字與添方疊。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f105-a05",
+          "note": "左下大方朱印。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 106,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0106/canvas",
+      "label": "[53]v [106]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0106/canvas",
+      "sha256": "1d133b2fd3476d99427df0af2dda549b6ed4aa04d036a3e81168e02503c8a55e",
+      "scan_width": 2030,
+      "scan_height": 4100,
+      "dimensions": [
+        2030,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 107,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0107/canvas",
+      "label": "[54]r [107]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0107/canvas",
+      "sha256": "f7443864e70c7bf9ae7bc10ee74c89fbb02ad59589b0235bcb1e095c99fc1336",
+      "scan_width": 1932,
+      "scan_height": 4100,
+      "dimensions": [
+        1932,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f107-c04",
+          "char_offset_0based": 9,
+          "surface_text": "〔炙〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f107-c04",
+          "note": "首味旁空及末味「池」字疑。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f107-a01",
+          "note": "嚴重受縫遮，日期前後按可見筆暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f107-a02",
+          "note": "益元散左側。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f107-a03",
+          "note": "右上小朱印，疊案頭。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f107-a04",
+          "note": "左下長朱記。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f107-a05",
+          "note": "左下方篆淡印。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 108,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0108/canvas",
+      "label": "[54]v [108]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0108/canvas",
+      "sha256": "930deffc4b131e6162915e9494ff5f693e08043b6d56399e7b9e85dab5c586fb",
+      "scan_width": 2147,
+      "scan_height": 4100,
+      "dimensions": [
+        2147,
+        4100
+      ],
+      "writing_status": "bleedthrough_only",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": []
+    },
+    {
+      "image": 109,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0109/canvas",
+      "label": "[55]r [109]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0109/canvas",
+      "sha256": "bbf0091c2a0fdbee5d95825952527e11cc9fd730bb975d3b3d9345e566819131",
+      "scan_width": 2087,
+      "scan_height": 4100,
+      "dimensions": [
+        2087,
+        4100
+      ],
+      "writing_status": "writing",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f109-a01",
+          "note": "右側貼縫，「桂」旁有皺褶，日期暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f109-a02",
+          "note": "杜蘇子旁小墨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f109-a03",
+          "note": "新會皮左小書，二字連筆。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f109-a04",
+          "note": "真川貝半左側細寫，首字暫讀。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f109-a05",
+          "note": "代赭石側小墨。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f109-a06",
+          "note": "代赭石下部右側小墨。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 110,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0110/canvas",
+      "label": "[55]v [110]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0110/canvas",
+      "sha256": "707e1020b200ffd9dcdaeba8fb24b4e965f1db1374fe727555ff32339db3e9fd",
+      "scan_width": 2361,
+      "scan_height": 4100,
+      "dimensions": [
+        2361,
+        4100
+      ],
+      "writing_status": "bleedthrough_with_unresolved_trace",
+      "orientation": "upright",
+      "duplicate_of": null,
+      "uncertainty": [
+        {
+          "unit_id": "f110-a02",
+          "note": "近裝訂線有少量縱排淡墨，部分與109右縫近墨同向反映；其餘無從辨出確切字序或判定同葉。",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 111,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0111/canvas",
+      "label": "[56]r [111]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/186813833X-0111/canvas",
+      "sha256": "d002d6b3098a9936ae22194e13f4171da957ad75d7bebbec94ef783105e92ebb",
+      "scan_width": 2260,
+      "scan_height": 4100,
+      "dimensions": [
+        2260,
+        4100
+      ],
+      "writing_status": "same_leaf_rescan",
+      "orientation": "upright",
+      "duplicate_of": 3,
+      "uncertainty": []
+    }
+  ]
+}
