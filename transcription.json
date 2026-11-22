@@ -7,10 +7,10 @@
     "source": "https://resolver.staatsbibliothek-berlin.de/SBB000355D200000000",
     "manifest": "https://content.staatsbibliothek-berlin.de/dc/186813833X/manifest",
     "language": "lzh",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "date": "2026-11-22",
-    "quality_zh": "AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
-    "quality_en": "AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
+    "quality_zh": "逐幅核對底本圖號、正反面欄序及反透，對已標記的疑字回原圖，記錄 3 個讀法調整。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
+    "quality_en": "The image review checks the scan sequence, both faces and show-through, reexamining selected uncertain readings and documenting 3 changes. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -4250,7 +4250,7 @@
             {
               "id": "f036-a01",
               "role": "annotation",
-              "text": "〔六〕月十九日診",
+              "text": "〔又／六？〕月十九日診",
               "reading_note": "位右外欄。「月」字鉤向與036原向吻合，月數或有別讀，「日診」與墨朱重疊。",
               "xy_approx_px": [
                 1689,
@@ -4358,7 +4358,8 @@
           "unit_id": "f036-a01",
           "char_offset_0based": 0,
           "surface_text": "〔六〕",
-          "resolution": "unresolved"
+          "resolution": "image-reviewed",
+          "reviewed_reading": "〔又／六？〕"
         },
         {
           "unit_id": "f036-a01",
@@ -10345,7 +10346,7 @@
             {
               "id": "f074-c02",
               "role": "verso_writing",
-              "text": "寒熱未清口渴吐惡已止頭疼乏疲舌白",
+              "text": "寒熱未清口渴吐惡已止頭疼足疲舌白",
               "x_approx": 1327,
               "reading_note": ""
             },
@@ -10380,7 +10381,7 @@
             {
               "id": "f074-a01",
               "role": "annotation",
-              "text": "〔白〕虎頭",
+              "text": "白虎頭",
               "reading_note": "稱謂右小筆，首字右上有折，暫讀。",
               "xy_approx_px": [
                 1737,
@@ -16011,7 +16012,9 @@
     "text_units": 698,
     "feature_mirror_bleedthrough": 56,
     "feature_unresolved_trace": 6,
-    "feature_same_leaf_rescan": 1
+    "feature_same_leaf_rescan": 1,
+    "reviewed_image_frames": 111,
+    "columns_with_inline_uncertainty": 47
   },
   "source_reference": {
     "catalogue": "https://resolver.staatsbibliothek-berlin.de/SBB000355D200000000",

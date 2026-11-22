@@ -10,10 +10,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>0.1.0</edition>
+        <edition>0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>2026-11-22. AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
+        <p>2026-11-22. The image review checks the scan sequence, both faces and show-through, reexamining selected uncertain readings and documenting 3 changes. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
       </publicationStmt>
       <sourceDesc>
         <p>Slg. Unschuld 8373 <ref target="https://resolver.staatsbibliothek-berlin.de/SBB000355D200000000">Source catalogue</ref>
@@ -438,7 +438,7 @@
           <ab type="verso_writing" n="f036-c05" xml:id="u-f036-c05">炒當歸青防風川貝母</ab>
           <ab type="verso_writing" n="f036-c06" xml:id="u-f036-c06">〔□□梗〕〔粳〕米煨葛根</ab>
           <ab type="verso_writing" n="f036-c07" xml:id="u-f036-c07">新會皮薄荷□□</ab>
-          <ab type="annotation" n="f036-a01" xml:id="u-f036-a01">〔六〕月十九日診</ab>
+          <ab type="annotation" n="f036-a01" xml:id="u-f036-a01">〔又／六？〕月十九日診</ab>
           <note type="editorial">背面有獨立案頭、日期、診語及較淡藥字。大型右外欄與035左外反影互合，正文用小字疊在035醫案的水平反透之上。</note>
           <note type="editorial">中央的「和營」大字、三欄方藥及朱印與035水平鏡像對合；背面自身另外有較小正向文。</note>
         </div>
@@ -975,12 +975,12 @@
       <div n="74" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/186813833X-0074/canvas">
         <div type="surface" n="verso">
           <ab type="verso_writing" n="f074-c01" xml:id="u-f074-c01">任左</ab>
-          <ab type="verso_writing" n="f074-c02" xml:id="u-f074-c02">寒熱未清口渴吐惡已止頭疼乏疲舌白</ab>
+          <ab type="verso_writing" n="f074-c02" xml:id="u-f074-c02">寒熱未清口渴吐惡已止頭疼足疲舌白</ab>
           <ab type="verso_writing" n="f074-c03" xml:id="u-f074-c03">脉細姑以疏解</ab>
           <ab type="verso_writing" n="f074-c04" xml:id="u-f074-c04">水炙柴胡焦谷芽赤白苓益元散</ab>
           <ab type="verso_writing" n="f074-c05" xml:id="u-f074-c05">香青蒿焦米仁炒澤瀉白扣仁</ab>
           <ab type="verso_writing" n="f074-c06" xml:id="u-f074-c06">焦淡芩鹽水炒橘紅片通草</ab>
-          <ab type="annotation" n="f074-a01" xml:id="u-f074-a01">〔白〕虎頭</ab>
+          <ab type="annotation" n="f074-a01" xml:id="u-f074-a01">白虎頭</ab>
           <ab type="annotation" n="f074-a02" xml:id="u-f074-a02">巧月初九日診</ab>
           <note type="editorial">背面「任左」正文、藥字和右外日期正墨獨立，隨073主墨疊透。稱謂右側另列小字。</note>
           <note type="editorial">正面案頭、方列益元散及正文尾肢痠等鏡向；本面日期及「頭疼」以原向小墨判。</note>

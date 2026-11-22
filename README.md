@@ -12,9 +12,9 @@ All 111 scans are indexed. Writing on both faces, mirrored show-through, red mar
 
 ## 文字與覆核 / Text and review
 
-AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。原圖由右至左依欄轉錄。正向墨書保留原字與疑讀，背面折疊與反透以各對葉定位。
+逐幅核對底本圖號、正反面欄序及反透，對已標記的疑字回原圖，記錄 3 個讀法調整。未做人類全文雙校、專家審定、同儕審查或準確率量測。原圖由右至左依欄轉錄。正向墨書保留原字與疑讀，背面折疊與反透以各對葉定位。
 
-AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed. The transcription follows the manuscript right to left. Original forms and uncertain readings are retained. Show-through is recorded with the paired leaf.
+The image review checks the scan sequence, both faces and show-through, reexamining selected uncertain readings and documenting 3 changes. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed. The transcription follows the manuscript right to left. Original forms and uncertain readings are retained. Show-through is recorded with the paired leaf.
 
 TXT 依幅、面與欄提供閱讀定位。JSON 和 TEI 採同一固定取文。「□」標難辨字，缺幅或不確定缺字處由頁面說明及疑義資料標示。完整提示、私有覆核過程與專用程式未隨附。AI 實際模型路由與用量未知。
 

@@ -1,0 +1,759 @@
+{
+  "initial_sha256": "dec10493c42e13405c5a30a23f933cfe149d9f9ad6c38e225a1e13119c4ff5ef",
+  "frames_reviewed": [
+    {
+      "frame": 1,
+      "image_sha256": "6c5f23374473bdcbb0050064341e4dbcc2ddd75b65174d531f3a7c4a92958097",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 2,
+      "image_sha256": "1738e6224703eab6890714b60688e341396c94177994a2453270de9b143a75de",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_with_unresolved_trace"
+    },
+    {
+      "frame": 3,
+      "image_sha256": "311d258a6679406710dc039fa2e2c18f1a84fc837294d1f8038501bbf9f4669b",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 4,
+      "image_sha256": "f9e78f15e7abb34d361bdb4eb15dff04dffaf6ab1a5150d74eb4d7682cf7c84e",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 5,
+      "image_sha256": "398f5285a0a5b64d24ee8e81a62444c435bce070410504628864220eb4aadb0e",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 6,
+      "image_sha256": "24015a578ed7bbf7b299f8c213c5d8b04581cf908e68dfbb34d580787dbb2666",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 7,
+      "image_sha256": "e4ca55b6aa65f77b2b677a74855f3e44931a5a7824c098e65ecb0a2f7af37505",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 8,
+      "image_sha256": "5133323baa7fed505d3ffb4be0e17af9eb8e89e969ed1e9b11b30dd16d3d41c5",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 9,
+      "image_sha256": "2fb6c4c2a3b74542e1688ae09af33ab946e927e44b50ed7b67a7b43518dc92de",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 10,
+      "image_sha256": "b8d2886d5094f8925294b9de29bb8c453d5b2630982c3880070719d39bacafc0",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 11,
+      "image_sha256": "53d28b1d32366723266da35cb6c3ea0cde32312ce48fe384e59ed0c47ac3b490",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 12,
+      "image_sha256": "491c00659f437c173580446bf114c8d74e90af1c0fbdb205e7afb95545bb3c11",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 13,
+      "image_sha256": "77fa12c87a16a2d823c564eb4b0c1653e80fce6b35732191bcf87642d0b04974",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 14,
+      "image_sha256": "8edbf6e5517f908a6553319ea6cf370dd704a77598ab397c5f36820e2194b72c",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 15,
+      "image_sha256": "8065611d3a6c1b23541b9dabc30041b70caaa21db58efaf7809d6d51da218049",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 16,
+      "image_sha256": "c739f30120f4fdeed43829e023a6075cf5f11bf04b27c2a9dd2f91566d979ef7",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 17,
+      "image_sha256": "3cdba5f0055999a4bd99a1fa747c56fd9ab10192467bc5d25bd6bddce75a080d",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 18,
+      "image_sha256": "b809407c6f4f603ddef0bb5d9b45b9dc3985cc8f6de58b95a3d29e5041b39fa8",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 19,
+      "image_sha256": "cedeab321b151ba9e985fbbdb5b8e0be6d6b168068daa1769b2871f280385193",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 20,
+      "image_sha256": "b9d9c42b6720d9108e472d585908a9fec1caef612b6f9192cf6deac93dfda7f1",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 21,
+      "image_sha256": "98336f0717aeef1f158a95471395df983bb0dfc2ea62e9138ca98631046e5149",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 22,
+      "image_sha256": "06a5252cc96ed9918ae3cb606dc5bf6c52dd3188bdb4942ad2534245537acd89",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 23,
+      "image_sha256": "fda4b9466e87e57eabbba4f57a63ac3f0ecbd4f611422c7249fab2f6c5347bbd",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 24,
+      "image_sha256": "bc0a44677de5234fdf4ee47b7f9983f2c03d2adc8aae6e7023c6639262f5de5b",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 25,
+      "image_sha256": "0f136c0bd2349e648f3fbe2e711358e48afaac317813d0af9655bdddc20d9f56",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 26,
+      "image_sha256": "ee9e7ca4956b72769698164bd60037d83ac96146863de5aa317ef0b819fcb406",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 27,
+      "image_sha256": "adc823537d18ac489f6075d3499b5d775c77a697ee7871fb95c4b4f3c492243b",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 28,
+      "image_sha256": "e45316ce8c952bf683d4983949683fb5e0ea596a41a885e5b7c369f37e944ce9",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 29,
+      "image_sha256": "0d1e6fafa79dda5d495314f343cb9abd9912382aec039adaf4afee29c3732f39",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 30,
+      "image_sha256": "0abfb4e2b7e319adbeee3582c18416c67aa662274250ff177257e395e2a55ea2",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 31,
+      "image_sha256": "61130f7a65c399beaa384406960493890df7d48edc5089c1993a9a5b9c127976",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 32,
+      "image_sha256": "c1efe18d6327d132aafdc2e97e9f499abb212faa877e42efe2bd7fb57904f7d8",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 33,
+      "image_sha256": "2af791b7ee278cf2ceeaebe4fcf3312fb92852aa9a93f3f0a2fae7a7cf1fe077",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 34,
+      "image_sha256": "1eb673a64d397f9a91489c87e55fdeb0fb07bffb9353702e38565c3c3757df8e",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 35,
+      "image_sha256": "d607d783bc0aae98877c1d90a3bdebf486449d8897ed4a354903c0f35dbe7afe",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 36,
+      "image_sha256": "b2f1357602670573f90a94fe1338ccc1c140330e8d31b084fd9d7faa492e5a3b",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 37,
+      "image_sha256": "f53c0820afd245bc846bf3dbd67b0fef97e5d8ec5e1160a8144e3ef931502654",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 38,
+      "image_sha256": "63df551278d27a9f0b924511c4c8c3425e86ff5f285ece3bdf37ac75ff7c08dd",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 39,
+      "image_sha256": "d79e9ffc11c3947b1454e26a634a8172f18e831dbc30800b2c737c656ab7a314",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 40,
+      "image_sha256": "8a0545bb583cfd7ca4fcf06df6c5c58380be2c56aa26130a624359d207b32324",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 41,
+      "image_sha256": "30373dd4478cb9e374494eee52d0e18cf0b8326464272143e93c0abf6c7ac8af",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 42,
+      "image_sha256": "2cbb593cfdbad5da95cd5c9d762b74c7cf1c1c975b4afcb79e177481dc810770",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 43,
+      "image_sha256": "21e2415bc9cb07b5bd20794256d835c81f00dc5c30893b2d6b7ec42fe8647154",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 44,
+      "image_sha256": "4271f1058b479155ad37db9a54e28ecd60ce3539c593a9caf4b36d11bbc4dc9b",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 45,
+      "image_sha256": "14b4c13117eb4a7afa182aa5af4426725cdf911d1e2c661131a9f79c60496744",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 46,
+      "image_sha256": "ea5c6276454cbcaa380573a545444df7adf25fa5769acf7d347a7004cec9840f",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 47,
+      "image_sha256": "e05438586c77c833cbca2a028a1f945e8c3424cf12c4e1bede97fa1fdeabea04",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 48,
+      "image_sha256": "4ce6b1b608200dd47506f49c2c2fe2f4bebd87d8f952d5ab74e0f0957a5a1b9f",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 49,
+      "image_sha256": "ad23b7d7316eb9ea8a9f7ae55d58ec6f944811cb3f74fd305e888c05c9f0a42f",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 50,
+      "image_sha256": "fecc9488cf9507311dc2964bcdd216b754bfbbe6ca104a02905574cff60971ff",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 51,
+      "image_sha256": "8b4adaace226e84a189cff4ec10e30647ce72516da0881d6814488ea042a1806",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 52,
+      "image_sha256": "62c4d49d13370a90de6ff32255cfaec850e890a1c068c8753f6c6e86c200d78b",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 53,
+      "image_sha256": "51280e27621e4e2a3bd042c0d0a6083689a9211d4f3d71fa79cbb47e8996e2d6",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 54,
+      "image_sha256": "89069f5c0f798d17084a9fcefda76b04317d405971f516ac8f3d43971082dd64",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 55,
+      "image_sha256": "0892a69bddd92ced8642bbf6107e7213bcd2757bb8d2dead2695b5babca0abb7",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 56,
+      "image_sha256": "99bb70df35292ba12932871c99d8a82aa7f32fa76a78da140d4f044432e2a806",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 57,
+      "image_sha256": "89bfca2b5bfaa7a7bd88530a2cbeb293c2e93e7003aad560a20c5af031e2eeba",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 58,
+      "image_sha256": "0b3013aaec9cfa86d75e9d024a50f029ad1099b0e3f3f0965573c3a02da2fa16",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 59,
+      "image_sha256": "2254dc7906c7709279a264b21154ad5123556f2cb1c6e3b3e4ec41ed83bc3f64",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 60,
+      "image_sha256": "dd45dd7fcb7497790c0e93a53d27ea707841de6dcccd88595783e7022b52e01b",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 61,
+      "image_sha256": "32c06b42e4765da5b51cdb7791473a079b5b7a123020b1e8bae94485a8bf671a",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 62,
+      "image_sha256": "a0cf046691c0053606173c82accb92322e98507872ce150264dd97a5dfd135c7",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 63,
+      "image_sha256": "b9cba07be059eab5ef41007cede5a2fbd9be82004ca9a8d1ca2d70dc94372df3",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 64,
+      "image_sha256": "848a72e27f6848b4026c64e4181253610933195e521020630f5b1c3d2c5d374f",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 65,
+      "image_sha256": "a304a08e9963cf94a3cd86b0c40595f3e4654907d7d8b2cbaae7c9188b824477",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 66,
+      "image_sha256": "28dfe8eda6233e4ebac2c66b924aea7acb563792742062544c60c16edda733a7",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 67,
+      "image_sha256": "d1b374e464a75abdf819bfe862a67f22d089b9983b0a23b678b3683516c28af9",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 68,
+      "image_sha256": "a635d72e4c3e82946333e61f72fb928a9fcc91c2f9e14560761d97e4a97dce5e",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 69,
+      "image_sha256": "b771dfa29048fa4bef5715cc57093153630ce75a374b7848781f390744aa168e",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 70,
+      "image_sha256": "8573bddd6d809c3c8c3243edc1db92f56e82e7b0b7fc5cb2d587752d9b3e0932",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 71,
+      "image_sha256": "d680a0d26e6dae12f16920cdf9526a65d5c123a447b10ff691ed1c841197224d",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 72,
+      "image_sha256": "8b19143fb45b8cef814dbbd42747fff74bd0edc2b598d172b74859aa1f394419",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 73,
+      "image_sha256": "2214adf96b86048d36d77fc349bb7767ef9f44fbbecf77f6d8797ab090064af4",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 74,
+      "image_sha256": "5df5bac04e9da592402c596adeed4533c36804e912ce9ee73d9f42236479bfb6",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 75,
+      "image_sha256": "440eaf11a8927335cec8125873862e12e55fedce2af9700577cdfeb3a1734647",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 76,
+      "image_sha256": "29f12337e070ea5d41177f252130bd5e25e4e2764cd33f6eb279e34a05d28371",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 77,
+      "image_sha256": "26845d9084f98922646e9fbcb0ac721d50b19737aa26f436bdea1ead2f328ca4",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 78,
+      "image_sha256": "40698bbeacec59bd5ee0c68480cea462144b333a3fac6fb68851a93f2c0d3cb8",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 79,
+      "image_sha256": "d5d6876850abcabcdfa15f121436d8974df1d997b7948ffd1a7bf4ad702797e3",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 80,
+      "image_sha256": "254567211e45e0e0fad536a419c88e1d07089f26a19a927b23e15048eec1de3b",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 81,
+      "image_sha256": "31720a0024319d4c9c0dce94c8f0673036227bd851fa2e38d2321c28660e43da",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 82,
+      "image_sha256": "05fc25fa16d542aa3587b6c5f8f1a2f4094ea87854b30831f53d1b57859e063c",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 83,
+      "image_sha256": "fdcfccb8cef0e676ed383f2b3cec876d00754abbdfd6549b3d05194e94d8a99f",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 84,
+      "image_sha256": "8c4c1423f27d8959f7ab27df3d6599e0e094f2b4ee5d84660518943e6f734fa5",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 85,
+      "image_sha256": "d32efe730192130b0047f25f8b1075d1b86cbe08719374e9ff37c87368cdfe56",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 86,
+      "image_sha256": "530dc2afffece9849427ec499f6df2c99b80b4e882fbfe0628213fc1cae4550c",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 87,
+      "image_sha256": "edddd019154e6c73ff5d3cbb414201389921626a31743ba7dd486f33efe3ecb5",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 88,
+      "image_sha256": "6147e021c03a4fd4ca25cd6c6064f7be77094ac2eaa3c683dcdd37f8cef7d8b0",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 89,
+      "image_sha256": "ed7126eda0b301891455f7d4fcca92109e89244bcccdc16069ca859132c9ec9f",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 90,
+      "image_sha256": "80ebab4800fe371f4a86343d070970c26ace3c4999543da15c8cb649d4f210ce",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 91,
+      "image_sha256": "2079f6728913d5d972cea16259d20b40625b355776198ddf5191bc231d658249",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 92,
+      "image_sha256": "bea91f457c22eb1ac0b701c0991cb756643a368785b26a6273a81900dae895ec",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 93,
+      "image_sha256": "1a16b18a0b36db98ef6200e28aa58e657e8a3c1257f1c4c658ba5b5d87750f54",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 94,
+      "image_sha256": "dff60e3de12bb3e377bf994fd0012f180cec7a4d6814089f722889b5d1f02de3",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 95,
+      "image_sha256": "7256ea13b6affc6b964ab06de9034cb3e7548bfaf5a41b828bcf521285b44c0c",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 96,
+      "image_sha256": "79b0cdcaaf85e19c9aa59652e4d97608e51dacaf92e252d7251a96dfd2cb6e50",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 97,
+      "image_sha256": "b3b28cd01cfa63471ed2e0f97e48df2c56fd0bdb7614df6499a694f33c81aeba",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 98,
+      "image_sha256": "e283a480f05c0d65a76a802f7e5b47563fabaa2fdffa4140f6759d555909cb16",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 99,
+      "image_sha256": "d535f9eac1bcb397840ebeaf32bb2a2d214bed3eb036a83823dbbbc5e7e2b775",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 100,
+      "image_sha256": "7c522d5ef88b7eaee87c7ccc4c62f2f86db220b1fdb306b8324fedf2d94e25fa",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 101,
+      "image_sha256": "99601791d37b7a5e08cef6181400958daf285568d12b36bf98cc13528bd75621",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 102,
+      "image_sha256": "8a7270f4af8110ad4271919f2856a5fa3f5a6264cb31e00f97963e200fbfa5ac",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 103,
+      "image_sha256": "9bba3a996f511ab3b903dca906d9f9840c455b2f57d9848fd978093e156de6d1",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 104,
+      "image_sha256": "2f1b7999e19c38c0883a1ef6a541e13b01f016d6b2a16923fcb1303f3cc764be",
+      "signed_layer": "verso",
+      "layout": "writing_and_bleedthrough"
+    },
+    {
+      "frame": 105,
+      "image_sha256": "23056a52b61375c49718f5163a037a364586588c01b768cab47a0a6eac969fa3",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 106,
+      "image_sha256": "1d133b2fd3476d99427df0af2dda549b6ed4aa04d036a3e81168e02503c8a55e",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 107,
+      "image_sha256": "f7443864e70c7bf9ae7bc10ee74c89fbb02ad59589b0235bcb1e095c99fc1336",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 108,
+      "image_sha256": "930deffc4b131e6162915e9494ff5f693e08043b6d56399e7b9e85dab5c586fb",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_only"
+    },
+    {
+      "frame": 109,
+      "image_sha256": "bbf0091c2a0fdbee5d95825952527e11cc9fd730bb975d3b3d9345e566819131",
+      "signed_layer": "recto",
+      "layout": "writing"
+    },
+    {
+      "frame": 110,
+      "image_sha256": "707e1020b200ffd9dcdaeba8fb24b4e965f1db1374fe727555ff32339db3e9fd",
+      "signed_layer": "verso",
+      "layout": "bleedthrough_with_unresolved_trace"
+    },
+    {
+      "frame": 111,
+      "image_sha256": "d002d6b3098a9936ae22194e13f4171da957ad75d7bebbec94ef783105e92ebb",
+      "signed_layer": "recto",
+      "layout": "same_leaf_rescan"
+    }
+  ],
+  "changes": [
+    {
+      "frame": 36,
+      "unit": "f036-a01",
+      "image_sha256": "b2f1357602670573f90a94fe1338ccc1c140330e8d31b084fd9d7faa492e5a3b",
+      "image_bbox": [
+        1470,
+        1184,
+        1820,
+        1555
+      ],
+      "reason": "原圖日期欄月上見折後斜捺，較接近又。紙背反透與上方墨筆交疊，並列原候選六。",
+      "before": "〔六〕月十九日診",
+      "after": "〔又／六？〕月十九日診",
+      "replace_in_linked_readings": [
+        "〔六〕",
+        "〔又／六？〕"
+      ]
+    },
+    {
+      "frame": 74,
+      "unit": "f074-a01",
+      "image_sha256": "5df5bac04e9da592402c596adeed4533c36804e912ce9ee73d9f42236479bfb6",
+      "image_bbox": [
+        1630,
+        460,
+        1830,
+        1010
+      ],
+      "reason": "「虎頭」上字的短撇、外框與內橫可見，可讀白。三字為任左旁向右偏寫。",
+      "before": "〔白〕虎頭",
+      "after": "白虎頭",
+      "replace_in_linked_readings": [
+        "〔白〕虎頭",
+        "白虎頭"
+      ]
+    },
+    {
+      "frame": 74,
+      "unit": "f074-c02",
+      "image_sha256": "5df5bac04e9da592402c596adeed4533c36804e912ce9ee73d9f42236479bfb6",
+      "image_bbox": [
+        1270,
+        2710,
+        1440,
+        2940
+      ],
+      "reason": "疼後一字上從口、下有由中軸落下的足部筆畫。旁邊的鏡像反透未併入本字。",
+      "before": "寒熱未清口渴吐惡已止頭疼乏疲舌白",
+      "after": "寒熱未清口渴吐惡已止頭疼足疲舌白",
+      "replace_in_linked_readings": [
+        "頭疼乏疲",
+        "頭疼足疲"
+      ]
+    }
+  ],
+  "cross_checks": [
+    {
+      "frames": [
+        29,
+        30,
+        31
+      ],
+      "note": "030日期荷月初一日，正向筆及反透分列；031有相近的再診字句，仍保留各葉獨立位置。"
+    },
+    {
+      "frames": [
+        61,
+        62
+      ],
+      "note": "062破缺與061同葉。062辨朱右、十二月廿三日診。"
+    },
+    {
+      "frames": [
+        3,
+        111
+      ],
+      "note": "配準比對紙折、墨筆和殘痕。111保留色卡重拍定位，閱讀序沿003。"
+    },
+    {
+      "frames": [
+        109,
+        110
+      ],
+      "note": "末案陳左。110反透可與109相合，裝訂邊另外留未辨筆痕。"
+    }
+  ],
+  "description": "全111幅雙面版面盤點，放大查核個別診案、日期及旁記。全文疑讀持續標記。"
+}

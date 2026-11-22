@@ -2,7 +2,7 @@ cff-version: 1.2.0
 type: dataset
 title: '臨診醫案抄之三（柏林 Slg. Unschuld 8373） / Lin zhen yi an chao zhi san [Hand-copied
   medical cases with clinical diagnosis III]: Transcription Dataset'
-version: 0.1.0
+version: 0.2.0
 message: Please cite this dataset version and source copy.
 authors:
 - family-names: Chu
